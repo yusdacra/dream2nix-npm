@@ -69,6 +69,7 @@
 
       lockOutputs = ilib.mkLocksOutputs {tree = genTree;};
     in {
+      hydraJobs = l.mapAttrs (_: pkg: {${system} = pkg;}) lockOutputs;
       packages.${system} = lockOutputs;
       apps.${system} = {
         translate = {
