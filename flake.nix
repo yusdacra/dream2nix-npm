@@ -22,10 +22,43 @@
         inherit system;
         subsystem = "nodejs";
         fetcherName = "npm";
-        translatorName = "package-lock";
+        translatorForPath = {
+          "package-lock.json" = "package-lock";
+          "yarn.lock" = "yarn-lock";
+          __default = "package-json";
+        };
       };
+
+      genTree = dream2nix.lib.dlib.prepareSourceTree {source = ./gen;};
+      index = genTree.files."index.json".jsonContent;
+
+      translateScript = let
+        pkgsUnflattened =
+          l.mapAttrsToList
+          (
+            name: versions:
+              l.mapAttrsToList
+              (
+                version: hash:
+                  {inherit name version;}
+                  // (l.optionalAttrs (hash != null) {inherit hash;})
+              )
+              versions
+          )
+          index;
+      in
+        ilib.translateBin (l.flatten pkgsUnflattened);
+
+      lockOutputs = ilib.mkLocksOutputs {tree = genTree;};
     in {
-      lib.${system} = {inherit ilib;};
+      packages.${system} = lockOutputs;
+      apps.${system} = {
+        translate = {
+          type = "app";
+          program = toString translateScript;
+        };
+      };
+      lib.${system} = {inherit ilib translateScript;};
     };
   in
     l.foldl'
