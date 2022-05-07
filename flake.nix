@@ -28,6 +28,7 @@
           __default = "package-json";
         };
       };
+      pkgs = inputs.nixpkgs.legacyPackages.${system};
 
       genTree = dream2nix.lib.dlib.prepareSourceTree {source = ./gen;};
       index = genTree.files."index.json".jsonContent;
@@ -49,6 +50,23 @@
       in
         ilib.translateBin (l.flatten pkgsUnflattened);
 
+      indexer = with pkgs;
+        writeScript
+        "indexer.sh"
+        ''
+          #!${stdenv.shell}
+          url="https://registry.npmjs.org/-/v1/search?text=$1&popularity=1.0&quality=0.0&maintenance=0.0&size=250"
+          ${curl}/bin/curl -k "$url" \
+            | ${jq}/bin/jq '[.objects[].package | {(.name): {(.version): null}}] | add' -r
+        '';
+      indexScript = with pkgs;
+        writeScript
+        "index.sh"
+        ''
+          #!${stdenv.shell}
+          ${indexer} "keywords:bin" > gen/index.json
+        '';
+
       lockOutputs = ilib.mkLocksOutputs {tree = genTree;};
     in {
       packages.${system} = lockOutputs;
@@ -56,6 +74,10 @@
         translate = {
           type = "app";
           program = toString translateScript;
+        };
+        index = {
+          type = "app";
+          program = toString indexScript;
         };
       };
       lib.${system} = {inherit ilib translateScript;};
