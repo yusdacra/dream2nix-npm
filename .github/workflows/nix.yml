@@ -20,6 +20,7 @@ jobs:
     - name: Index packages
       run: nix run .#index
     - name: Translate locks
+      continue-on-error: true
       run: |
         rm -rf ./gen/locks
         JOBS=20 nix run .#translate
