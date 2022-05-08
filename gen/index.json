@@ -218,11 +218,11 @@
   "slugify-files": {
     "2.1.0": null
   },
-  "help-version": {
-    "1.1.1": null
-  },
   "zfinder": {
     "0.2.10": null
+  },
+  "help-version": {
+    "1.1.1": null
   },
   "@hugojosefson/example-cli": {
     "4.0.1": null
@@ -365,9 +365,6 @@
   "strip-shebang": {
     "2.0.0": null
   },
-  "list-npm-contents": {
-    "1.0.2": null
-  },
   "boxpack": {
     "0.1.0": null
   },
@@ -376,6 +373,9 @@
   },
   "exec-bin": {
     "1.0.0": null
+  },
+  "list-npm-contents": {
+    "1.0.2": null
   },
   "line-count": {
     "0.1.0": null
@@ -647,11 +647,11 @@
   "@marchyang/npm-run-path": {
     "5.0.1": null
   },
-  "config-strip-debug": {
-    "1.0.1": null
-  },
   "@commonify/npm-run-path": {
     "5.0.1": null
+  },
+  "config-strip-debug": {
+    "1.0.1": null
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
@@ -728,14 +728,14 @@
   "whereissync": {
     "1.0.1": null
   },
-  "bin-pls": {
-    "1.0.1": null
+  "xcm": {
+    "1.0.4": null
   },
   "npm-package-bin": {
     "0.0.6": null
   },
-  "xcm": {
-    "1.0.4": null
+  "bin-pls": {
+    "1.0.1": null
   },
   "tusd-static-win32": {
     "1.1.0": null

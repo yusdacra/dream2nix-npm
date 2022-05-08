@@ -55,16 +55,22 @@
         "indexer.sh"
         ''
           #!${stdenv.shell}
-          url="https://registry.npmjs.org/-/v1/search?text=$1&popularity=1.0&quality=0.0&maintenance=0.0&size=250"
+
+          if [ -n "$1" ] && [ -n "$2" ]; then
+            text=$1
+            size=$2
+          elif [ -n "$1" ]; then
+            text=$1
+            size=250
+          else
+            text="keywords:bin"
+            size=250
+          fi
+
+          url="https://registry.npmjs.org/-/v1/search?text=$text&popularity=1.0&quality=0.0&maintenance=0.0&size=$size"
           ${curl}/bin/curl -k "$url" \
-            | ${jq}/bin/jq '[.objects[].package | {(.name): {(.version): null}}] | add' -r
-        '';
-      indexScript = with pkgs;
-        writeScript
-        "index.sh"
-        ''
-          #!${stdenv.shell}
-          ${indexer} "keywords:bin" > gen/index.json
+            | ${jq}/bin/jq '[.objects[].package | {(.name): {(.version): null}}] | add' -r \
+            > gen/index.json
         '';
 
       lockOutputs = ilib.mkLocksOutputs {tree = genTree;};
@@ -78,7 +84,7 @@
         };
         index = {
           type = "app";
-          program = toString indexScript;
+          program = toString indexer;
         };
       };
       lib.${system} = {inherit ilib translateScript;};
