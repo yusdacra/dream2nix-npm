@@ -1,0 +1,170 @@
+{
+  "_generic": {
+    "defaultPackage": "@testup/cli",
+    "location": "",
+    "packages": {
+      "@testup/cli": "0.6.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "@testup/cli": {
+      "0.6.0": [
+        [
+          "coa",
+          "2.0.2"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ]
+      ]
+    },
+    "ansi-styles": {
+      "3.2.1": [
+        [
+          "color-convert",
+          "1.9.3"
+        ]
+      ]
+    },
+    "chalk": {
+      "2.4.2": [
+        [
+          "ansi-styles",
+          "3.2.1"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "supports-color",
+          "5.5.0"
+        ]
+      ]
+    },
+    "coa": {
+      "2.0.2": [
+        [
+          "@types/q",
+          "1.5.5"
+        ],
+        [
+          "chalk",
+          "2.4.2"
+        ],
+        [
+          "q",
+          "1.5.1"
+        ]
+      ]
+    },
+    "color-convert": {
+      "1.9.3": [
+        [
+          "color-name",
+          "1.1.3"
+        ]
+      ]
+    },
+    "supports-color": {
+      "5.5.0": [
+        [
+          "has-flag",
+          "3.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "@types/q": {
+      "1.5.5": {
+        "hash": "sha512-L28j2FcJfSZOnL1WBjDYp2vUHCeIFlyYI/53EwD/rKUBQ7MtUUfbQWiyKJGpcnv4/WgrhWsFKrcPstcAt/J0tQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/@types/q/-/q-1.5.5.tgz"
+      }
+    },
+    "ansi-styles": {
+      "3.2.1": {
+        "hash": "sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
+      }
+    },
+    "chalk": {
+      "2.4.2": {
+        "hash": "sha512-Mti+f9lpJNcwF4tWV8/OrTTtF1gZi+f8FqlyAdouralcFWFQWF2+NgCHShjkCb+IFBLq9buZwE1xckQU4peSuQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz"
+      }
+    },
+    "coa": {
+      "2.0.2": {
+        "hash": "sha512-q5/jG+YQnSy4nRTV4F7lPepBJZ8qBNJJDBuJdoejDyLXgmL7IEo+Le2JDZudFTFt7mrCqIRaSjws4ygRCTCAXA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/coa/-/coa-2.0.2.tgz"
+      }
+    },
+    "color-convert": {
+      "1.9.3": {
+        "hash": "sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
+      }
+    },
+    "color-name": {
+      "1.1.3": {
+        "hash": "sha1-p9BVi9icQveV3UIyj3QIMcpTvCU=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz"
+      }
+    },
+    "escape-string-regexp": {
+      "1.0.5": {
+        "hash": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+      }
+    },
+    "has-flag": {
+      "3.0.0": {
+        "hash": "sha1-tdRU3CGZriJWmfNGfloH87lVuv0=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-flag/-/has-flag-3.0.0.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "q": {
+      "1.5.1": {
+        "hash": "sha1-fjL3W0E4EpHQRhHxvxQQmsAGUdc=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/q/-/q-1.5.1.tgz"
+      }
+    },
+    "supports-color": {
+      "5.5.0": {
+        "hash": "sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz"
+      }
+    },
+    "@testup/cli": {
+      "0.6.0": {
+        "hash": "sha256-tqft1z5tHZMtaB82rnBTWq9RBp+XC7O3vHo2lZy9kwE=",
+        "type": "npm"
+      }
+    }
+  }
+}

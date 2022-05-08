@@ -41,11 +41,11 @@
   "direction": {
     "2.0.1": null
   },
-  "magicli": {
-    "0.2.1": null
-  },
   "any-base": {
     "1.1.0": null
+  },
+  "magicli": {
+    "0.2.1": null
   },
   "trash-cli": {
     "5.0.0": null
@@ -287,11 +287,11 @@
   "test-engine": {
     "0.1.0": null
   },
-  "ipv4-to-bin": {
-    "0.1.1": null
-  },
   "node-diff-bin": {
     "0.1.0": null
+  },
+  "ipv4-to-bin": {
+    "0.1.1": null
   },
   "emailing": {
     "0.0.6": null
@@ -731,11 +731,11 @@
   "xcm": {
     "1.0.4": null
   },
-  "npm-package-bin": {
-    "0.0.6": null
-  },
   "bin-pls": {
     "1.0.1": null
+  },
+  "npm-package-bin": {
+    "0.0.6": null
   },
   "tusd-static-win32": {
     "1.1.0": null

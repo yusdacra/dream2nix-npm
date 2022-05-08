@@ -1,0 +1,51 @@
+{
+  "_generic": {
+    "defaultPackage": "hexdump.js",
+    "location": "",
+    "packages": {
+      "hexdump.js": "1.1.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "hexdump.js": {
+      "1.1.0": [
+        [
+          "@root/hexdump",
+          "1.1.1"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "@root/hexdump": {
+      "1.1.1": {
+        "hash": "sha512-AmrmLOutlzctR599ittO06lINOco1TIqb0c1wu83fP2Eoi5iSvx7kVWC4mDufze8rxPewC+aQOx4e6Pw7izV4A==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/@root/hexdump/-/hexdump-1.1.1.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "hexdump.js": {
+      "1.1.0": {
+        "hash": "sha256-hIi4GvouCUWH3TG3XuRrHIrbv5/9QT/Ra7i29SPvMb8=",
+        "type": "npm"
+      }
+    }
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "_generic": {
+    "defaultPackage": "yeoman-character",
+    "location": "",
+    "packages": {
+      "yeoman-character": "1.1.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "ava": {
+      "0.0.4": [
+        [
+          "chalk",
+          "0.5.1"
+        ],
+        [
+          "each-async",
+          "1.1.1"
+        ],
+        [
+          "log-symbols",
+          "1.0.2"
+        ],
+        [
+          "minimist",
+          "1.2.6"
+        ]
+      ]
+    },
+    "chalk": {
+      "0.5.1": [
+        [
+          "ansi-styles",
+          "1.1.0"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "has-ansi",
+          "0.1.0"
+        ],
+        [
+          "strip-ansi",
+          "0.3.0"
+        ],
+        [
+          "supports-color",
+          "0.2.0"
+        ]
+      ],
+      "1.1.3": [
+        [
+          "ansi-styles",
+          "2.2.1"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "has-ansi",
+          "2.0.0"
+        ],
+        [
+          "strip-ansi",
+          "3.0.1"
+        ],
+        [
+          "supports-color",
+          "2.0.0"
+        ]
+      ]
+    },
+    "each-async": {
+      "1.1.1": [
+        [
+          "onetime",
+          "1.1.0"
+        ],
+        [
+          "set-immediate-shim",
+          "1.0.1"
+        ]
+      ]
+    },
+    "has-ansi": {
+      "0.1.0": [
+        [
+          "ansi-regex",
+          "0.2.1"
+        ]
+      ],
+      "2.0.0": [
+        [
+          "ansi-regex",
+          "2.1.1"
+        ]
+      ]
+    },
+    "log-symbols": {
+      "1.0.2": [
+        [
+          "chalk",
+          "1.1.3"
+        ]
+      ]
+    },
+    "strip-ansi": {
+      "0.3.0": [
+        [
+          "ansi-regex",
+          "0.2.1"
+        ]
+      ],
+      "3.0.1": [
+        [
+          "ansi-regex",
+          "2.1.1"
+        ]
+      ]
+    },
+    "supports-color": {
+      "3.2.3": [
+        [
+          "has-flag",
+          "1.0.0"
+        ]
+      ]
+    },
+    "yeoman-character": {
+      "1.1.0": [
+        [
+          "ava",
+          "0.0.4"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "supports-color",
+          "3.2.3"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "ansi-regex": {
+      "0.2.1": {
+        "hash": "sha1-DY6UaWej2BQ/k+JOKYUl/BsiNfk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz"
+      },
+      "2.1.1": {
+        "hash": "sha1-w7M6te42DYbg5ijwRorn7yfWVN8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz"
+      }
+    },
+    "ansi-styles": {
+      "1.1.0": {
+        "hash": "sha1-6uy/Zs1waIJ2Cy9GkVgrj1XXp94=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz"
+      },
+      "2.2.1": {
+        "hash": "sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz"
+      }
+    },
+    "ava": {
+      "0.0.4": {
+        "hash": "sha1-RfwilU1gtH/kfNbM5d4ui/M7yCQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ava/-/ava-0.0.4.tgz"
+      }
+    },
+    "chalk": {
+      "0.5.1": {
+        "hash": "sha1-Zjs6ZItotV0EaQ1JFnqoN4WPIXQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-0.5.1.tgz"
+      },
+      "1.1.3": {
+        "hash": "sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz"
+      }
+    },
+    "each-async": {
+      "1.1.1": {
+        "hash": "sha1-3uUim98KtrogEqOV4bhpq/iBNHM=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/each-async/-/each-async-1.1.1.tgz"
+      }
+    },
+    "escape-string-regexp": {
+      "1.0.5": {
+        "hash": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+      }
+    },
+    "has-ansi": {
+      "0.1.0": {
+        "hash": "sha1-hPJlqujA5qiKEtcCKJS3VoiUxi4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz"
+      },
+      "2.0.0": {
+        "hash": "sha1-NPUEnOHs3ysGSa8+8k5F7TVBbZE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz"
+      }
+    },
+    "has-flag": {
+      "1.0.0": {
+        "hash": "sha1-nZ55MWXOAXoA8AQYxD+UKnsdEfo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-flag/-/has-flag-1.0.0.tgz"
+      }
+    },
+    "log-symbols": {
+      "1.0.2": {
+        "hash": "sha1-N2/3tY6jCGoPCfrMdGF+ylAeGhg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/log-symbols/-/log-symbols-1.0.2.tgz"
+      }
+    },
+    "minimist": {
+      "1.2.6": {
+        "hash": "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "onetime": {
+      "1.1.0": {
+        "hash": "sha1-ofeDj4MUxRbwXs78vEzP4EtO14k=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz"
+      }
+    },
+    "set-immediate-shim": {
+      "1.0.1": {
+        "hash": "sha1-SysbJ+uAip+NzEgaWOXlb1mfP2E=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/set-immediate-shim/-/set-immediate-shim-1.0.1.tgz"
+      }
+    },
+    "strip-ansi": {
+      "0.3.0": {
+        "hash": "sha1-JfSOoiynkYfzF0pNuHWTR7sSYiA=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz"
+      },
+      "3.0.1": {
+        "hash": "sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz"
+      }
+    },
+    "supports-color": {
+      "0.2.0": {
+        "hash": "sha1-2S3iaU6z9nMjlz1649i1W0wiGQo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-0.2.0.tgz"
+      },
+      "2.0.0": {
+        "hash": "sha1-U10EXOa2Nj+kARcIRimZXp3zJMc=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
+      },
+      "3.2.3": {
+        "hash": "sha1-ZawFBLOVQXHYpklGsq48u4pfVPY=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-3.2.3.tgz"
+      }
+    },
+    "yeoman-character": {
+      "1.1.0": {
+        "hash": "sha256-JWOownUojkC9FPds6Kbmf5Zq/t0OZlwZBVCGqirQaik=",
+        "type": "npm"
+      }
+    }
+  }
+}

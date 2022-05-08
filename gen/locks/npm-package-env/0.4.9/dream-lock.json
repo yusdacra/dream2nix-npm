@@ -1,0 +1,498 @@
+{
+  "_generic": {
+    "defaultPackage": "npm-package-env",
+    "location": "",
+    "packages": {
+      "npm-package-env": "0.4.9"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {
+    "npm-package-env": {
+      "0.4.9": [
+        [
+          "npm-package-env",
+          "0.4.9"
+        ]
+      ]
+    }
+  },
+  "dependencies": {
+    "brace-expansion": {
+      "1.1.11": [
+        [
+          "balanced-match",
+          "1.0.2"
+        ],
+        [
+          "concat-map",
+          "0.0.1"
+        ]
+      ]
+    },
+    "commander": {
+      "2.9.0": [
+        [
+          "graceful-readlink",
+          "1.0.1"
+        ]
+      ]
+    },
+    "debug": {
+      "2.6.8": [
+        [
+          "ms",
+          "2.0.0"
+        ]
+      ]
+    },
+    "glob": {
+      "7.1.1": [
+        [
+          "fs.realpath",
+          "1.0.0"
+        ],
+        [
+          "inflight",
+          "1.0.6"
+        ],
+        [
+          "inherits",
+          "2.0.4"
+        ],
+        [
+          "minimatch",
+          "3.1.2"
+        ],
+        [
+          "once",
+          "1.4.0"
+        ],
+        [
+          "path-is-absolute",
+          "1.0.1"
+        ]
+      ]
+    },
+    "inflight": {
+      "1.0.6": [
+        [
+          "once",
+          "1.4.0"
+        ],
+        [
+          "wrappy",
+          "1.0.2"
+        ]
+      ]
+    },
+    "lodash._baseassign": {
+      "3.2.0": [
+        [
+          "lodash._basecopy",
+          "3.0.1"
+        ],
+        [
+          "lodash.keys",
+          "3.1.2"
+        ]
+      ]
+    },
+    "lodash.create": {
+      "3.1.1": [
+        [
+          "lodash._baseassign",
+          "3.2.0"
+        ],
+        [
+          "lodash._basecreate",
+          "3.0.3"
+        ],
+        [
+          "lodash._isiterateecall",
+          "3.0.9"
+        ]
+      ]
+    },
+    "lodash.keys": {
+      "3.1.2": [
+        [
+          "lodash._getnative",
+          "3.9.1"
+        ],
+        [
+          "lodash.isarguments",
+          "3.1.0"
+        ],
+        [
+          "lodash.isarray",
+          "3.0.4"
+        ]
+      ]
+    },
+    "minimatch": {
+      "3.1.2": [
+        [
+          "brace-expansion",
+          "1.1.11"
+        ]
+      ]
+    },
+    "mkdirp": {
+      "0.5.1": [
+        [
+          "minimist",
+          "0.0.8"
+        ]
+      ]
+    },
+    "mocha": {
+      "3.5.3": [
+        [
+          "browser-stdout",
+          "1.3.0"
+        ],
+        [
+          "commander",
+          "2.9.0"
+        ],
+        [
+          "debug",
+          "2.6.8"
+        ],
+        [
+          "diff",
+          "3.2.0"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "glob",
+          "7.1.1"
+        ],
+        [
+          "growl",
+          "1.9.2"
+        ],
+        [
+          "he",
+          "1.1.1"
+        ],
+        [
+          "json3",
+          "3.3.2"
+        ],
+        [
+          "lodash.create",
+          "3.1.1"
+        ],
+        [
+          "mkdirp",
+          "0.5.1"
+        ],
+        [
+          "supports-color",
+          "3.1.2"
+        ]
+      ]
+    },
+    "npm-package-env": {
+      "0.4.9": [
+        [
+          "mocha",
+          "3.5.3"
+        ],
+        [
+          "npm-package-env",
+          "0.4.9"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ]
+      ]
+    },
+    "once": {
+      "1.4.0": [
+        [
+          "wrappy",
+          "1.0.2"
+        ]
+      ]
+    },
+    "supports-color": {
+      "3.1.2": [
+        [
+          "has-flag",
+          "1.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "balanced-match": {
+      "1.0.2": {
+        "hash": "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz"
+      }
+    },
+    "brace-expansion": {
+      "1.1.11": {
+        "hash": "sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz"
+      }
+    },
+    "browser-stdout": {
+      "1.3.0": {
+        "hash": "sha1-81HTKWnTL6XXpVZxVCY9korjvR8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/browser-stdout/-/browser-stdout-1.3.0.tgz"
+      }
+    },
+    "commander": {
+      "2.9.0": {
+        "hash": "sha1-nJkJQXbhIkDLItbFFGCYQA/g99Q=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/commander/-/commander-2.9.0.tgz"
+      }
+    },
+    "concat-map": {
+      "0.0.1": {
+        "hash": "sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
+      }
+    },
+    "debug": {
+      "2.6.8": {
+        "hash": "sha1-5zFTHKLt4n0YgiJCfaF4IdaP9Pw=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/debug/-/debug-2.6.8.tgz"
+      }
+    },
+    "diff": {
+      "3.2.0": {
+        "hash": "sha1-yc45Okt8vQsFinJck98pkCeGj/k=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/diff/-/diff-3.2.0.tgz"
+      }
+    },
+    "escape-string-regexp": {
+      "1.0.5": {
+        "hash": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+      }
+    },
+    "fs.realpath": {
+      "1.0.0": {
+        "hash": "sha1-FQStJSMVjKpA20onh8sBQRmU6k8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
+      }
+    },
+    "glob": {
+      "7.1.1": {
+        "hash": "sha1-gFIR3wT6rxxjo2ADBs31reULLsg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/glob/-/glob-7.1.1.tgz"
+      }
+    },
+    "graceful-readlink": {
+      "1.0.1": {
+        "hash": "sha1-TK+tdrxi8C+gObL5Tpo906ORpyU=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/graceful-readlink/-/graceful-readlink-1.0.1.tgz"
+      }
+    },
+    "growl": {
+      "1.9.2": {
+        "hash": "sha1-Dqd0NxXbjY3ixe3hd14bRayFwC8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/growl/-/growl-1.9.2.tgz"
+      }
+    },
+    "has-flag": {
+      "1.0.0": {
+        "hash": "sha1-nZ55MWXOAXoA8AQYxD+UKnsdEfo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-flag/-/has-flag-1.0.0.tgz"
+      }
+    },
+    "he": {
+      "1.1.1": {
+        "hash": "sha1-k0EP0hsAlzUVH4howvJx80J+I/0=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/he/-/he-1.1.1.tgz"
+      }
+    },
+    "inflight": {
+      "1.0.6": {
+        "hash": "sha1-Sb1jMdfQLQwJvJEKEHW6gWW1bfk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz"
+      }
+    },
+    "inherits": {
+      "2.0.4": {
+        "hash": "sha512-k/vGaX4/Yla3WzyMCvTQOXYeIHvqOKtnqBduzTHpzpQZzAskKMhZ2K+EnBiSM9zGSoIFeMpXKxa4dYeZIQqewQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz"
+      }
+    },
+    "json3": {
+      "3.3.2": {
+        "hash": "sha1-PAQ0dD35Pi9cQq7nsZvLSDV19OE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/json3/-/json3-3.3.2.tgz"
+      }
+    },
+    "lodash._baseassign": {
+      "3.2.0": {
+        "hash": "sha1-jDigmVAPIVrQnlnxci/QxSv+Ck4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash._baseassign/-/lodash._baseassign-3.2.0.tgz"
+      }
+    },
+    "lodash._basecopy": {
+      "3.0.1": {
+        "hash": "sha1-jaDmqHbPNEwK2KVIghEd08XHyjY=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash._basecopy/-/lodash._basecopy-3.0.1.tgz"
+      }
+    },
+    "lodash._basecreate": {
+      "3.0.3": {
+        "hash": "sha1-G8ZhYU2qf8MRt9A78WgGoCE8+CE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash._basecreate/-/lodash._basecreate-3.0.3.tgz"
+      }
+    },
+    "lodash._getnative": {
+      "3.9.1": {
+        "hash": "sha1-VwvH3t5G1hzc3mh9ZdPuy6o6r/U=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash._getnative/-/lodash._getnative-3.9.1.tgz"
+      }
+    },
+    "lodash._isiterateecall": {
+      "3.0.9": {
+        "hash": "sha1-UgOte6Ql+uhCRg5pbbnPPmqsBXw=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash._isiterateecall/-/lodash._isiterateecall-3.0.9.tgz"
+      }
+    },
+    "lodash.create": {
+      "3.1.1": {
+        "hash": "sha1-1/KEnw29p+BGgruM1yqwIkYd6+c=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash.create/-/lodash.create-3.1.1.tgz"
+      }
+    },
+    "lodash.isarguments": {
+      "3.1.0": {
+        "hash": "sha1-L1c9hcaiQon/AGY7SRwdM4/zRYo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash.isarguments/-/lodash.isarguments-3.1.0.tgz"
+      }
+    },
+    "lodash.isarray": {
+      "3.0.4": {
+        "hash": "sha1-eeTriMNqgSKvhvhEqpvNhRtfu1U=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash.isarray/-/lodash.isarray-3.0.4.tgz"
+      }
+    },
+    "lodash.keys": {
+      "3.1.2": {
+        "hash": "sha1-TbwEcrFWvlCgsoaFXRvQsMZWCYo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/lodash.keys/-/lodash.keys-3.1.2.tgz"
+      }
+    },
+    "minimatch": {
+      "3.1.2": {
+        "hash": "sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimatch/-/minimatch-3.1.2.tgz"
+      }
+    },
+    "minimist": {
+      "0.0.8": {
+        "hash": "sha1-hX/Kv8M5fSYluCKCYuhqp6ARsF0=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz"
+      }
+    },
+    "mkdirp": {
+      "0.5.1": {
+        "hash": "sha1-MAV0OOrGz3+MR2fzhkjWaX11yQM=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
+      }
+    },
+    "mocha": {
+      "3.5.3": {
+        "hash": "sha512-/6na001MJWEtYxHOV1WLfsmR4YIynkUEhBwzsb+fk2qmQ3iqsi258l/Q2MWHJMImAcNpZ8DEdYAK72NHoIQ9Eg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/mocha/-/mocha-3.5.3.tgz"
+      }
+    },
+    "ms": {
+      "2.0.0": {
+        "hash": "sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
+      }
+    },
+    "npm-package-env": {
+      "0.4.9": {
+        "hash": "sha256-QU4uL55o8YaIWc8vX6CbjE5O8TQVxqlidlFcOfDzXvU=",
+        "type": "npm"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "once": {
+      "1.4.0": {
+        "hash": "sha1-WDsap3WWHUsROsF9nFC6753Xa9E=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/once/-/once-1.4.0.tgz"
+      }
+    },
+    "path-is-absolute": {
+      "1.0.1": {
+        "hash": "sha1-F0uSaHNVNP+8es5r9TpanhtcX18=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+      }
+    },
+    "supports-color": {
+      "3.1.2": {
+        "hash": "sha1-cqJiiU2dQIuVbKBf83su2KbiotU=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-3.1.2.tgz"
+      }
+    },
+    "wrappy": {
+      "1.0.2": {
+        "hash": "sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz"
+      }
+    }
+  }
+}

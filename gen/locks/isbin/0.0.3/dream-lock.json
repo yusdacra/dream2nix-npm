@@ -1,0 +1,184 @@
+{
+  "_generic": {
+    "defaultPackage": "isbin",
+    "location": "",
+    "packages": {
+      "isbin": "0.0.3"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "debug": {
+      "4.3.4": [
+        [
+          "ms",
+          "2.1.2"
+        ]
+      ]
+    },
+    "isbin": {
+      "0.0.3": [
+        [
+          "async",
+          "0.1.22"
+        ],
+        [
+          "mocha",
+          "1.7.3"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "should",
+          "1.2.1"
+        ]
+      ]
+    },
+    "jade": {
+      "0.26.3": [
+        [
+          "commander",
+          "0.6.1"
+        ],
+        [
+          "mkdirp",
+          "0.3.0"
+        ]
+      ]
+    },
+    "mocha": {
+      "1.7.3": [
+        [
+          "commander",
+          "0.6.1"
+        ],
+        [
+          "debug",
+          "4.3.4"
+        ],
+        [
+          "diff",
+          "1.0.2"
+        ],
+        [
+          "growl",
+          "1.6.1"
+        ],
+        [
+          "jade",
+          "0.26.3"
+        ],
+        [
+          "mkdirp",
+          "0.3.3"
+        ],
+        [
+          "ms",
+          "0.3.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "async": {
+      "0.1.22": {
+        "hash": "sha1-D8GqoIig4+8Ovi2IMbqw3PiEUGE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/async/-/async-0.1.22.tgz"
+      }
+    },
+    "commander": {
+      "0.6.1": {
+        "hash": "sha1-+mihT2qUXVTbvlDYzbMyDp47GgY=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/commander/-/commander-0.6.1.tgz"
+      }
+    },
+    "debug": {
+      "4.3.4": {
+        "hash": "sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
+      }
+    },
+    "diff": {
+      "1.0.2": {
+        "hash": "sha1-Suc/Gu6Nb89ITxoc53zmUdm38Mk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/diff/-/diff-1.0.2.tgz"
+      }
+    },
+    "growl": {
+      "1.6.1": {
+        "hash": "sha1-xNm7ro+aVyKV2gYrA81z4e8uFLI=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/growl/-/growl-1.6.1.tgz"
+      }
+    },
+    "jade": {
+      "0.26.3": {
+        "hash": "sha1-jxDXl32NefL2/4YqgbBRPMslaGw=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/jade/-/jade-0.26.3.tgz"
+      }
+    },
+    "mkdirp": {
+      "0.3.0": {
+        "hash": "sha1-G79asbqCevI1dRQ0kEJkVfSB/h4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.3.0.tgz"
+      },
+      "0.3.3": {
+        "hash": "sha1-WV4lHBNww6aLqyE20ONIuBBa3xM=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.3.3.tgz"
+      }
+    },
+    "mocha": {
+      "1.7.3": {
+        "hash": "sha1-3r4aZocsVyoUFuH9jT7XhBhtqRk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/mocha/-/mocha-1.7.3.tgz"
+      }
+    },
+    "ms": {
+      "0.3.0": {
+        "hash": "sha1-A+3DSNYT5mpWSGz9rFO8vomcvWE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ms/-/ms-0.3.0.tgz"
+      },
+      "2.1.2": {
+        "hash": "sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "should": {
+      "1.2.1": {
+        "hash": "sha1-ShgolBzLxjjVPHnk7xflMzKFgbg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/should/-/should-1.2.1.tgz"
+      }
+    },
+    "isbin": {
+      "0.0.3": {
+        "hash": "sha256-Ya84szTewvdreZpO6jrPu3Yv6ApyhDKmhnpz3jxZA6w=",
+        "type": "npm"
+      }
+    }
+  }
+}

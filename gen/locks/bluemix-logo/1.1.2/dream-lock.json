@@ -1,0 +1,66 @@
+{
+  "_generic": {
+    "defaultPackage": "bluemix-logo",
+    "location": "",
+    "packages": {
+      "bluemix-logo": "1.1.2"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "bluemix-logo": {
+      "1.1.2": [
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "supports-color",
+          "3.2.3"
+        ]
+      ]
+    },
+    "supports-color": {
+      "3.2.3": [
+        [
+          "has-flag",
+          "1.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "has-flag": {
+      "1.0.0": {
+        "hash": "sha1-nZ55MWXOAXoA8AQYxD+UKnsdEfo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-flag/-/has-flag-1.0.0.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "supports-color": {
+      "3.2.3": {
+        "hash": "sha1-ZawFBLOVQXHYpklGsq48u4pfVPY=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-3.2.3.tgz"
+      }
+    },
+    "bluemix-logo": {
+      "1.1.2": {
+        "hash": "sha256-9X60NbdSSJK4xh3+fZHX1xft2Tz6d7aSwU1OQ5kOhJc=",
+        "type": "npm"
+      }
+    }
+  }
+}

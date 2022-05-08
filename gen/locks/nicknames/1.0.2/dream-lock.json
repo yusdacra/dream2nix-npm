@@ -1,0 +1,428 @@
+{
+  "_generic": {
+    "defaultPackage": "nicknames",
+    "location": "",
+    "packages": {
+      "nicknames": "1.0.2"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "ava": {
+      "0.0.4": [
+        [
+          "chalk",
+          "0.5.1"
+        ],
+        [
+          "each-async",
+          "1.1.1"
+        ],
+        [
+          "log-symbols",
+          "1.0.2"
+        ],
+        [
+          "minimist",
+          "1.2.6"
+        ]
+      ]
+    },
+    "camelcase-keys": {
+      "1.0.0": [
+        [
+          "camelcase",
+          "1.2.1"
+        ],
+        [
+          "map-obj",
+          "1.0.1"
+        ]
+      ]
+    },
+    "chalk": {
+      "0.5.1": [
+        [
+          "ansi-styles",
+          "1.1.0"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "has-ansi",
+          "0.1.0"
+        ],
+        [
+          "strip-ansi",
+          "0.3.0"
+        ],
+        [
+          "supports-color",
+          "0.2.0"
+        ]
+      ],
+      "1.1.3": [
+        [
+          "ansi-styles",
+          "2.2.1"
+        ],
+        [
+          "escape-string-regexp",
+          "1.0.5"
+        ],
+        [
+          "has-ansi",
+          "2.0.0"
+        ],
+        [
+          "strip-ansi",
+          "3.0.1"
+        ],
+        [
+          "supports-color",
+          "2.0.0"
+        ]
+      ]
+    },
+    "each-async": {
+      "1.1.1": [
+        [
+          "onetime",
+          "1.1.0"
+        ],
+        [
+          "set-immediate-shim",
+          "1.0.1"
+        ]
+      ]
+    },
+    "has-ansi": {
+      "0.1.0": [
+        [
+          "ansi-regex",
+          "0.2.1"
+        ]
+      ],
+      "2.0.0": [
+        [
+          "ansi-regex",
+          "2.1.1"
+        ]
+      ]
+    },
+    "indent-string": {
+      "1.2.2": [
+        [
+          "get-stdin",
+          "4.0.1"
+        ],
+        [
+          "minimist",
+          "1.2.6"
+        ],
+        [
+          "repeating",
+          "1.1.3"
+        ]
+      ]
+    },
+    "log-symbols": {
+      "1.0.2": [
+        [
+          "chalk",
+          "1.1.3"
+        ]
+      ]
+    },
+    "meow": {
+      "2.1.0": [
+        [
+          "camelcase-keys",
+          "1.0.0"
+        ],
+        [
+          "indent-string",
+          "1.2.2"
+        ],
+        [
+          "minimist",
+          "1.2.6"
+        ],
+        [
+          "object-assign",
+          "2.1.1"
+        ]
+      ]
+    },
+    "nicknames": {
+      "1.0.2": [
+        [
+          "ava",
+          "0.0.4"
+        ],
+        [
+          "meow",
+          "2.1.0"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "unique-random-array",
+          "1.0.1"
+        ]
+      ]
+    },
+    "repeating": {
+      "1.1.3": [
+        [
+          "is-finite",
+          "1.1.0"
+        ]
+      ]
+    },
+    "strip-ansi": {
+      "0.3.0": [
+        [
+          "ansi-regex",
+          "0.2.1"
+        ]
+      ],
+      "3.0.1": [
+        [
+          "ansi-regex",
+          "2.1.1"
+        ]
+      ]
+    },
+    "unique-random-array": {
+      "1.0.1": [
+        [
+          "unique-random",
+          "1.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "ansi-regex": {
+      "0.2.1": {
+        "hash": "sha1-DY6UaWej2BQ/k+JOKYUl/BsiNfk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz"
+      },
+      "2.1.1": {
+        "hash": "sha1-w7M6te42DYbg5ijwRorn7yfWVN8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz"
+      }
+    },
+    "ansi-styles": {
+      "1.1.0": {
+        "hash": "sha1-6uy/Zs1waIJ2Cy9GkVgrj1XXp94=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz"
+      },
+      "2.2.1": {
+        "hash": "sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz"
+      }
+    },
+    "ava": {
+      "0.0.4": {
+        "hash": "sha1-RfwilU1gtH/kfNbM5d4ui/M7yCQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ava/-/ava-0.0.4.tgz"
+      }
+    },
+    "camelcase": {
+      "1.2.1": {
+        "hash": "sha1-m7UwTS4LVmmLLHWLCKPqqdqlijk=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/camelcase/-/camelcase-1.2.1.tgz"
+      }
+    },
+    "camelcase-keys": {
+      "1.0.0": {
+        "hash": "sha1-vRoRv5sxoc5JNJOpMN4aC69K1+w=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/camelcase-keys/-/camelcase-keys-1.0.0.tgz"
+      }
+    },
+    "chalk": {
+      "0.5.1": {
+        "hash": "sha1-Zjs6ZItotV0EaQ1JFnqoN4WPIXQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-0.5.1.tgz"
+      },
+      "1.1.3": {
+        "hash": "sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz"
+      }
+    },
+    "each-async": {
+      "1.1.1": {
+        "hash": "sha1-3uUim98KtrogEqOV4bhpq/iBNHM=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/each-async/-/each-async-1.1.1.tgz"
+      }
+    },
+    "escape-string-regexp": {
+      "1.0.5": {
+        "hash": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+      }
+    },
+    "get-stdin": {
+      "4.0.1": {
+        "hash": "sha1-uWjGsKBDhDJJAui/Gl3zJXmkUP4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/get-stdin/-/get-stdin-4.0.1.tgz"
+      }
+    },
+    "has-ansi": {
+      "0.1.0": {
+        "hash": "sha1-hPJlqujA5qiKEtcCKJS3VoiUxi4=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz"
+      },
+      "2.0.0": {
+        "hash": "sha1-NPUEnOHs3ysGSa8+8k5F7TVBbZE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz"
+      }
+    },
+    "indent-string": {
+      "1.2.2": {
+        "hash": "sha1-25m8xYPrarux5I3LsZmamGBBy2s=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/indent-string/-/indent-string-1.2.2.tgz"
+      }
+    },
+    "is-finite": {
+      "1.1.0": {
+        "hash": "sha512-cdyMtqX/BOqqNBBiKlIVkytNHm49MtMlYyn1zxzvJKWmFMlGzm+ry5BBfYyeY9YmNKbRSo/o7OX9w9ale0wg3w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/is-finite/-/is-finite-1.1.0.tgz"
+      }
+    },
+    "log-symbols": {
+      "1.0.2": {
+        "hash": "sha1-N2/3tY6jCGoPCfrMdGF+ylAeGhg=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/log-symbols/-/log-symbols-1.0.2.tgz"
+      }
+    },
+    "map-obj": {
+      "1.0.1": {
+        "hash": "sha1-2TPOuSBdgr3PSIb2dCvcK03qFG0=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/map-obj/-/map-obj-1.0.1.tgz"
+      }
+    },
+    "meow": {
+      "2.1.0": {
+        "hash": "sha1-OmP3eXfBUMFv2ESE0M72d8QYJ5k=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/meow/-/meow-2.1.0.tgz"
+      }
+    },
+    "minimist": {
+      "1.2.6": {
+        "hash": "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "object-assign": {
+      "2.1.1": {
+        "hash": "sha1-Q8NuXVaf+OSBbE76i+AtJpZ8GKo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/object-assign/-/object-assign-2.1.1.tgz"
+      }
+    },
+    "onetime": {
+      "1.1.0": {
+        "hash": "sha1-ofeDj4MUxRbwXs78vEzP4EtO14k=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/onetime/-/onetime-1.1.0.tgz"
+      }
+    },
+    "repeating": {
+      "1.1.3": {
+        "hash": "sha1-PUEUIYh3U3SU+X93+Xhfq4EPpKw=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/repeating/-/repeating-1.1.3.tgz"
+      }
+    },
+    "set-immediate-shim": {
+      "1.0.1": {
+        "hash": "sha1-SysbJ+uAip+NzEgaWOXlb1mfP2E=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/set-immediate-shim/-/set-immediate-shim-1.0.1.tgz"
+      }
+    },
+    "strip-ansi": {
+      "0.3.0": {
+        "hash": "sha1-JfSOoiynkYfzF0pNuHWTR7sSYiA=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz"
+      },
+      "3.0.1": {
+        "hash": "sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz"
+      }
+    },
+    "supports-color": {
+      "0.2.0": {
+        "hash": "sha1-2S3iaU6z9nMjlz1649i1W0wiGQo=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-0.2.0.tgz"
+      },
+      "2.0.0": {
+        "hash": "sha1-U10EXOa2Nj+kARcIRimZXp3zJMc=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
+      }
+    },
+    "unique-random": {
+      "1.0.0": {
+        "hash": "sha1-zj4iTIJCzTOg53sNcYDXfmti0MQ=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/unique-random/-/unique-random-1.0.0.tgz"
+      }
+    },
+    "unique-random-array": {
+      "1.0.1": {
+        "hash": "sha512-z9J/SV8CUIhIRROcHe9YUoAT6XthUJt0oUyLGgobiXJprDP9O9dsErNevvSaAv5BkhwFEVPn6nIEOKeNE6Ck1Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/unique-random-array/-/unique-random-array-1.0.1.tgz"
+      }
+    },
+    "nicknames": {
+      "1.0.2": {
+        "hash": "sha256-dQw2+gR2370zUGaJ2PJp98E7XflV4Qk1PkJKSZnM+MU=",
+        "type": "npm"
+      }
+    }
+  }
+}

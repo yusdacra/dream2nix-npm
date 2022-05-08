@@ -1,0 +1,376 @@
+{
+  "_generic": {
+    "defaultPackage": "vega-transforms",
+    "location": "",
+    "packages": {
+      "vega-transforms": "4.10.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "d3-array": {
+      "3.1.6": [
+        [
+          "internmap",
+          "2.0.3"
+        ]
+      ]
+    },
+    "d3-dsv": {
+      "3.0.1": [
+        [
+          "commander",
+          "7.2.0"
+        ],
+        [
+          "iconv-lite",
+          "0.6.3"
+        ],
+        [
+          "rw",
+          "1.3.3"
+        ]
+      ]
+    },
+    "d3-time": {
+      "3.0.0": [
+        [
+          "d3-array",
+          "3.1.6"
+        ]
+      ]
+    },
+    "d3-time-format": {
+      "4.1.0": [
+        [
+          "d3-time",
+          "3.0.0"
+        ]
+      ]
+    },
+    "iconv-lite": {
+      "0.6.3": [
+        [
+          "safer-buffer",
+          "2.1.2"
+        ]
+      ]
+    },
+    "node-fetch": {
+      "2.6.7": [
+        [
+          "whatwg-url",
+          "5.0.0"
+        ]
+      ]
+    },
+    "topojson-client": {
+      "3.1.0": [
+        [
+          "commander",
+          "2.20.3"
+        ]
+      ]
+    },
+    "vega-dataflow": {
+      "5.7.4": [
+        [
+          "vega-format",
+          "1.1.0"
+        ],
+        [
+          "vega-loader",
+          "4.5.0"
+        ],
+        [
+          "vega-util",
+          "1.17.0"
+        ]
+      ]
+    },
+    "vega-format": {
+      "1.1.0": [
+        [
+          "d3-array",
+          "3.1.6"
+        ],
+        [
+          "d3-format",
+          "3.1.0"
+        ],
+        [
+          "d3-time-format",
+          "4.1.0"
+        ],
+        [
+          "vega-time",
+          "2.1.0"
+        ],
+        [
+          "vega-util",
+          "1.17.0"
+        ]
+      ]
+    },
+    "vega-loader": {
+      "4.5.0": [
+        [
+          "d3-dsv",
+          "3.0.1"
+        ],
+        [
+          "node-fetch",
+          "2.6.7"
+        ],
+        [
+          "topojson-client",
+          "3.1.0"
+        ],
+        [
+          "vega-format",
+          "1.1.0"
+        ],
+        [
+          "vega-util",
+          "1.17.0"
+        ]
+      ]
+    },
+    "vega-statistics": {
+      "1.8.0": [
+        [
+          "d3-array",
+          "3.1.6"
+        ]
+      ]
+    },
+    "vega-time": {
+      "2.1.0": [
+        [
+          "d3-array",
+          "3.1.6"
+        ],
+        [
+          "d3-time",
+          "3.0.0"
+        ],
+        [
+          "vega-util",
+          "1.17.0"
+        ]
+      ]
+    },
+    "vega-transforms": {
+      "4.10.0": [
+        [
+          "d3-array",
+          "3.1.6"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "vega-dataflow",
+          "5.7.4"
+        ],
+        [
+          "vega-statistics",
+          "1.8.0"
+        ],
+        [
+          "vega-time",
+          "2.1.0"
+        ],
+        [
+          "vega-util",
+          "1.17.0"
+        ]
+      ]
+    },
+    "whatwg-url": {
+      "5.0.0": [
+        [
+          "tr46",
+          "0.0.3"
+        ],
+        [
+          "webidl-conversions",
+          "3.0.1"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "commander": {
+      "2.20.3": {
+        "hash": "sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz"
+      },
+      "7.2.0": {
+        "hash": "sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/commander/-/commander-7.2.0.tgz"
+      }
+    },
+    "d3-array": {
+      "3.1.6": {
+        "hash": "sha512-DCbBBNuKOeiR9h04ySRBMW52TFVc91O9wJziuyXw6Ztmy8D3oZbmCkOO3UHKC7ceNJsN2Mavo9+vwV8EAEUXzA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/d3-array/-/d3-array-3.1.6.tgz"
+      }
+    },
+    "d3-dsv": {
+      "3.0.1": {
+        "hash": "sha512-UG6OvdI5afDIFP9w4G0mNq50dSOsXHJaRE8arAS5o9ApWnIElp8GZw1Dun8vP8OyHOZ/QJUKUJwxiiCCnUwm+Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/d3-dsv/-/d3-dsv-3.0.1.tgz"
+      }
+    },
+    "d3-format": {
+      "3.1.0": {
+        "hash": "sha512-YyUI6AEuY/Wpt8KWLgZHsIU86atmikuoOmCfommt0LYHiQSPjvX2AcFc38PX0CBpr2RCyZhjex+NS/LPOv6YqA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/d3-format/-/d3-format-3.1.0.tgz"
+      }
+    },
+    "d3-time": {
+      "3.0.0": {
+        "hash": "sha512-zmV3lRnlaLI08y9IMRXSDshQb5Nj77smnfpnd2LrBa/2K281Jijactokeak14QacHs/kKq0AQ121nidNYlarbQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/d3-time/-/d3-time-3.0.0.tgz"
+      }
+    },
+    "d3-time-format": {
+      "4.1.0": {
+        "hash": "sha512-dJxPBlzC7NugB2PDLwo9Q8JiTR3M3e4/XANkreKSUxF8vvXKqm1Yfq4Q5dl8budlunRVlUUaDUgFt7eA8D6NLg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/d3-time-format/-/d3-time-format-4.1.0.tgz"
+      }
+    },
+    "iconv-lite": {
+      "0.6.3": {
+        "hash": "sha512-4fCk79wshMdzMp2rH06qWrJE4iolqLhCUH+OiuIgU++RB0+94NlDL81atO7GX55uUKueo0txHNtvEyI6D7WdMw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.6.3.tgz"
+      }
+    },
+    "internmap": {
+      "2.0.3": {
+        "hash": "sha512-5Hh7Y1wQbvY5ooGgPbDaL5iYLAPzMTUrjMulskHLH6wnv/A+1q5rgEaiuqEjB+oxGXIVZs1FF+R/KPN3ZSQYYg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/internmap/-/internmap-2.0.3.tgz"
+      }
+    },
+    "node-fetch": {
+      "2.6.7": {
+        "hash": "sha512-ZjMPFEfVx5j+y2yF35Kzx5sF7kDzxuDj6ziH4FFbOp87zKDZNx8yExJIb05OGF4Nlt9IHFIMBkRl41VdvcNdbQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.7.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "rw": {
+      "1.3.3": {
+        "hash": "sha1-P4Yt+pGrdmsUiF700BEkv9oHT7Q=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz"
+      }
+    },
+    "safer-buffer": {
+      "2.1.2": {
+        "hash": "sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
+      }
+    },
+    "topojson-client": {
+      "3.1.0": {
+        "hash": "sha512-605uxS6bcYxGXw9qi62XyrV6Q3xwbndjachmNxu8HWTtVPxZfEJN9fd/SZS1Q54Sn2y0TMyMxFj/cJINqGHrKw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/topojson-client/-/topojson-client-3.1.0.tgz"
+      }
+    },
+    "tr46": {
+      "0.0.3": {
+        "hash": "sha1-gYT9NH2snNwYWZLzpmIuFLnZq2o=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz"
+      }
+    },
+    "vega-dataflow": {
+      "5.7.4": {
+        "hash": "sha512-JGHTpUo8XGETH3b1V892we6hdjzCWB977ybycIu8DPqRoyrZuj6t1fCVImazfMgQD1LAfJlQybWP+alwKDpKig==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-dataflow/-/vega-dataflow-5.7.4.tgz"
+      }
+    },
+    "vega-format": {
+      "1.1.0": {
+        "hash": "sha512-6mgpeWw8yGdG0Zdi8aVkx5oUrpJGOpNxqazC2858RSDPvChM/jDFlgRMTYw52qk7cxU0L08ARp4BwmXaI75j0w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-format/-/vega-format-1.1.0.tgz"
+      }
+    },
+    "vega-loader": {
+      "4.5.0": {
+        "hash": "sha512-EkAyzbx0pCYxH3v3wghGVCaKINWxHfgbQ2pYDiYv0yo8e04S8Mv/IlRGTt6BAe7cLhrk1WZ4zh20QOppnGG05w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-loader/-/vega-loader-4.5.0.tgz"
+      }
+    },
+    "vega-statistics": {
+      "1.8.0": {
+        "hash": "sha512-dl+LCRS6qS4jWDme/NEdPVt5r649uB4IK6Kyr2/czmGA5JqjuFmtQ9lHQOnRu8945XLkqLf+JIQQo7vnw+nslA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-statistics/-/vega-statistics-1.8.0.tgz"
+      }
+    },
+    "vega-time": {
+      "2.1.0": {
+        "hash": "sha512-Q9/l3S6Br1RPX5HZvyLD/cQ4K6K8DtpR09/1y7D66gxNorg2+HGzYZINH9nUvN3mxoXcBWg4cCUh3+JvmkDaEg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-time/-/vega-time-2.1.0.tgz"
+      }
+    },
+    "vega-util": {
+      "1.17.0": {
+        "hash": "sha512-HTaydZd9De3yf+8jH66zL4dXJ1d1p5OIFyoBzFiOli4IJbwkL1jrefCKz6AHDm1kYBzDJ0X4bN+CzZSCTvNk1w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/vega-util/-/vega-util-1.17.0.tgz"
+      }
+    },
+    "webidl-conversions": {
+      "3.0.1": {
+        "hash": "sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz"
+      }
+    },
+    "whatwg-url": {
+      "5.0.0": {
+        "hash": "sha1-lmRU6HZUYuN2RNNib2dCzotwll0=",
+        "type": "http",
+        "url": "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz"
+      }
+    },
+    "vega-transforms": {
+      "4.10.0": {
+        "hash": "sha256-0HxubhKpOg0Q5HARD1Ne26tuv3rWD7z5UF+pMFuistg=",
+        "type": "npm"
+      }
+    }
+  }
+}
