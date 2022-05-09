@@ -92,11 +92,11 @@
   "@pnpm/link-bins": {
     "7.1.1": null
   },
-  "cat-names": {
-    "3.0.0": null
-  },
   "metaphone": {
     "2.0.0": null
+  },
+  "cat-names": {
+    "3.0.0": null
   },
   "syllable": {
     "5.0.0": null
@@ -164,9 +164,6 @@
   "mngen": {
     "1.1.0": null
   },
-  "maxrects-packer": {
-    "2.7.3": null
-  },
   "stemmer": {
     "2.0.0": null
   },
@@ -184,6 +181,9 @@
   },
   "windows-bin": {
     "1.0.1": null
+  },
+  "maxrects-packer": {
+    "2.7.3": null
   },
   "link-bin": {
     "2.0.2": null
@@ -287,11 +287,11 @@
   "test-engine": {
     "0.1.0": null
   },
-  "node-diff-bin": {
-    "0.1.0": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "node-diff-bin": {
+    "0.1.0": null
   },
   "emailing": {
     "0.0.6": null
@@ -533,6 +533,9 @@
   "clito": {
     "0.1.2": null
   },
+  "meow-shorts": {
+    "1.1.0": null
+  },
   "usually": {
     "1.2.0": null
   },
@@ -541,9 +544,6 @@
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
-  },
-  "meow-shorts": {
-    "1.1.0": null
   },
   "dargs-fork": {
     "1.0.0": null
@@ -620,6 +620,9 @@
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
+  "npm-gcf-test": {
+    "1.1.2": null
+  },
   "bluemix-logo": {
     "1.1.2": null
   },
@@ -682,9 +685,6 @@
   },
   "dbin": {
     "0.0.8": null
-  },
-  "npm-gcf-test": {
-    "1.1.2": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
