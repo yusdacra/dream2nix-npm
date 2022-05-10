@@ -298,7 +298,7 @@
         ],
         [
           "caniuse-db",
-          "1.0.30001338"
+          "1.0.30001339"
         ],
         [
           "normalize-range",
@@ -1440,7 +1440,7 @@
       "1.7.7": [
         [
           "caniuse-db",
-          "1.0.30001338"
+          "1.0.30001339"
         ],
         [
           "electron-to-chromium",
@@ -1540,7 +1540,7 @@
         ],
         [
           "caniuse-db",
-          "1.0.30001338"
+          "1.0.30001339"
         ],
         [
           "lodash.memoize",
@@ -11607,10 +11607,10 @@
       }
     },
     "caniuse-db": {
-      "1.0.30001338": {
-        "hash": "sha512-tB+B9Qe9uWx1vJvfSjHlvZ5LNUtvavY98l++SJ8aYiZ6THxJCPxS14z1HVuTZ2sAUaHfvgHKcpby0TV6yXhyzA==",
+      "1.0.30001339": {
+        "hash": "sha512-ufOAYs8rwlF1HL7mZGPkK5LibnVSQT4KQRo71sWtTrSMJ/8YFuKDmWh4uqARk4NuO9ak6zAC/pfPQjJI/nBdpQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001338.tgz"
+        "url": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001339.tgz"
       }
     },
     "capture-stack-trace": {

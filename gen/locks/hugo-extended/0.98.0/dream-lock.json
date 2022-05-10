@@ -291,7 +291,7 @@
         ],
         [
           "keyv",
-          "4.2.2"
+          "4.2.6"
         ],
         [
           "lowercase-keys",
@@ -1252,7 +1252,7 @@
       ]
     },
     "keyv": {
-      "4.2.2": [
+      "4.2.6": [
         [
           "compress-brotli",
           "1.3.8"
@@ -3162,10 +3162,10 @@
       }
     },
     "keyv": {
-      "4.2.2": {
-        "hash": "sha512-uYS0vKTlBIjNCAUqrjlxmruxOEiZxZIHXyp32sdcGmP+ukFrmWUnE//RcPXJH3Vxrni1H2gsQbjHE0bH7MtMQQ==",
+      "4.2.6": {
+        "hash": "sha512-mmMlAFwZnCBk7QDA23I49T5VP2NdSsbaT4yrm14cwnlQ67t+wHWPtYj+/gbzeAbcprGbUSzWP3jBE1WKfSERnQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/keyv/-/keyv-4.2.2.tgz"
+        "url": "https://registry.npmjs.org/keyv/-/keyv-4.2.6.tgz"
       }
     },
     "levn": {

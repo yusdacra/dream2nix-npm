@@ -300,7 +300,7 @@
       "2.0.2": [
         [
           "@snyk/protect",
-          "1.922.0"
+          "1.924.0"
         ],
         [
           "ansi-regex",
@@ -2828,10 +2828,10 @@
       }
     },
     "@snyk/protect": {
-      "1.922.0": {
-        "hash": "sha512-DC6LJu3wfLW9T5LZou++HlIXIhQzIwFWJ7zA5iBIn0i5UQHzsIJU6r9msAhT7YE45WEeBidsNAQXbxolkGBxyg==",
+      "1.924.0": {
+        "hash": "sha512-Eez00DuA2uGOvvzDf/k+fcRJbQvdhtK+jSXWBJt/eusUqO/VPnidIIktSuSISMB7oGkD65qI0+fBJv/FW9ncUw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@snyk/protect/-/protect-1.922.0.tgz"
+        "url": "https://registry.npmjs.org/@snyk/protect/-/protect-1.924.0.tgz"
       }
     },
     "@types/json5": {

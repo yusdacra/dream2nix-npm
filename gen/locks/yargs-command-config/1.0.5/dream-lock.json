@@ -2574,7 +2574,7 @@
       "3.2.8": [
         [
           "caniuse-lite",
-          "1.0.30001338"
+          "1.0.30001339"
         ],
         [
           "electron-to-chromium",
@@ -2584,7 +2584,7 @@
       "4.20.3": [
         [
           "caniuse-lite",
-          "1.0.30001338"
+          "1.0.30001339"
         ],
         [
           "electron-to-chromium",
@@ -10551,10 +10551,10 @@
       }
     },
     "caniuse-lite": {
-      "1.0.30001338": {
-        "hash": "sha512-1gLHWyfVoRDsHieO+CaeYe7jSo/MT7D7lhaXUiwwbuR5BwQxORs0f1tAwUSQr3YbxRXJvxHM/PA5FfPQRnsPeQ==",
+      "1.0.30001339": {
+        "hash": "sha512-Es8PiVqCe+uXdms0Gu5xP5PF2bxLR7OBp3wUzUnuO7OHzhOfCyg3hdiGWVPVxhiuniOzng+hTc1u3fEQ0TlkSQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001338.tgz"
+        "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001339.tgz"
       }
     },
     "capture-exit": {
