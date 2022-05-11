@@ -21,7 +21,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.11"
+          "0.3.13"
         ]
       ]
     },
@@ -922,7 +922,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": [
+      "0.3.13": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -4457,10 +4457,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": {
-        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
+      "0.3.13": {
+        "hash": "sha512-o1xbKhp9qnIAoHJSWd6KlCZfqslL4valSF81H8ImioOAxluWYWOpWkpyktY2vnt4tbrX9XYaxovq6cgowaJp2w==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.13.tgz"
       }
     },
     "@sinonjs/commons": {

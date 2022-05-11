@@ -3,7 +3,7 @@
     "defaultPackage": "@midwayjs/cli",
     "location": "",
     "packages": {
-      "@midwayjs/cli": "1.3.3"
+      "@midwayjs/cli": "1.3.4"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -62,7 +62,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.11"
+          "0.3.13"
         ]
       ]
     },
@@ -971,7 +971,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": [
+      "0.3.13": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -1007,30 +1007,30 @@
       ]
     },
     "@midwayjs/cli": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@midwayjs/cli-plugin-build",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/cli-plugin-check",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/cli-plugin-clean",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/cli-plugin-dev",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/cli-plugin-test",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "enquirer",
@@ -1067,10 +1067,10 @@
       ]
     },
     "@midwayjs/cli-plugin-build": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/faas-code-analysis",
@@ -1095,10 +1095,10 @@
       ]
     },
     "@midwayjs/cli-plugin-check": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/locate",
@@ -1127,10 +1127,10 @@
       ]
     },
     "@midwayjs/cli-plugin-clean": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/serverless-spec-builder",
@@ -1143,14 +1143,14 @@
       ]
     },
     "@midwayjs/cli-plugin-dev": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@koa/router",
           "10.1.1"
         ],
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "@midwayjs/debugger",
@@ -1199,10 +1199,10 @@
       ]
     },
     "@midwayjs/cli-plugin-test": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "@midwayjs/command-core",
-          "1.3.3"
+          "1.3.4"
         ],
         [
           "globby",
@@ -1227,7 +1227,7 @@
       ]
     },
     "@midwayjs/command-core": {
-      "1.3.3": [
+      "1.3.4": [
         [
           "light-spinner",
           "1.0.4"
@@ -6200,10 +6200,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": {
-        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
+      "0.3.13": {
+        "hash": "sha512-o1xbKhp9qnIAoHJSWd6KlCZfqslL4valSF81H8ImioOAxluWYWOpWkpyktY2vnt4tbrX9XYaxovq6cgowaJp2w==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.13.tgz"
       }
     },
     "@koa/router": {
@@ -6214,45 +6214,45 @@
       }
     },
     "@midwayjs/cli-plugin-build": {
-      "1.3.3": {
-        "hash": "sha512-L1eGuM7k1LCC558/bSeVFDSMn8oa96a27s+EH6CFBcOgDN4qUL9ZB42EuecWIx5j0glIEdL5G7iMXHNYA3NZzg==",
+      "1.3.4": {
+        "hash": "sha512-Upo0bCBw9QBGhq1GU/WqLw3fPydkTOI5wp47DZsOEGLFD4ymGqoJtDy9prW2+erXALNtbocdJxvB9rknVF7HtQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-build/-/cli-plugin-build-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-build/-/cli-plugin-build-1.3.4.tgz"
       }
     },
     "@midwayjs/cli-plugin-check": {
-      "1.3.3": {
-        "hash": "sha512-dBWsDLfL2aU4Uj42pyGzfHs87hvmgj/vS25Odzre+SjJmzDOVleRgVftsqRrTEFts6w9gk0yUEC2ajb3z+/YLQ==",
+      "1.3.4": {
+        "hash": "sha512-Kz8TYWZFzQRmJI19+jTH+0/EgxD5Q58Z1UJGwTy/yk4B/YYRCejnn6W/xVMPpyN5+QsawIvkn9tjMSZttzMfmg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-check/-/cli-plugin-check-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-check/-/cli-plugin-check-1.3.4.tgz"
       }
     },
     "@midwayjs/cli-plugin-clean": {
-      "1.3.3": {
-        "hash": "sha512-R0YxLhNtfuONwoFDS8qEFVkVReKWzec2nCYBtqi8I8Q9HcWgoaCBHZ6i3HetY4M377EaZWEtRN73z2hVt/GCXQ==",
+      "1.3.4": {
+        "hash": "sha512-Ia7QcbzxU/VP9MBXxw1A/2eCxsbyWWdo/NiQMDh7ykH0cCeXTJFiAQtje+Pw9/6suk/151cPBpLsHBt3oheuxw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-clean/-/cli-plugin-clean-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-clean/-/cli-plugin-clean-1.3.4.tgz"
       }
     },
     "@midwayjs/cli-plugin-dev": {
-      "1.3.3": {
-        "hash": "sha512-N8F2N9oOSHSvb1CHBpn3JjMINkrKKvMjBo+S2udBQxUWsYTbH/m2n31aoVXb91pdEZUaafeyo7jmNa7hFYN5EA==",
+      "1.3.4": {
+        "hash": "sha512-PshhCrQXsDYJnxqRfMVBG3FuG6mQaQxDQwJwLk+j6sTjvQ48Ioyzs6SRNqwBlSgBMy7HTqEtBVqVzfTbunpJyQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-dev/-/cli-plugin-dev-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-dev/-/cli-plugin-dev-1.3.4.tgz"
       }
     },
     "@midwayjs/cli-plugin-test": {
-      "1.3.3": {
-        "hash": "sha512-bMnIbhXcOBk3GMLCce+KuH8tgu1+LTpMfMCOe5bLjehZDI5KC5AJf1fyQ+LqgrB8+dl5UwW0Jra7hQwHRNeL1Q==",
+      "1.3.4": {
+        "hash": "sha512-fZ/2o+Ssu+Yjsr87qTuKr4/z2r90htPLakHxWug0cTdYkldOiIIegoayJZebxh9Y58B0lIcebmF9Gi+uOOj/TQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-test/-/cli-plugin-test-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/cli-plugin-test/-/cli-plugin-test-1.3.4.tgz"
       }
     },
     "@midwayjs/command-core": {
-      "1.3.3": {
-        "hash": "sha512-5qgFs9tg6mEuIzvyN0wjJgeAd0Wb3frFSRo1cf8zsO4+3JuVuipy5IGlFtWmfrClrsGdffvGqmbqIzGFhfyhow==",
+      "1.3.4": {
+        "hash": "sha512-6ftB4eHAbAwiqod4irDCLhcMVYxAlfRKsPzv0BVScoREE2UmcYPdTWH+mFQ5clS/u5itrr7D7w29rLTQ0CYyCA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@midwayjs/command-core/-/command-core-1.3.3.tgz"
+        "url": "https://registry.npmjs.org/@midwayjs/command-core/-/command-core-1.3.4.tgz"
       }
     },
     "@midwayjs/debugger": {
@@ -9894,8 +9894,8 @@
       }
     },
     "@midwayjs/cli": {
-      "1.3.3": {
-        "hash": "sha256-GI1EttzaOuT7Xqgnt1dQ4YpWW1S8X1sR4UgJOwZczLM=",
+      "1.3.4": {
+        "hash": "sha256-QSZ9U6ln68WTcmWeMsCs17uUCSFE8azJdqCtPm9jlUs=",
         "type": "npm"
       }
     }

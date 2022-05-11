@@ -1408,7 +1408,7 @@
         ],
         [
           "markdown-it-anchor",
-          "8.6.3"
+          "8.6.4"
         ],
         [
           "marked",
@@ -3483,10 +3483,10 @@
       }
     },
     "markdown-it-anchor": {
-      "8.6.3": {
-        "hash": "sha512-3IiHYh/kJHY2IcuKv5qv+IKNxDwXjVoYQ5FvbBUPywcwCQ4ICLIw5z0QrhYBtcD7h88MfFK3zKAkABTvPMxm7A==",
+      "8.6.4": {
+        "hash": "sha512-Ul4YVYZNxMJYALpKtu+ZRdrryYt/GlQ5CK+4l1bp/gWXOG2QWElt6AqF3Mih/wfUKdZbNAZVXGR73/n6U/8img==",
         "type": "http",
-        "url": "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-8.6.3.tgz"
+        "url": "https://registry.npmjs.org/markdown-it-anchor/-/markdown-it-anchor-8.6.4.tgz"
       }
     },
     "marked": {

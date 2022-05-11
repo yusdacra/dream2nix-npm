@@ -1472,7 +1472,7 @@
         ],
         [
           "foreach",
-          "2.0.5"
+          "2.0.6"
         ],
         [
           "has-tostringtag",
@@ -2628,7 +2628,7 @@
         ],
         [
           "foreach",
-          "2.0.5"
+          "2.0.6"
         ],
         [
           "has-tostringtag",
@@ -3464,10 +3464,10 @@
         "type": "http",
         "url": "https://registry.npmjs.org/foreach/-/foreach-2.0.4.tgz"
       },
-      "2.0.5": {
-        "hash": "sha1-C+4AUBiusmDQo6865ljdATbsG5k=",
+      "2.0.6": {
+        "hash": "sha512-k6GAGDyqLe9JaebCsFCoudPPWfihKu8pylYXRlqP1J7ms39iPoTtk2fviNglIeQEwdh0bQeKJ01ZPyuyQvKzwg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/foreach/-/foreach-2.0.5.tgz"
+        "url": "https://registry.npmjs.org/foreach/-/foreach-2.0.6.tgz"
       }
     },
     "formatio": {

@@ -426,7 +426,7 @@
         ],
         [
           "npm",
-          "8.9.0"
+          "8.10.0"
         ],
         [
           "rc",
@@ -7557,10 +7557,10 @@
       }
     },
     "npm": {
-      "8.9.0": {
-        "hash": "sha512-4mhU5nEv7ktvHmJnM2nmWP2Zk4cCsD26imX+dvZ76HOuFUnIpU6+i1MWuoMg8N/xWHQgB0d2/ybWEGgJR9M/pw==",
+      "8.10.0": {
+        "hash": "sha512-6oo65q9Quv9mRPGZJufmSH+C/UFdgelwzRXiglT/2mDB50zdy/lZK5dFY0TJ9fJ/8gHqnxcX1NM206KLjTBMlQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/npm/-/npm-8.9.0.tgz"
+        "url": "https://registry.npmjs.org/npm/-/npm-8.10.0.tgz"
       }
     },
     "npm-run-path": {

@@ -46,7 +46,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.11"
+          "0.3.13"
         ]
       ]
     },
@@ -435,7 +435,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": [
+      "0.3.13": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -2742,7 +2742,7 @@
         ],
         [
           "foreach",
-          "2.0.5"
+          "2.0.6"
         ],
         [
           "has-tostringtag",
@@ -7782,7 +7782,7 @@
       "9.0.0": [
         [
           "@jridgewell/trace-mapping",
-          "0.3.11"
+          "0.3.13"
         ],
         [
           "@types/istanbul-lib-coverage",
@@ -8090,7 +8090,7 @@
         ],
         [
           "foreach",
-          "2.0.5"
+          "2.0.6"
         ],
         [
           "has-tostringtag",
@@ -8498,10 +8498,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.11": {
-        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
+      "0.3.13": {
+        "hash": "sha512-o1xbKhp9qnIAoHJSWd6KlCZfqslL4valSF81H8ImioOAxluWYWOpWkpyktY2vnt4tbrX9XYaxovq6cgowaJp2w==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.13.tgz"
       }
     },
     "@nodelib/fs.scandir": {
@@ -9817,10 +9817,10 @@
       }
     },
     "foreach": {
-      "2.0.5": {
-        "hash": "sha1-C+4AUBiusmDQo6865ljdATbsG5k=",
+      "2.0.6": {
+        "hash": "sha512-k6GAGDyqLe9JaebCsFCoudPPWfihKu8pylYXRlqP1J7ms39iPoTtk2fviNglIeQEwdh0bQeKJ01ZPyuyQvKzwg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/foreach/-/foreach-2.0.5.tgz"
+        "url": "https://registry.npmjs.org/foreach/-/foreach-2.0.6.tgz"
       }
     },
     "foreground-child": {
