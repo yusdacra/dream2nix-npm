@@ -62,7 +62,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ]
       ]
     },
@@ -568,7 +568,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "chalk",
@@ -612,7 +612,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "ansi-escapes",
@@ -716,7 +716,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "jest-mock",
@@ -736,7 +736,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "jest-message-util",
@@ -1008,7 +1008,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "@types/yargs",
@@ -1033,7 +1033,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": [
+      "0.3.11": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -1140,7 +1140,7 @@
       "4.1.5": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ]
       ]
     },
@@ -3224,7 +3224,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "jest-mock",
@@ -3256,7 +3256,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "jest-mock",
@@ -3280,7 +3280,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "anymatch",
@@ -3352,7 +3352,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "chalk",
@@ -3484,7 +3484,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ]
       ]
     },
@@ -3560,7 +3560,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "chalk",
@@ -3740,7 +3740,7 @@
       "26.6.2": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "graceful-fs",
@@ -3824,7 +3824,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "chalk",
@@ -3884,7 +3884,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "ansi-escapes",
@@ -3908,7 +3908,7 @@
       "26.6.2": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "merge-stream",
@@ -5804,10 +5804,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": {
-        "hash": "sha512-Q0YbBd6OTsXm8Y21+YUSDXupHnodNC2M4O18jtd3iwJ3+vMZNdKGols0a9G6JOK0dcJ3IdUUHoh908ZI6qhk8Q==",
+      "0.3.11": {
+        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.10.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
       }
     },
     "@nodelib/fs.scandir": {
@@ -5923,10 +5923,10 @@
       }
     },
     "@types/node": {
-      "17.0.31": {
-        "hash": "sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==",
+      "17.0.32": {
+        "hash": "sha512-eAIcfAvhf/BkHcf4pkLJ7ECpBAhh9kcxRBpip9cTiO+hf+aJrsxYxBeS6OXvOd9WqNAJmavXVpZvY1rBjNsXmw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.31.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.32.tgz"
       }
     },
     "@types/normalize-package-data": {

@@ -41,7 +41,7 @@
       "4.0.5": [
         [
           "@types/node",
-          "16.11.33"
+          "16.11.34"
         ]
       ]
     },
@@ -53,7 +53,7 @@
         ],
         [
           "@types/node",
-          "16.11.33"
+          "16.11.34"
         ]
       ]
     },
@@ -61,7 +61,7 @@
       "2.6.1": [
         [
           "@types/node",
-          "16.11.33"
+          "16.11.34"
         ],
         [
           "form-data",
@@ -73,7 +73,7 @@
       "8.5.3": [
         [
           "@types/node",
-          "16.11.33"
+          "16.11.34"
         ]
       ]
     },
@@ -371,7 +371,7 @@
       "2.0.1": [
         [
           "@types/node",
-          "16.11.33"
+          "16.11.34"
         ],
         [
           "discord.js",
@@ -448,10 +448,10 @@
       }
     },
     "@types/node": {
-      "16.11.33": {
-        "hash": "sha512-0PJ0vg+JyU0MIan58IOIFRtSvsb7Ri+7Wltx2qAg94eMOrpg4+uuP3aUHCpxXc1i0jCXiC+zIamSZh3l9AbcQA==",
+      "16.11.34": {
+        "hash": "sha512-UrWGDyLAlQ2Z8bNOGWTsqbP9ZcBeTYBVuTRNxXTztBy5KhWUFI3BaeDWoCP/CzV/EVGgO1NTYzv9ZytBI9GAEw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-16.11.33.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-16.11.34.tgz"
       }
     },
     "@types/node-fetch": {

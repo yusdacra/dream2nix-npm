@@ -46,7 +46,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ]
       ]
     },
@@ -441,7 +441,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": [
+      "0.3.11": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -528,7 +528,7 @@
         ],
         [
           "@types/node",
-          "14.18.16"
+          "14.18.17"
         ]
       ]
     },
@@ -544,7 +544,7 @@
       "4.13.2": [
         [
           "@types/node",
-          "14.18.16"
+          "14.18.17"
         ]
       ]
     },
@@ -3698,7 +3698,7 @@
       "27.5.1": [
         [
           "@types/node",
-          "14.18.16"
+          "14.18.17"
         ],
         [
           "merge-stream",
@@ -7020,7 +7020,7 @@
       "2.0.0": [
         [
           "@types/node",
-          "14.18.16"
+          "14.18.17"
         ],
         [
           "@types/tape",
@@ -7980,7 +7980,7 @@
       "9.0.0": [
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ],
         [
           "@types/istanbul-lib-coverage",
@@ -8077,7 +8077,7 @@
       ]
     },
     "webpack": {
-      "5.72.0": [
+      "5.72.1": [
         [
           "@types/eslint-scope",
           "3.7.3"
@@ -8139,8 +8139,8 @@
           "4.2.10"
         ],
         [
-          "json-parse-better-errors",
-          "1.0.2"
+          "json-parse-even-better-errors",
+          "2.3.1"
         ],
         [
           "loader-runner",
@@ -8761,10 +8761,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": {
-        "hash": "sha512-Q0YbBd6OTsXm8Y21+YUSDXupHnodNC2M4O18jtd3iwJ3+vMZNdKGols0a9G6JOK0dcJ3IdUUHoh908ZI6qhk8Q==",
+      "0.3.11": {
+        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.10.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
       }
     },
     "@mrmlnc/readdir-enhanced": {
@@ -8885,10 +8885,10 @@
       }
     },
     "@types/node": {
-      "14.18.16": {
-        "hash": "sha512-X3bUMdK/VmvrWdoTkz+VCn6nwKwrKCFTHtqwBIaQJNx4RUIBBUFXM00bqPz/DsDd+Icjmzm6/tyYZzeGVqb6/Q==",
+      "14.18.17": {
+        "hash": "sha512-oajWz4kOajqpKJMPgnCvBajPq8QAvl2xIWoFjlAJPKGu6n7pjov5SxGE45a+0RxHDoo4ycOMoZw1SCOWtDERbw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-14.18.16.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-14.18.17.tgz"
       }
     },
     "@types/normalize-package-data": {
@@ -11377,13 +11377,6 @@
         "hash": "sha1-Wx85evx11ne96Lz8Dkfh+aPZqJg=",
         "type": "http",
         "url": "https://registry.npmjs.org/json-buffer/-/json-buffer-3.0.0.tgz"
-      }
-    },
-    "json-parse-better-errors": {
-      "1.0.2": {
-        "hash": "sha512-mrqyZKfX5EhL7hvqcV6WG1yYjnjeuYDzDhhcAAUrq8Po85NBQBJP+ZDUT75qZQ98IkUoBqdkExkukOU7Ts2wrw==",
-        "type": "http",
-        "url": "https://registry.npmjs.org/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz"
       }
     },
     "json-parse-even-better-errors": {
@@ -14085,10 +14078,10 @@
       }
     },
     "webpack": {
-      "5.72.0": {
-        "hash": "sha512-qmSmbspI0Qo5ld49htys8GY9XhS9CGqFoHTsOVAnjBdg0Zn79y135R+k4IR4rKK6+eKaabMhJwiVB7xw0SJu5w==",
+      "5.72.1": {
+        "hash": "sha512-dXG5zXCLspQR4krZVR6QgajnZOjW2K/djHvdcRaDQvsjV9z9vaW6+ja5dZOYbqBBjF6kGXka/2ZyxNdc+8Jung==",
         "type": "http",
-        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.0.tgz"
+        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.1.tgz"
       }
     },
     "webpack-sources": {

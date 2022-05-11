@@ -1,9 +1,9 @@
 {
   "_generic": {
-    "defaultPackage": "math-uint32-to-binary-string",
+    "defaultPackage": "math-uint16-bits",
     "location": "",
     "packages": {
-      "math-uint32-to-binary-string": "1.0.0"
+      "math-uint16-bits": "1.0.0"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -2488,7 +2488,7 @@
         ]
       ]
     },
-    "math-uint32-to-binary-string": {
+    "math-uint16-bits": {
       "1.0.0": [
         [
           "browserify",
@@ -2499,7 +2499,7 @@
           "1.0.1"
         ],
         [
-          "const-max-uint32",
+          "const-max-uint16",
           "1.0.2"
         ],
         [
@@ -4927,11 +4927,11 @@
         "url": "https://registry.npmjs.org/console-browserify/-/console-browserify-1.2.0.tgz"
       }
     },
-    "const-max-uint32": {
+    "const-max-uint16": {
       "1.0.2": {
-        "hash": "sha1-8Am7YjDmeO2HTdLWqc2ePL+rtnY=",
+        "hash": "sha1-T/Mq33rXXhJCokyl/Bd96uV92Jo=",
         "type": "http",
-        "url": "https://registry.npmjs.org/const-max-uint32/-/const-max-uint32-1.0.2.tgz"
+        "url": "https://registry.npmjs.org/const-max-uint16/-/const-max-uint16-1.0.2.tgz"
       }
     },
     "constants-browserify": {
@@ -7633,9 +7633,9 @@
         "url": "https://registry.npmjs.org/yargs/-/yargs-3.5.4.tgz"
       }
     },
-    "math-uint32-to-binary-string": {
+    "math-uint16-bits": {
       "1.0.0": {
-        "hash": "sha256-MPMM763MUOuS1S1LZ8tW0Vud1gl8oveRsmce/5+3DVU=",
+        "hash": "sha256-EMBKTVXjYuxoRpz1p89oofImTM40XZOoWCxw65lMo3o=",
         "type": "npm"
       }
     }

@@ -1944,7 +1944,7 @@
         ],
         [
           "uglify-js",
-          "3.15.4"
+          "3.15.5"
         ],
         [
           "wordwrap",
@@ -7129,10 +7129,10 @@
       }
     },
     "uglify-js": {
-      "3.15.4": {
-        "hash": "sha512-vMOPGDuvXecPs34V74qDKk4iJ/SN4vL3Ow/23ixafENYvtrNvtbcgUeugTcUGRGsOF/5fU8/NYSL5Hyb3l1OJA==",
+      "3.15.5": {
+        "hash": "sha512-hNM5q5GbBRB5xB+PMqVRcgYe4c8jbyZ1pzZhS6jbq54/4F2gFK869ZheiE5A8/t+W5jtTNpWef/5Q9zk639FNQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.4.tgz"
+        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.5.tgz"
       }
     },
     "uniq": {

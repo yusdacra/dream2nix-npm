@@ -46,7 +46,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ]
       ]
     },
@@ -1476,7 +1476,7 @@
         ],
         [
           "core-js-compat",
-          "3.22.4"
+          "3.22.5"
         ],
         [
           "semver",
@@ -1788,7 +1788,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "@types/yargs",
@@ -1813,7 +1813,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": [
+      "0.3.11": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -2124,7 +2124,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "@types/responselike",
@@ -2164,7 +2164,7 @@
       "3.1.4": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ]
       ]
     },
@@ -2180,7 +2180,7 @@
       "1.0.0": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ]
       ]
     },
@@ -2742,7 +2742,7 @@
         ],
         [
           "core-js-compat",
-          "3.22.4"
+          "3.22.5"
         ]
       ]
     },
@@ -3154,7 +3154,7 @@
         ],
         [
           "keyv",
-          "4.2.6"
+          "4.2.7"
         ],
         [
           "lowercase-keys",
@@ -3697,7 +3697,7 @@
       ]
     },
     "core-js-compat": {
-      "3.22.4": [
+      "3.22.5": [
         [
           "browserslist",
           "4.20.3"
@@ -7409,7 +7409,7 @@
           "3.0.0"
         ]
       ],
-      "4.2.6": [
+      "4.2.7": [
         [
           "compress-brotli",
           "1.3.8"
@@ -8550,7 +8550,7 @@
         ],
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "netmask",
@@ -9990,7 +9990,7 @@
       "2.6.2": [
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "smart-buffer",
@@ -10780,7 +10780,7 @@
       "9.0.0": [
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ],
         [
           "@types/istanbul-lib-coverage",
@@ -12089,10 +12089,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": {
-        "hash": "sha512-Q0YbBd6OTsXm8Y21+YUSDXupHnodNC2M4O18jtd3iwJ3+vMZNdKGols0a9G6JOK0dcJ3IdUUHoh908ZI6qhk8Q==",
+      "0.3.11": {
+        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.10.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
       }
     },
     "@jscpd/core": {
@@ -12370,10 +12370,10 @@
       }
     },
     "@types/node": {
-      "17.0.31": {
-        "hash": "sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==",
+      "17.0.32": {
+        "hash": "sha512-eAIcfAvhf/BkHcf4pkLJ7ECpBAhh9kcxRBpip9cTiO+hf+aJrsxYxBeS6OXvOd9WqNAJmavXVpZvY1rBjNsXmw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.31.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.32.tgz"
       }
     },
     "@types/normalize-package-data": {
@@ -13525,10 +13525,10 @@
       }
     },
     "core-js-compat": {
-      "3.22.4": {
-        "hash": "sha512-dIWcsszDezkFZrfm1cnB4f/J85gyhiCpxbgBdohWCDtSVuAaChTSpPV7ldOQf/Xds2U5xCIJZOK82G4ZPAIswA==",
+      "3.22.5": {
+        "hash": "sha512-rEF75n3QtInrYICvJjrAgV03HwKiYvtKHdPtaba1KucG+cNZ4NJnH9isqt979e67KZlhpbCOTwnsvnIr+CVeOg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.22.4.tgz"
+        "url": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.22.5.tgz"
       }
     },
     "core-util-is": {
@@ -15318,10 +15318,10 @@
       }
     },
     "ip": {
-      "1.1.6": {
-        "hash": "sha512-/dAvCivFs/VexXAtiAoMIqyhkhStNC9CPD0h1noonimOgB1xrCkexF2c5CjlqQ72GgMPjN6tiV+oreoPv3Ft1g==",
+      "1.1.8": {
+        "hash": "sha512-PuExPYUiu6qMBQb4l06ecm6T6ujzhmh+MeJcW9wa89PoAz5pvd4zPgN5WJV104mb6S2T1AwNIAaB70JNrLQWhg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/ip/-/ip-1.1.6.tgz"
+        "url": "https://registry.npmjs.org/ip/-/ip-1.1.8.tgz"
       }
     },
     "irregular-plurals": {
@@ -16043,10 +16043,10 @@
         "type": "http",
         "url": "https://registry.npmjs.org/keyv/-/keyv-3.1.0.tgz"
       },
-      "4.2.6": {
-        "hash": "sha512-mmMlAFwZnCBk7QDA23I49T5VP2NdSsbaT4yrm14cwnlQ67t+wHWPtYj+/gbzeAbcprGbUSzWP3jBE1WKfSERnQ==",
+      "4.2.7": {
+        "hash": "sha512-HeOstD8SXvtWoQhMMBCelcUuZsiV7T7MwsADtOXT0KuwYP9nCxrSoMDeLXNDTLN3VFSuRp38JzoGbbTboq3QQw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/keyv/-/keyv-4.2.6.tgz"
+        "url": "https://registry.npmjs.org/keyv/-/keyv-4.2.7.tgz"
       }
     },
     "kind-of": {

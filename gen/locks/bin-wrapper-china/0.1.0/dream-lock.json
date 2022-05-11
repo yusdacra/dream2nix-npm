@@ -146,7 +146,7 @@
         ],
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ]
       ]
     },
@@ -900,7 +900,7 @@
         ],
         [
           "binary-mirror-config",
-          "1.40.1"
+          "1.41.0"
         ],
         [
           "download",
@@ -4374,7 +4374,7 @@
       "27.5.1": [
         [
           "@types/node",
-          "17.0.31"
+          "17.0.32"
         ],
         [
           "merge-stream",
@@ -6787,7 +6787,7 @@
       ]
     },
     "webpack": {
-      "5.72.0": [
+      "5.72.1": [
         [
           "@types/eslint-scope",
           "3.7.3"
@@ -6849,8 +6849,8 @@
           "4.2.10"
         ],
         [
-          "json-parse-better-errors",
-          "1.0.2"
+          "json-parse-even-better-errors",
+          "2.3.1"
         ],
         [
           "loader-runner",
@@ -7379,10 +7379,10 @@
       }
     },
     "@types/node": {
-      "17.0.31": {
-        "hash": "sha512-AR0x5HbXGqkEx9CadRH3EBYx/VkiUgZIhP4wvPn/+5KIsgpNoyFaRlVe0Zlx9gRtg8fA06a9tskE2MSN7TcG4Q==",
+      "17.0.32": {
+        "hash": "sha512-eAIcfAvhf/BkHcf4pkLJ7ECpBAhh9kcxRBpip9cTiO+hf+aJrsxYxBeS6OXvOd9WqNAJmavXVpZvY1rBjNsXmw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.31.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-17.0.32.tgz"
       }
     },
     "@types/normalize-package-data": {
@@ -7855,10 +7855,10 @@
       }
     },
     "binary-mirror-config": {
-      "1.40.1": {
-        "hash": "sha512-qEHZmIbM31fexHC8O6wOEgFNVPnyVkdHbQvP/b9ypsnoeEzmaGRhqxuQi+c6VROrQPHGJCdO7p4RYqeo0RGFQg==",
+      "1.41.0": {
+        "hash": "sha512-ZiIhR1s6Sv1Fv6qCQqfPjx0Cj86BgFlhqNxZgHkQOWcxJcMbO3mj1iqsuVjowYqJqeZL8e52+IEv7IRnSX6T6w==",
         "type": "http",
-        "url": "https://registry.npmjs.org/binary-mirror-config/-/binary-mirror-config-1.40.1.tgz"
+        "url": "https://registry.npmjs.org/binary-mirror-config/-/binary-mirror-config-1.41.0.tgz"
       }
     },
     "bl": {
@@ -12630,10 +12630,10 @@
       }
     },
     "webpack": {
-      "5.72.0": {
-        "hash": "sha512-qmSmbspI0Qo5ld49htys8GY9XhS9CGqFoHTsOVAnjBdg0Zn79y135R+k4IR4rKK6+eKaabMhJwiVB7xw0SJu5w==",
+      "5.72.1": {
+        "hash": "sha512-dXG5zXCLspQR4krZVR6QgajnZOjW2K/djHvdcRaDQvsjV9z9vaW6+ja5dZOYbqBBjF6kGXka/2ZyxNdc+8Jung==",
         "type": "http",
-        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.0.tgz"
+        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.1.tgz"
       }
     },
     "webpack-sources": {

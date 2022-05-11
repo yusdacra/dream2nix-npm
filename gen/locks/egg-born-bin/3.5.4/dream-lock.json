@@ -94,7 +94,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ]
       ]
     },
@@ -1646,7 +1646,7 @@
         ],
         [
           "core-js-compat",
-          "3.22.4"
+          "3.22.5"
         ],
         [
           "semver",
@@ -1714,7 +1714,7 @@
       "7.17.9": [
         [
           "core-js-pure",
-          "3.22.4"
+          "3.22.5"
         ],
         [
           "regenerator-runtime",
@@ -2021,7 +2021,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": [
+      "0.3.11": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -3132,7 +3132,7 @@
         ],
         [
           "webpack",
-          "5.72.0"
+          "5.72.1"
         ],
         [
           "webpack-bundle-analyzer",
@@ -3830,7 +3830,7 @@
         ],
         [
           "core-js-compat",
-          "3.22.4"
+          "3.22.5"
         ]
       ]
     },
@@ -4919,7 +4919,7 @@
       ]
     },
     "core-js-compat": {
-      "3.22.4": [
+      "3.22.5": [
         [
           "browserslist",
           "4.20.3"
@@ -5766,7 +5766,7 @@
         ],
         [
           "uglify-js",
-          "3.15.4"
+          "3.15.5"
         ],
         [
           "urllib",
@@ -6370,7 +6370,7 @@
         ],
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "koa-compose",
@@ -9016,7 +9016,7 @@
         ],
         [
           "snyk",
-          "1.924.0"
+          "1.925.0"
         ],
         [
           "tcp-proxy.js",
@@ -11110,7 +11110,7 @@
         ],
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "netmask",
@@ -12210,7 +12210,7 @@
         ],
         [
           "webpack",
-          "5.72.0"
+          "5.72.1"
         ],
         [
           "webpack-bundle-analyzer",
@@ -12760,7 +12760,7 @@
       "2.6.2": [
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "smart-buffer",
@@ -13664,7 +13664,7 @@
         ],
         [
           "ip",
-          "1.1.6"
+          "1.1.8"
         ],
         [
           "proxy-agent",
@@ -13843,7 +13843,7 @@
       ]
     },
     "webpack": {
-      "5.72.0": [
+      "5.72.1": [
         [
           "@types/eslint-scope",
           "3.7.3"
@@ -13905,8 +13905,8 @@
           "4.2.10"
         ],
         [
-          "json-parse-better-errors",
-          "1.0.2"
+          "json-parse-even-better-errors",
+          "2.3.1"
         ],
         [
           "loader-runner",
@@ -15286,10 +15286,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": {
-        "hash": "sha512-Q0YbBd6OTsXm8Y21+YUSDXupHnodNC2M4O18jtd3iwJ3+vMZNdKGols0a9G6JOK0dcJ3IdUUHoh908ZI6qhk8Q==",
+      "0.3.11": {
+        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.10.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
       }
     },
     "@mrmlnc/readdir-enhanced": {
@@ -17268,17 +17268,17 @@
       }
     },
     "core-js-compat": {
-      "3.22.4": {
-        "hash": "sha512-dIWcsszDezkFZrfm1cnB4f/J85gyhiCpxbgBdohWCDtSVuAaChTSpPV7ldOQf/Xds2U5xCIJZOK82G4ZPAIswA==",
+      "3.22.5": {
+        "hash": "sha512-rEF75n3QtInrYICvJjrAgV03HwKiYvtKHdPtaba1KucG+cNZ4NJnH9isqt979e67KZlhpbCOTwnsvnIr+CVeOg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.22.4.tgz"
+        "url": "https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.22.5.tgz"
       }
     },
     "core-js-pure": {
-      "3.22.4": {
-        "hash": "sha512-4iF+QZkpzIz0prAFuepmxwJ2h5t4agvE8WPYqs2mjLJMNNwJOnpch76w2Q7bUfCPEv/V7wpvOfog0w273M+ZSw==",
+      "3.22.5": {
+        "hash": "sha512-8xo9R00iYD7TcV7OrC98GwxiUEAabVWO3dix+uyWjnYrx9fyASLlIX+f/3p5dW5qByaP2bcZ8X/T47s55et/tA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.22.4.tgz"
+        "url": "https://registry.npmjs.org/core-js-pure/-/core-js-pure-3.22.5.tgz"
       }
     },
     "core-util-is": {
@@ -19356,10 +19356,10 @@
       }
     },
     "ip": {
-      "1.1.6": {
-        "hash": "sha512-/dAvCivFs/VexXAtiAoMIqyhkhStNC9CPD0h1noonimOgB1xrCkexF2c5CjlqQ72GgMPjN6tiV+oreoPv3Ft1g==",
+      "1.1.8": {
+        "hash": "sha512-PuExPYUiu6qMBQb4l06ecm6T6ujzhmh+MeJcW9wa89PoAz5pvd4zPgN5WJV104mb6S2T1AwNIAaB70JNrLQWhg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/ip/-/ip-1.1.6.tgz"
+        "url": "https://registry.npmjs.org/ip/-/ip-1.1.8.tgz"
       }
     },
     "ipaddr.js": {
@@ -19834,6 +19834,13 @@
         "hash": "sha512-mrqyZKfX5EhL7hvqcV6WG1yYjnjeuYDzDhhcAAUrq8Po85NBQBJP+ZDUT75qZQ98IkUoBqdkExkukOU7Ts2wrw==",
         "type": "http",
         "url": "https://registry.npmjs.org/json-parse-better-errors/-/json-parse-better-errors-1.0.2.tgz"
+      }
+    },
+    "json-parse-even-better-errors": {
+      "2.3.1": {
+        "hash": "sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz"
       }
     },
     "json-schema-traverse": {
@@ -22426,10 +22433,10 @@
       }
     },
     "snyk": {
-      "1.924.0": {
-        "hash": "sha512-2LOx+raw2WkrXLlZeGKkNFgc57TzJ/NURr8ozo2DV5wFuln2+0gB3TN5R4WNWmPxBmDmNBTLxL9V/QF0IXtTKg==",
+      "1.925.0": {
+        "hash": "sha512-U/dH0Ida/hEkOr4hbXe9StM8fQEAY+y/c6JZUEnT5EY+ykdH9csqv08L+aAcgRtmU9CYdVlptyBolzFHd30vUg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/snyk/-/snyk-1.924.0.tgz"
+        "url": "https://registry.npmjs.org/snyk/-/snyk-1.925.0.tgz"
       }
     },
     "socket.io": {
@@ -23147,10 +23154,10 @@
       }
     },
     "uglify-js": {
-      "3.15.4": {
-        "hash": "sha512-vMOPGDuvXecPs34V74qDKk4iJ/SN4vL3Ow/23ixafENYvtrNvtbcgUeugTcUGRGsOF/5fU8/NYSL5Hyb3l1OJA==",
+      "3.15.5": {
+        "hash": "sha512-hNM5q5GbBRB5xB+PMqVRcgYe4c8jbyZ1pzZhS6jbq54/4F2gFK869ZheiE5A8/t+W5jtTNpWef/5Q9zk639FNQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.4.tgz"
+        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.5.tgz"
       }
     },
     "uid-safe": {
@@ -23456,10 +23463,10 @@
       }
     },
     "webpack": {
-      "5.72.0": {
-        "hash": "sha512-qmSmbspI0Qo5ld49htys8GY9XhS9CGqFoHTsOVAnjBdg0Zn79y135R+k4IR4rKK6+eKaabMhJwiVB7xw0SJu5w==",
+      "5.72.1": {
+        "hash": "sha512-dXG5zXCLspQR4krZVR6QgajnZOjW2K/djHvdcRaDQvsjV9z9vaW6+ja5dZOYbqBBjF6kGXka/2ZyxNdc+8Jung==",
         "type": "http",
-        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.0.tgz"
+        "url": "https://registry.npmjs.org/webpack/-/webpack-5.72.1.tgz"
       }
     },
     "webpack-bundle-analyzer": {

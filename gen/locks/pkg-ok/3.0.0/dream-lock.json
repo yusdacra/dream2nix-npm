@@ -21,7 +21,7 @@
         ],
         [
           "@jridgewell/trace-mapping",
-          "0.3.10"
+          "0.3.11"
         ]
       ]
     },
@@ -517,7 +517,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -561,7 +561,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "ansi-escapes",
@@ -665,7 +665,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "jest-mock",
@@ -685,7 +685,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "jest-message-util",
@@ -741,7 +741,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -953,7 +953,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "@types/yargs",
@@ -978,7 +978,7 @@
       ]
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": [
+      "0.3.11": [
         [
           "@jridgewell/resolve-uri",
           "3.0.7"
@@ -1085,7 +1085,7 @@
       "4.1.5": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -1109,7 +1109,7 @@
       "4.13.1": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -2515,7 +2515,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -2799,7 +2799,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "jest-mock",
@@ -2831,7 +2831,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "jest-mock",
@@ -2855,7 +2855,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "anymatch",
@@ -2919,7 +2919,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -3051,7 +3051,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -3139,7 +3139,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -3299,7 +3299,7 @@
       "27.5.1": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "graceful-fs",
@@ -3407,7 +3407,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "chalk",
@@ -3467,7 +3467,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "ansi-escapes",
@@ -3491,7 +3491,7 @@
       "27.5.1": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "merge-stream",
@@ -3967,7 +3967,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "@typescript-eslint/eslint-plugin",
@@ -4940,10 +4940,10 @@
       }
     },
     "@jridgewell/trace-mapping": {
-      "0.3.10": {
-        "hash": "sha512-Q0YbBd6OTsXm8Y21+YUSDXupHnodNC2M4O18jtd3iwJ3+vMZNdKGols0a9G6JOK0dcJ3IdUUHoh908ZI6qhk8Q==",
+      "0.3.11": {
+        "hash": "sha512-RllI476aSMsxzeI9TtlSMoNTgHDxEmnl6GkkHwhr0vdL8W+0WuesyI8Vd3rBOfrwtPXbPxdT9ADJdiOKgzxPQA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.10.tgz"
+        "url": "https://registry.npmjs.org/@jridgewell/trace-mapping/-/trace-mapping-0.3.11.tgz"
       }
     },
     "@nodelib/fs.scandir": {
@@ -5066,10 +5066,10 @@
       }
     },
     "@types/node": {
-      "12.20.50": {
-        "hash": "sha512-+9axpWx2b2JCVovr7Ilgt96uc6C1zBKOQMpGtRbWT9IoR/8ue32GGMfGA4woP8QyP2gBs6GQWEVM3tCybGCxDA==",
+      "12.20.51": {
+        "hash": "sha512-anVDMfReTatfH8GVmHmaTZOL0jeTLNZ9wK9SSrQS3tMmn4vUc+9fVWlUzAieuQefWDyWUz4Z3aqXxDgO1VsYjg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-12.20.50.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-12.20.51.tgz"
       }
     },
     "@types/normalize-package-data": {

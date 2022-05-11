@@ -350,7 +350,7 @@
       "1.3.5": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -362,7 +362,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -370,7 +370,7 @@
       "3.4.35": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -390,7 +390,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -418,7 +418,7 @@
       "4.17.28": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "@types/qs",
@@ -434,7 +434,7 @@
       "1.2.5": [
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -446,7 +446,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -482,7 +482,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -502,7 +502,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ]
       ]
     },
@@ -2310,7 +2310,7 @@
         ],
         [
           "uglify-js",
-          "3.15.4"
+          "3.15.5"
         ],
         [
           "wordwrap",
@@ -4286,7 +4286,7 @@
         ],
         [
           "@types/node",
-          "12.20.50"
+          "12.20.51"
         ],
         [
           "@typescript-eslint/eslint-plugin",
@@ -5048,10 +5048,10 @@
       }
     },
     "@types/node": {
-      "12.20.50": {
-        "hash": "sha512-+9axpWx2b2JCVovr7Ilgt96uc6C1zBKOQMpGtRbWT9IoR/8ue32GGMfGA4woP8QyP2gBs6GQWEVM3tCybGCxDA==",
+      "12.20.51": {
+        "hash": "sha512-anVDMfReTatfH8GVmHmaTZOL0jeTLNZ9wK9SSrQS3tMmn4vUc+9fVWlUzAieuQefWDyWUz4Z3aqXxDgO1VsYjg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/@types/node/-/node-12.20.50.tgz"
+        "url": "https://registry.npmjs.org/@types/node/-/node-12.20.51.tgz"
       }
     },
     "@types/normalize-package-data": {
@@ -8416,10 +8416,10 @@
       }
     },
     "uglify-js": {
-      "3.15.4": {
-        "hash": "sha512-vMOPGDuvXecPs34V74qDKk4iJ/SN4vL3Ow/23ixafENYvtrNvtbcgUeugTcUGRGsOF/5fU8/NYSL5Hyb3l1OJA==",
+      "3.15.5": {
+        "hash": "sha512-hNM5q5GbBRB5xB+PMqVRcgYe4c8jbyZ1pzZhS6jbq54/4F2gFK869ZheiE5A8/t+W5jtTNpWef/5Q9zk639FNQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.4.tgz"
+        "url": "https://registry.npmjs.org/uglify-js/-/uglify-js-3.15.5.tgz"
       }
     },
     "unbox-primitive": {

@@ -14,7 +14,7 @@
   "cyclicDependencies": {},
   "dependencies": {
     "aws-sdk": {
-      "2.1131.0": [
+      "2.1132.0": [
         [
           "buffer",
           "4.9.2"
@@ -73,7 +73,7 @@
       "0.4.0": [
         [
           "aws-sdk",
-          "2.1131.0"
+          "2.1132.0"
         ],
         [
           "ini",
@@ -120,10 +120,10 @@
   },
   "sources": {
     "aws-sdk": {
-      "2.1131.0": {
-        "hash": "sha512-Ic3f2fSgVhYDQ0OBGxE6ODtSwaKyxBPGrI2RGrYt2Oj0Z8f227P7dB90o9X7y2MtnuJ4WoAzkf3Vc1c1UnnZlA==",
+      "2.1132.0": {
+        "hash": "sha512-NPDesfTrNx8UMQ5VuosQNlFFFhswJ8cGVcVltZBXKVl1kW0BCp52XQBySSruIznaRX7vG6Ir2+nox0NdL05qBQ==",
         "type": "http",
-        "url": "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.1131.0.tgz"
+        "url": "https://registry.npmjs.org/aws-sdk/-/aws-sdk-2.1132.0.tgz"
       }
     },
     "base64-js": {
