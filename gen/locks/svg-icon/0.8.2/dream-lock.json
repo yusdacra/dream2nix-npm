@@ -308,7 +308,7 @@
         ],
         [
           "caniuse-db",
-          "1.0.30001339"
+          "1.0.30001340"
         ],
         [
           "normalize-range",
@@ -1752,7 +1752,7 @@
       "1.7.7": [
         [
           "caniuse-db",
-          "1.0.30001339"
+          "1.0.30001340"
         ],
         [
           "electron-to-chromium",
@@ -1852,7 +1852,7 @@
         ],
         [
           "caniuse-db",
-          "1.0.30001339"
+          "1.0.30001340"
         ],
         [
           "lodash.memoize",
@@ -3715,7 +3715,7 @@
       ]
     },
     "eventsource": {
-      "1.1.0": [
+      "1.1.1": [
         [
           "original",
           "1.0.2"
@@ -9024,7 +9024,7 @@
         ],
         [
           "eventsource",
-          "1.1.0"
+          "1.1.1"
         ],
         [
           "faye-websocket",
@@ -12414,10 +12414,10 @@
       }
     },
     "caniuse-db": {
-      "1.0.30001339": {
-        "hash": "sha512-ufOAYs8rwlF1HL7mZGPkK5LibnVSQT4KQRo71sWtTrSMJ/8YFuKDmWh4uqARk4NuO9ak6zAC/pfPQjJI/nBdpQ==",
+      "1.0.30001340": {
+        "hash": "sha512-9EBH1O5gmzfYTlEkLtpX1EC4v+6ZZCB3Oj+ja3//bc0g8+8hAgTE3Oq4vtsi/0azLcvCPRjt97z7X3rnCBgUDw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001339.tgz"
+        "url": "https://registry.npmjs.org/caniuse-db/-/caniuse-db-1.0.30001340.tgz"
       }
     },
     "caseless": {
@@ -13747,10 +13747,10 @@
       }
     },
     "eventsource": {
-      "1.1.0": {
-        "hash": "sha512-VSJjT5oCNrFvCS6igjzPAt5hBzQ2qPBFIbJ03zLI9SE0mxwZpMw6BfJrbFHm1a141AavMEB8JHmBhWAd66PfCg==",
+      "1.1.1": {
+        "hash": "sha512-qV5ZC0h7jYIAOhArFJgSfdyz6rALJyb270714o7ZtNnw2WSJ+eexhKtE0O8LYPRsHZHf2osHKZBxGPvm3kPkCA==",
         "type": "http",
-        "url": "https://registry.npmjs.org/eventsource/-/eventsource-1.1.0.tgz"
+        "url": "https://registry.npmjs.org/eventsource/-/eventsource-1.1.1.tgz"
       }
     },
     "exit-hook": {

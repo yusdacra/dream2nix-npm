@@ -3,7 +3,7 @@
     "defaultPackage": "flow-bin",
     "location": "",
     "packages": {
-      "flow-bin": "0.177.0"
+      "flow-bin": "0.178.0"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -14,7 +14,7 @@
   "cyclicDependencies": {},
   "dependencies": {
     "flow-bin": {
-      "0.177.0": [
+      "0.178.0": [
         [
           "null",
           "2.0.0"
@@ -31,8 +31,8 @@
       }
     },
     "flow-bin": {
-      "0.177.0": {
-        "hash": "sha256-mAPo4jPb+lu8bBreKiF8eZtKDcDDs70py27uBGdMc7A=",
+      "0.178.0": {
+        "hash": "sha256-h3qT8wNf3raIOdBbEFUsJXJvzYtzSfWqcO7AQWcszZ4=",
         "type": "npm"
       }
     }

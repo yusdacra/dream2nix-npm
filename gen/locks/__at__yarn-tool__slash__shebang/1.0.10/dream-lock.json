@@ -3,7 +3,7 @@
     "defaultPackage": "@yarn-tool/shebang",
     "location": "",
     "packages": {
-      "@yarn-tool/shebang": "1.0.9"
+      "@yarn-tool/shebang": "1.0.10"
     },
     "sourcesAggregatedHash": null,
     "subsystem": "nodejs"
@@ -14,7 +14,7 @@
   "cyclicDependencies": {},
   "dependencies": {
     "@yarn-tool/shebang": {
-      "1.0.9": [
+      "1.0.10": [
         [
           "null",
           "2.0.0"
@@ -42,8 +42,8 @@
       }
     },
     "@yarn-tool/shebang": {
-      "1.0.9": {
-        "hash": "sha256-i3TMs9Y3gXlOsyIVURN7Q4wR6YgSxjhjNtYQePqz4aw=",
+      "1.0.10": {
+        "hash": "sha256-/FhgvF3hbPUCYeOIfDAeQTgSkh4TL3Q7sDKmoFZp1MA=",
         "type": "npm"
       }
     }

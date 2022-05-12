@@ -1326,7 +1326,7 @@
       "4.20.3": [
         [
           "caniuse-lite",
-          "1.0.30001339"
+          "1.0.30001340"
         ],
         [
           "electron-to-chromium",
@@ -2458,7 +2458,7 @@
         ],
         [
           "ci-info",
-          "3.3.0"
+          "3.3.1"
         ],
         [
           "clean-regexp",
@@ -6004,10 +6004,10 @@
       }
     },
     "caniuse-lite": {
-      "1.0.30001339": {
-        "hash": "sha512-Es8PiVqCe+uXdms0Gu5xP5PF2bxLR7OBp3wUzUnuO7OHzhOfCyg3hdiGWVPVxhiuniOzng+hTc1u3fEQ0TlkSQ==",
+      "1.0.30001340": {
+        "hash": "sha512-jUNz+a9blQTQVu4uFcn17uAD8IDizPzQkIKh3LCJfg9BkyIqExYYdyc/ZSlWUSKb8iYiXxKsxbv4zYSvkqjrxw==",
         "type": "http",
-        "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001339.tgz"
+        "url": "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001340.tgz"
       }
     },
     "chalk": {
@@ -6049,10 +6049,10 @@
         "type": "http",
         "url": "https://registry.npmjs.org/ci-info/-/ci-info-2.0.0.tgz"
       },
-      "3.3.0": {
-        "hash": "sha512-riT/3vI5YpVH6/qomlDnJow6TBee2PBKSEpx3O32EGPYbWGIRsIlGRms3Sm74wYE1JMo8RnO04Hb12+v1J5ICw==",
+      "3.3.1": {
+        "hash": "sha512-SXgeMX9VwDe7iFFaEWkA5AstuER9YKqy4EhHqr4DVqkwmD9rpVimkMKWHdjn30Ja45txyjhSn63lVX69eVCckg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.0.tgz"
+        "url": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.1.tgz"
       }
     },
     "ci-parallel-vars": {

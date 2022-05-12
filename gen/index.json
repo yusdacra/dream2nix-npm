@@ -15,7 +15,7 @@
     "3.0.0": null
   },
   "flow-bin": {
-    "0.177.0": null
+    "0.178.0": null
   },
   "is-installed-globally": {
     "0.4.0": null
@@ -308,14 +308,14 @@
   "midway-bin": {
     "1.20.3": null
   },
+  "realpath": {
+    "2.0.0": null
+  },
   "@tunnckocore/execa": {
     "5.2.7": null
   },
   "render-help": {
     "1.0.2": null
-  },
-  "realpath": {
-    "2.0.0": null
   },
   "pkg-ok": {
     "3.0.0": null
@@ -431,11 +431,11 @@
   "bin-packer": {
     "1.7.0": null
   },
-  "nvison": {
-    "1.0.24": null
-  },
   "@root/hexdump": {
     "1.1.1": null
+  },
+  "nvison": {
+    "1.0.24": null
   },
   "pkg-bin": {
     "1.0.2": null
@@ -635,6 +635,9 @@
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
+  "@yarn-tool/shebang": {
+    "1.0.10": null
+  },
   "bluemix-logo": {
     "1.1.2": null
   },
@@ -700,9 +703,6 @@
   },
   "@alizw/debug-es5": {
     "4.0.2": null
-  },
-  "@yarn-tool/shebang": {
-    "1.0.9": null
   },
   "deepmerge-yaml": {
     "0.0.1": null

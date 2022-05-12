@@ -192,7 +192,7 @@
         ],
         [
           "ci-info",
-          "3.3.0"
+          "3.3.1"
         ],
         [
           "ci-parallel-vars",
@@ -328,7 +328,7 @@
         ],
         [
           "yargs",
-          "17.4.1"
+          "17.5.0"
         ]
       ]
     },
@@ -2089,7 +2089,7 @@
       ]
     },
     "yargs": {
-      "17.4.1": [
+      "17.5.0": [
         [
           "cliui",
           "7.0.4"
@@ -2397,10 +2397,10 @@
       }
     },
     "ci-info": {
-      "3.3.0": {
-        "hash": "sha512-riT/3vI5YpVH6/qomlDnJow6TBee2PBKSEpx3O32EGPYbWGIRsIlGRms3Sm74wYE1JMo8RnO04Hb12+v1J5ICw==",
+      "3.3.1": {
+        "hash": "sha512-SXgeMX9VwDe7iFFaEWkA5AstuER9YKqy4EhHqr4DVqkwmD9rpVimkMKWHdjn30Ja45txyjhSn63lVX69eVCckg==",
         "type": "http",
-        "url": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.0.tgz"
+        "url": "https://registry.npmjs.org/ci-info/-/ci-info-3.3.1.tgz"
       }
     },
     "ci-parallel-vars": {
@@ -4091,10 +4091,10 @@
       }
     },
     "yargs": {
-      "17.4.1": {
-        "hash": "sha512-WSZD9jgobAg3ZKuCQZSa3g9QOJeCCqLoLAykiWgmXnDo9EPnn4RPf5qVTtzgOx66o6/oqhcA5tHtJXpG8pMt3g==",
+      "17.5.0": {
+        "hash": "sha512-3sLxVhbAB5OC8qvVRebCLWuouhwh/rswsiDYx3WGxajUk/l4G20SKfrKKFeNIHboUFt2JFgv2yfn+5cgOr/t5A==",
         "type": "http",
-        "url": "https://registry.npmjs.org/yargs/-/yargs-17.4.1.tgz"
+        "url": "https://registry.npmjs.org/yargs/-/yargs-17.5.0.tgz"
       }
     },
     "yargs-parser": {
