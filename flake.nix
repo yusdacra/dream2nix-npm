@@ -18,6 +18,7 @@
     systems = ["x86_64-linux"];
 
     mkOutputsForSystem = system: let
+      pkgs = inputs.nixpkgs.legacyPackages.${system};
       ilib = inputs.ilib.lib.mkLib {
         inherit system;
         subsystem = "nodejs";
@@ -28,30 +29,6 @@
           __default = "package-json";
         };
       };
-      pkgs = inputs.nixpkgs.legacyPackages.${system};
-
-      genTree = dream2nix.lib.dlib.prepareSourceTree {source = ./gen;};
-      index = genTree.files."index.json".jsonContent;
-
-      translateScript = let
-        pkgsUnflattened =
-          l.mapAttrsToList
-          (
-            name: versions:
-              l.mapAttrsToList
-              (
-                version: hash:
-                  {inherit name version;}
-                  // (l.optionalAttrs (hash != null) {inherit hash;})
-              )
-              versions
-          )
-          index;
-      in
-        ilib.translateBin {
-          pkgs = l.flatten pkgsUnflattened;
-          locksTree = genTree.directories."locks" or null;
-        };
 
       indexer = with pkgs;
         writeScript
@@ -76,7 +53,9 @@
             > gen/index.json
         '';
 
-      lockOutputs = ilib.mkLocksOutputs {tree = genTree;};
+      indexTree = ilib.utils.prepareIndexTree {path = ./gen;};
+      translateScript = ilib.mkTranslateIndexScript {inherit indexTree;};
+      lockOutputs = ilib.mkLocksOutputs {inherit indexTree;};
     in {
       hydraJobs = l.mapAttrs (_: pkg: {${system} = pkg;}) lockOutputs;
       packages.${system} = lockOutputs;
@@ -90,7 +69,7 @@
           program = toString indexer;
         };
       };
-      lib.${system} = {inherit ilib translateScript;};
+      lib.${system} = {inherit ilib;};
     };
   in
     l.foldl'
