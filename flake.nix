@@ -48,7 +48,10 @@
           )
           index;
       in
-        ilib.translateBin (l.flatten pkgsUnflattened);
+        ilib.translateBin {
+          pkgs = l.flatten pkgsUnflattened;
+          locksTree = genTree.directories."locks" or null;
+        };
 
       indexer = with pkgs;
         writeScript
