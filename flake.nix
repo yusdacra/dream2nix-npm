@@ -19,7 +19,7 @@
 
     mkOutputsForSystem = system: let
       pkgs = inputs.nixpkgs.legacyPackages.${system};
-      ilib = inputs.ilib.lib.mkLib {
+      ilib = inputs.ilib.lib.mkIndexPlatform {
         inherit system;
         subsystem = "nodejs";
         fetcherName = "npm";
