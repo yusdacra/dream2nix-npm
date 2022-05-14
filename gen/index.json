@@ -350,14 +350,14 @@
   "bin-wrapper-china": {
     "0.1.0": null
   },
-  "rasper": {
-    "0.2.10": null
-  },
   "yarn-global-modules": {
     "1.0.1": null
   },
   "real-executable-path": {
     "3.0.0": null
+  },
+  "rasper": {
+    "0.2.10": null
   },
   "soundex-code": {
     "2.0.0": null
@@ -722,10 +722,10 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "math-uint16-bits": {
