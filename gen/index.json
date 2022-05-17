@@ -476,11 +476,11 @@
   "@randy.tarampi/android-splash": {
     "2.1.11": null
   },
-  "chopsticks": {
-    "0.6.0": null
-  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
+  },
+  "chopsticks": {
+    "0.6.0": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
@@ -518,11 +518,11 @@
   "math-float64-from-bits": {
     "1.0.0": null
   },
-  "binary-wrapper": {
-    "0.0.1": null
-  },
   "@wrench/executable": {
     "0.0.5": null
+  },
+  "binary-wrapper": {
+    "0.0.1": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
@@ -602,6 +602,9 @@
   "async-which": {
     "1.0.3": null
   },
+  "cheese-name": {
+    "2.0.1": null
+  },
   "jsbindat": {
     "0.10.3": null
   },
@@ -619,9 +622,6 @@
   },
   "bluemix-logo": {
     "1.1.2": null
-  },
-  "cheese-name": {
-    "2.0.1": null
   },
   "scala-bin": {
     "0.3.3": null
@@ -704,9 +704,6 @@
   "@testup/cli": {
     "0.6.0": null
   },
-  "hugo-extended": {
-    "0.98.0": null
-  },
   "@alizw/debug-es5": {
     "4.0.2": null
   },
@@ -715,6 +712,9 @@
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
+  },
+  "hugo-extended": {
+    "0.99.0": null
   },
   "sunnier-bin": {
     "0.0.6": null
@@ -725,10 +725,10 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
   "math-uint16-bits": {
