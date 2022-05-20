@@ -248,6 +248,9 @@
   "standardize": {
     "1.2.2": null
   },
+  "meow-names": {
+    "1.0.1": null
+  },
   "markdown-proofing": {
     "1.0.2": null
   },
@@ -286,9 +289,6 @@
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
-  },
-  "meow-names": {
-    "1.0.1": null
   },
   "test-engine": {
     "0.1.0": null
@@ -731,10 +731,10 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "math-uint16-bits": {
