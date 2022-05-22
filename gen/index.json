@@ -179,6 +179,9 @@
   "banks-db": {
     "0.20.0": null
   },
+  "windows-bin": {
+    "1.0.1": null
+  },
   "link-bin": {
     "2.0.2": null
   },
@@ -187,9 +190,6 @@
   },
   "cover-art": {
     "1.0.5": null
-  },
-  "windows-bin": {
-    "1.0.1": null
   },
   "maxrects-packer": {
     "2.7.3": null
@@ -509,11 +509,11 @@
   "android-splash": {
     "1.0.2": null
   },
-  "bauer-exec": {
-    "0.1.5": null
-  },
   "binary-wrapper": {
     "0.0.1": null
+  },
+  "bauer-exec": {
+    "0.1.5": null
   },
   "mosay": {
     "2.1.0": null
@@ -563,9 +563,6 @@
   "clito": {
     "0.1.2": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
   },
@@ -595,6 +592,9 @@
   },
   "node-creditcard-identifier": {
     "1.1.2": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "urls-md": {
     "4.0.1": null
@@ -665,11 +665,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
   "hugo-extended": {
     "0.99.1": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "useful-ut": {
     "1.0.2": null
@@ -680,11 +680,11 @@
   "funnelenvysays": {
     "1.0.7": null
   },
-  "@aligov/debug-es5": {
-    "4.0.2": null
-  },
   "deepmerge-yaml": {
     "0.0.1": null
+  },
+  "@aligov/debug-es5": {
+    "4.0.2": null
   },
   "string-packer": {
     "1.0.3": null
