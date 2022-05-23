@@ -53,11 +53,11 @@
   "@turf/boolean-point-in-polygon": {
     "6.5.0": null
   },
-  "taketalk": {
-    "1.0.0": null
-  },
   "resolve-bin": {
     "1.0.1": null
+  },
+  "taketalk": {
+    "1.0.0": null
   },
   "levenshtein-edit-distance": {
     "3.0.0": null
@@ -74,11 +74,11 @@
   "remark-cli": {
     "10.0.1": null
   },
-  "packery": {
-    "2.1.2": null
-  },
   "vega-transforms": {
     "4.10.0": null
+  },
+  "packery": {
+    "2.1.2": null
   },
   "purescript": {
     "0.15.2": null
@@ -248,8 +248,17 @@
   "standardize": {
     "1.2.2": null
   },
+  "time-bin": {
+    "1.0.1": null
+  },
   "meow-names": {
     "1.0.1": null
+  },
+  "test-engine": {
+    "0.1.0": null
+  },
+  "tcpip-port-to-bin": {
+    "0.1.0": null
   },
   "markdown-proofing": {
     "1.0.2": null
@@ -283,15 +292,6 @@
   },
   "gazer-color": {
     "1.0.1": null
-  },
-  "time-bin": {
-    "1.0.1": null
-  },
-  "tcpip-port-to-bin": {
-    "0.1.0": null
-  },
-  "test-engine": {
-    "0.1.0": null
   },
   "help-version": {
     "1.1.1": null
@@ -578,14 +578,17 @@
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.6": null
   },
+  "to-flag": {
+    "1.0.0": null
+  },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.6": null
   },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
-  "to-flag": {
-    "1.0.0": null
+  "wix-msi": {
+    "0.6.0": null
   },
   "workspaces-utils": {
     "1.2.1": null
@@ -593,14 +596,11 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
-  "usually": {
-    "1.2.0": null
-  },
-  "urls-md": {
-    "4.0.1": null
-  },
   "ect-bin": {
     "1.4.1": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "cheese-name": {
     "2.0.1": null
@@ -614,14 +614,23 @@
   "config-strip-debug": {
     "1.0.1": null
   },
+  "cut-optimizer": {
+    "0.1.1": null
+  },
   "@wrote/rm": {
     "1.1.5": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "git-auto-badger": {
     "1.0.22": null
   },
   "dbin": {
     "0.0.8": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -650,12 +659,6 @@
   "vtexsay": {
     "1.0.3": null
   },
-  "wix-msi": {
-    "0.6.0": null
-  },
-  "cut-optimizer": {
-    "0.1.1": null
-  },
   "tusd-static-win32": {
     "1.1.0": null
   },
@@ -668,12 +671,6 @@
   "hugo-extended": {
     "0.99.1": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
-  "useful-ut": {
-    "1.0.2": null
-  },
   "math-float64-bits": {
     "1.0.1": null
   },
@@ -683,11 +680,14 @@
   "deepmerge-yaml": {
     "0.0.1": null
   },
+  "string-packer": {
+    "1.0.3": null
+  },
   "@aligov/debug-es5": {
     "4.0.2": null
   },
-  "string-packer": {
-    "1.0.3": null
+  "useful-ut": {
+    "1.0.2": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -737,16 +737,16 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "number-convert": {
-    "1.0.0": null
+  "tusd-static-linux": {
+    "1.1.0": null
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "math-uint16-bits": {
+  "number-convert": {
     "1.0.0": null
   },
-  "xcm": {
-    "1.0.4": null
+  "math-uint16-bits": {
+    "1.0.0": null
   }
 }
