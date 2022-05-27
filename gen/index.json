@@ -32,14 +32,14 @@
   "elm": {
     "0.19.1-5": null
   },
-  "yeoman-character": {
-    "1.1.0": null
-  },
   "hasbin": {
     "1.2.3": null
   },
   "direction": {
     "2.0.1": null
+  },
+  "yeoman-character": {
+    "1.1.0": null
   },
   "magicli": {
     "0.2.1": null
@@ -68,6 +68,9 @@
   "bin-pack": {
     "1.0.2": null
   },
+  "purescript": {
+    "0.15.2": null
+  },
   "run-node": {
     "2.0.0": null
   },
@@ -79,9 +82,6 @@
   },
   "packery": {
     "2.1.2": null
-  },
-  "purescript": {
-    "0.15.2": null
   },
   "simple-bin-help": {
     "1.7.7": null
@@ -341,6 +341,9 @@
   "get-bin-path": {
     "7.0.0": null
   },
+  "exec-bin": {
+    "1.0.0": null
+  },
   "ultrax": {
     "2.0.1": null
   },
@@ -359,14 +362,11 @@
   "begoo": {
     "2.0.2": null
   },
-  "exec-bin": {
-    "1.0.0": null
+  "@randy.tarampi/generic-icon-splash-generate": {
+    "3.0.4": null
   },
   "real-executable-path": {
     "3.0.0": null
-  },
-  "@randy.tarampi/generic-icon-splash-generate": {
-    "3.0.4": null
   },
   "zfinder-utils": {
     "0.0.20160121": null
@@ -425,6 +425,9 @@
   "all-module-paths": {
     "0.10.7": null
   },
+  "@root/hexdump": {
+    "1.1.1": null
+  },
   "bin-packer": {
     "1.7.0": null
   },
@@ -433,9 +436,6 @@
   },
   "@marchyang/execa": {
     "6.0.1": null
-  },
-  "@root/hexdump": {
-    "1.1.1": null
   },
   "pkg-bin": {
     "1.0.2": null
@@ -452,6 +452,9 @@
   "npm-run-path-compat": {
     "2.0.3": null
   },
+  "@sepalang/myself": {
+    "0.3.0": null
+  },
   "isbin": {
     "0.0.3": null
   },
@@ -467,20 +470,14 @@
   "bin-up": {
     "1.3.2": null
   },
+  "@randy.tarampi/android-splash": {
+    "2.1.11": null
+  },
   "ios-icons": {
     "3.3.3": null
   },
   "cli-rewire": {
     "4.0.4": null
-  },
-  "@sepalang/myself": {
-    "0.3.0": null
-  },
-  "@randy.tarampi/android-splash": {
-    "2.1.11": null
-  },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
   },
   "yargs-command-config": {
     "1.0.5": null
@@ -491,14 +488,14 @@
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "@randy.tarampi/ios-splash": {
-    "3.1.11": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
   },
   "bin-exists": {
     "0.2.1": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.6": null
@@ -512,11 +509,17 @@
   "android-splash": {
     "1.0.2": null
   },
+  "@stdlib/number-uint32-base-to-binary-string": {
+    "0.0.7": null
+  },
   "binary-wrapper": {
     "0.0.1": null
   },
   "bauer-exec": {
     "0.1.5": null
+  },
+  "@stdlib/number-uint8-base-to-binary-string": {
+    "0.0.7": null
   },
   "mosay": {
     "2.1.0": null
@@ -524,17 +527,17 @@
   "math-float64-from-bits": {
     "1.0.0": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
-    "0.0.7": null
-  },
   "@wrench/executable": {
     "0.0.5": null
+  },
+  "@randy.tarampi/ios-splash": {
+    "3.1.11": null
   },
   "yosay-sogou": {
     "0.0.2": null
   },
-  "@stdlib/number-uint32-base-to-binary-string": {
-    "0.0.7": null
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.6": null
   },
   "ios-splash": {
     "2.1.2": null
@@ -548,17 +551,32 @@
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
+  "@stdlib/number-uint16-base-to-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-uint8-base-from-binary-string": {
+    "0.0.6": null
+  },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.6": null
+  },
+  "@stdlib/number-uint32-base-from-binary-string": {
+    "0.0.6": null
+  },
   "hexdump.js": {
     "1.1.0": null
   },
   "7zip-standalone": {
     "0.0.3": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
+  "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
   "johngrimm-utils": {
     "2.0.5": null
+  },
+  "@stdlib/number-uint16-base-from-binary-string": {
+    "0.0.6": null
   },
   "mock-bin": {
     "2.0.0": null
@@ -566,20 +584,8 @@
   "clito": {
     "0.1.2": null
   },
-  "@stdlib/number-uint16-base-to-binary-string": {
-    "0.0.7": null
-  },
-  "@stdlib/number-uint16-base-from-binary-string": {
-    "0.0.6": null
-  },
-  "@stdlib/number-uint32-base-from-binary-string": {
-    "0.0.6": null
-  },
   "meow-shorts": {
     "1.1.0": null
-  },
-  "@stdlib/number-uint8-base-from-binary-string": {
-    "0.0.6": null
   },
   "wix-msi": {
     "0.6.0": null
@@ -587,14 +593,14 @@
   "to-flag": {
     "1.0.0": null
   },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.6": null
-  },
-  "@stdlib/number-float32-base-from-binary-string": {
-    "0.0.6": null
-  },
   "node-creditcard-identifier": {
     "1.1.2": null
+  },
+  "exec-extra": {
+    "2.8.0": null
+  },
+  "config-strip-debug": {
+    "1.0.1": null
   },
   "cheese-name": {
     "2.0.1": null
@@ -607,9 +613,6 @@
   },
   "jsbindat": {
     "0.10.3": null
-  },
-  "config-strip-debug": {
-    "1.0.1": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -641,9 +644,6 @@
   "npm-gcf-test": {
     "1.1.2": null
   },
-  "exec-extra": {
-    "2.8.0": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
@@ -656,6 +656,9 @@
   "@yarn-tool/shebang": {
     "1.0.10": null
   },
+  "@strong-roots-capital/bitmex-bin-size": {
+    "1.0.1": null
+  },
   "vtexsay": {
     "1.0.3": null
   },
@@ -664,6 +667,9 @@
   },
   "tusd-static-win32": {
     "1.1.0": null
+  },
+  "compass-version-callback": {
+    "1.0.1": null
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
@@ -698,6 +704,9 @@
   "funnelenvysays": {
     "1.0.7": null
   },
+  "execa-tree-kill": {
+    "4.0.0": null
+  },
   "string-packer": {
     "1.0.3": null
   },
@@ -706,9 +715,6 @@
   },
   "npm-bin-path": {
     "0.1.2": null
-  },
-  "compass-version-callback": {
-    "1.0.1": null
   },
   "npm-package-bin": {
     "0.0.6": null
@@ -734,19 +740,13 @@
   "opn-bg": {
     "0.1.1": null
   },
-  "@strong-roots-capital/bitmex-bin-size": {
-    "1.0.1": null
-  },
   "tusd-static-linux": {
     "1.1.0": null
-  },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
   },
   "number-convert": {
     "1.0.0": null
   },
-  "math-uint16-bits": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   }
 }
