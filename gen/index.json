@@ -143,11 +143,11 @@
   "node-alias": {
     "1.0.4": null
   },
-  "glow": {
-    "1.2.2": null
-  },
   "metal-name": {
     "2.2.0": null
+  },
+  "glow": {
+    "1.2.2": null
   },
   "movie-art": {
     "2.0.3": null
@@ -227,6 +227,9 @@
   "require-resolve-cli": {
     "1.0.0": null
   },
+  "ghcopy": {
+    "0.3.0": null
+  },
   "nicknames": {
     "1.0.2": null
   },
@@ -257,14 +260,14 @@
   "meow-names": {
     "1.0.1": null
   },
-  "movie-info": {
-    "2.0.5": null
-  },
   "test-engine": {
     "0.1.0": null
   },
   "markdown-proofing": {
     "1.0.2": null
+  },
+  "movie-info": {
+    "2.0.5": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -286,9 +289,6 @@
   },
   "node-diff-bin": {
     "0.1.0": null
-  },
-  "ghcopy": {
-    "0.3.0": null
   },
   "gazer-color": {
     "1.0.1": null
@@ -371,10 +371,10 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "strip-shebang": {
+  "lancaster-stemmer": {
     "2.0.0": null
   },
-  "lancaster-stemmer": {
+  "strip-shebang": {
     "2.0.0": null
   },
   "list-npm-contents": {
@@ -533,11 +533,11 @@
   "@wrench/executable": {
     "0.0.5": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
-  },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
+  },
+  "yosay-sogou": {
+    "0.0.2": null
   },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.6": null
@@ -560,11 +560,11 @@
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.6": null
   },
-  "7zip-standalone": {
-    "0.0.3": null
-  },
   "hexdump.js": {
     "1.1.0": null
+  },
+  "7zip-standalone": {
+    "0.0.3": null
   },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
@@ -623,9 +623,6 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "git-auto-badger": {
-    "1.0.22": null
-  },
   "urls-md": {
     "4.0.1": null
   },
@@ -634,6 +631,9 @@
   },
   "comanche": {
     "0.6.2": null
+  },
+  "git-auto-badger": {
+    "1.0.22": null
   },
   "@testup/cli": {
     "0.6.0": null
@@ -661,6 +661,9 @@
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
+  },
+  "funnelenvysays": {
+    "1.0.7": null
   },
   "vtexsay": {
     "1.0.3": null
@@ -701,9 +704,6 @@
   "@alizw/debug-es5": {
     "4.0.2": null
   },
-  "funnelenvysays": {
-    "1.0.7": null
-  },
   "hugo-extended": {
     "0.99.1": null
   },
@@ -743,10 +743,10 @@
   "tusd-static-linux": {
     "1.1.0": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   }
 }
