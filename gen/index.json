@@ -41,11 +41,11 @@
   "yeoman-character": {
     "1.1.0": null
   },
-  "magicli": {
-    "0.2.1": null
-  },
   "any-base": {
     "1.1.0": null
+  },
+  "magicli": {
+    "0.2.1": null
   },
   "trash-cli": {
     "5.0.0": null
@@ -161,11 +161,11 @@
   "aybabtu": {
     "1.1.6": null
   },
-  "to-executable-name": {
-    "2.0.0": null
-  },
   "mngen": {
     "1.1.0": null
+  },
+  "to-executable-name": {
+    "2.0.0": null
   },
   "mockbin": {
     "1.6.3": null
@@ -179,11 +179,11 @@
   "banks-db": {
     "0.20.0": null
   },
-  "windows-bin": {
-    "1.0.1": null
-  },
   "link-bin": {
     "2.0.2": null
+  },
+  "windows-bin": {
+    "1.0.1": null
   },
   "array-scaler": {
     "0.3.2": null
@@ -191,14 +191,14 @@
   "cover-art": {
     "1.0.5": null
   },
-  "maxrects-packer": {
-    "2.7.3": null
-  },
   "osx-learn": {
     "1.1.2": null
   },
   "sourcebin": {
     "4.3.5": null
+  },
+  "maxrects-packer": {
+    "2.7.3": null
   },
   "zfinder": {
     "0.2.10": null
@@ -251,11 +251,17 @@
   "pet-names": {
     "1.0.1": null
   },
+  "markdown-proofing": {
+    "1.0.2": null
+  },
   "standardize": {
     "1.2.2": null
   },
   "ipv6-to-bin": {
     "0.1.3": null
+  },
+  "meow-names": {
+    "1.0.1": null
   },
   "time-bin": {
     "1.0.1": null
@@ -263,29 +269,23 @@
   "ipv4-to-bin": {
     "0.1.1": null
   },
-  "meow-names": {
-    "1.0.1": null
+  "movie-info": {
+    "2.0.5": null
+  },
+  "nerdy-cat-names": {
+    "1.0.0": null
   },
   "test-engine": {
     "0.1.0": null
   },
-  "markdown-proofing": {
-    "1.0.2": null
-  },
   "tcpip-port-to-bin": {
     "0.1.0": null
-  },
-  "movie-info": {
-    "2.0.5": null
   },
   "scaler": {
     "0.2.1": null
   },
   "report-status": {
     "1.0.1": null
-  },
-  "nerdy-cat-names": {
-    "1.0.0": null
   },
   "node-diff-bin": {
     "0.1.0": null
@@ -383,9 +383,6 @@
   "vue-card-express": {
     "1.0.5": null
   },
-  "movie-trailer": {
-    "2.1.0": null
-  },
   "line-count": {
     "0.1.0": null
   },
@@ -394,6 +391,9 @@
   },
   "version-exists": {
     "0.0.4": null
+  },
+  "movie-trailer": {
+    "2.1.0": null
   },
   "is-jxr": {
     "2.0.0": null
@@ -420,7 +420,7 @@
     "0.1.0": null
   },
   "egg-born-bin": {
-    "3.5.4": null
+    "4.0.3": null
   },
   "all-module-paths": {
     "0.10.7": null
@@ -488,6 +488,9 @@
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
+  "mosay": {
+    "2.1.0": null
+  },
   "bin-exists": {
     "0.2.1": null
   },
@@ -503,11 +506,20 @@
   "hexdump.js": {
     "1.1.0": null
   },
-  "math-uint8-bits": {
-    "1.0.0": null
-  },
   "ios-splash": {
     "2.1.2": null
+  },
+  "math-float64-from-bits": {
+    "1.0.0": null
+  },
+  "math-uint32-to-binary-string": {
+    "1.0.0": null
+  },
+  "math-float32-from-bits": {
+    "1.0.1": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "android-splash": {
     "1.0.2": null
@@ -523,12 +535,6 @@
   },
   "binary-wrapper": {
     "0.0.1": null
-  },
-  "mosay": {
-    "2.1.0": null
-  },
-  "math-float64-from-bits": {
-    "1.0.0": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
@@ -547,12 +553,6 @@
   },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.6": null
-  },
-  "math-float32-from-bits": {
-    "1.0.1": null
-  },
-  "math-uint32-to-binary-string": {
-    "1.0.0": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
@@ -578,9 +578,6 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.6": null
   },
-  "mock-bin": {
-    "2.0.0": null
-  },
   "clito": {
     "0.1.2": null
   },
@@ -598,6 +595,9 @@
   },
   "node-creditcard-identifier": {
     "1.1.2": null
+  },
+  "mock-bin": {
+    "2.0.0": null
   },
   "exec-extra": {
     "2.8.0": null
@@ -665,6 +665,9 @@
   "funnelenvysays": {
     "1.0.7": null
   },
+  "math-float64-bits": {
+    "1.0.1": null
+  },
   "vtexsay": {
     "1.0.3": null
   },
@@ -689,6 +692,9 @@
   "@commonify/npm-run-path": {
     "5.0.1": null
   },
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
+  },
   "ks-strip-debug": {
     "0.0.2": null
   },
@@ -700,9 +706,6 @@
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
-  },
-  "math-float64-bits": {
-    "1.0.1": null
   },
   "@alizw/debug-es5": {
     "4.0.2": null
@@ -731,22 +734,19 @@
   "websocketdjs": {
     "0.0.2": null
   },
-  "math-uint16-to-binary-string": {
-    "1.0.1": null
-  },
   "mathbases": {
     "1.3.3": null
   },
   "sox-bin": {
     "1.0.2": null
   },
+  "math-uint16-bits": {
+    "1.0.0": null
+  },
   "opn-bg": {
     "0.1.1": null
   },
   "tusd-static-linux": {
     "1.1.0": null
-  },
-  "number-convert": {
-    "1.0.0": null
   }
 }
