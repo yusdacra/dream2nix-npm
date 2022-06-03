@@ -299,11 +299,11 @@
   "find-module-bin": {
     "1.1.0": null
   },
+  "@midwayjs/cli": {
+    "1.3.6": null
+  },
   "resolve-as-bin": {
     "2.1.0": null
-  },
-  "@midwayjs/cli": {
-    "1.3.5": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -377,14 +377,14 @@
   "strip-shebang": {
     "2.0.0": null
   },
+  "egg-born-bin": {
+    "4.0.10": null
+  },
   "list-npm-contents": {
     "1.0.2": null
   },
   "vue-card-express": {
     "1.0.5": null
-  },
-  "egg-born-bin": {
-    "4.0.9": null
   },
   "line-count": {
     "0.1.0": null
@@ -515,6 +515,9 @@
   "ios-splash": {
     "2.1.2": null
   },
+  "meow-shorts": {
+    "1.1.0": null
+  },
   "math-float64-from-bits": {
     "1.0.0": null
   },
@@ -580,9 +583,6 @@
   },
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.6": null
-  },
-  "meow-shorts": {
-    "1.1.0": null
   },
   "to-flag": {
     "1.0.0": null
@@ -734,9 +734,6 @@
   "websocketdjs": {
     "0.0.2": null
   },
-  "mathbases": {
-    "1.3.3": null
-  },
   "hugo-extended": {
     "0.100.1": null
   },
@@ -748,5 +745,8 @@
   },
   "math-uint16-bits": {
     "1.0.0": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   }
 }
