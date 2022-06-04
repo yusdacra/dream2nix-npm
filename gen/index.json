@@ -305,9 +305,6 @@
   "resolve-as-bin": {
     "2.1.0": null
   },
-  "midway-bin": {
-    "1.20.3": null
-  },
   "realpath": {
     "2.0.0": null
   },
@@ -335,9 +332,6 @@
   "yarn-global-modules": {
     "1.0.1": null
   },
-  "get-bin-path": {
-    "7.0.0": null
-  },
   "npm-cli-path": {
     "4.0.0": null
   },
@@ -350,11 +344,17 @@
   "bin-wrapper-china": {
     "0.1.0": null
   },
+  "midway-bin": {
+    "1.20.3": null
+  },
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
   "soundex-code": {
     "2.0.0": null
+  },
+  "get-bin-path": {
+    "7.0.0": null
   },
   "rasper": {
     "0.2.10": null
