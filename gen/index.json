@@ -375,7 +375,7 @@
     "0.0.20160121": null
   },
   "egg-born-bin": {
-    "4.0.11": null
+    "4.0.12": null
   },
   "strip-shebang": {
     "2.0.0": null
@@ -425,6 +425,9 @@
   "all-module-paths": {
     "0.10.7": null
   },
+  "nvison": {
+    "1.0.24": null
+  },
   "@root/hexdump": {
     "1.1.1": null
   },
@@ -442,9 +445,6 @@
   },
   "woofwoof": {
     "3.6.7": null
-  },
-  "nvison": {
-    "1.0.24": null
   },
   "npm-run-path-compat": {
     "2.0.3": null
@@ -635,11 +635,17 @@
   "git-auto-badger": {
     "1.0.22": null
   },
+  "@yarn-tool/shebang": {
+    "1.0.10": null
+  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -650,17 +656,11 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "npm-gcf-test": {
-    "1.1.2": null
-  },
   "npm-run-path-cli": {
     "2.0.0": null
   },
   "sunnier-bin": {
     "0.0.6": null
-  },
-  "@yarn-tool/shebang": {
-    "1.0.10": null
   },
   "string-packer": {
     "1.0.3": null
@@ -746,7 +746,7 @@
   "math-uint16-bits": {
     "1.0.0": null
   },
-  "opn-bg": {
-    "0.1.1": null
+  "deepmerge-yaml": {
+    "0.0.2": null
   }
 }
