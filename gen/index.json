@@ -149,14 +149,14 @@
   "glow": {
     "1.2.2": null
   },
+  "stemmer": {
+    "2.0.0": null
+  },
   "movie-art": {
     "2.0.3": null
   },
   "clean-dir": {
     "1.0.3": null
-  },
-  "stemmer": {
-    "2.0.0": null
   },
   "aybabtu": {
     "1.1.6": null
@@ -218,17 +218,17 @@
   "nicknames": {
     "1.0.2": null
   },
-  "slugify-files": {
-    "2.1.0": null
-  },
   "crip-names": {
     "1.2.5": null
   },
-  "sugar-ssh": {
-    "0.4.0": null
+  "slugify-files": {
+    "2.1.0": null
   },
   "binstall": {
     "1.2.1": null
+  },
+  "sugar-ssh": {
+    "0.4.0": null
   },
   "require-resolve-cli": {
     "1.0.0": null
@@ -245,9 +245,6 @@
   "tumblr-upload": {
     "0.8.1": null
   },
-  "standardize": {
-    "1.2.2": null
-  },
   "pet-names": {
     "1.0.1": null
   },
@@ -262,6 +259,9 @@
   },
   "meow-names": {
     "1.0.1": null
+  },
+  "standardize": {
+    "1.2.2": null
   },
   "time-bin": {
     "1.0.1": null
@@ -357,7 +357,10 @@
     "7.0.0": null
   },
   "egg-born-bin": {
-    "4.0.14": null
+    "4.0.15": null
+  },
+  "strip-shebang": {
+    "2.0.0": null
   },
   "begoo": {
     "2.0.2": null
@@ -376,9 +379,6 @@
   },
   "real-executable-path": {
     "3.0.0": null
-  },
-  "strip-shebang": {
-    "2.0.0": null
   },
   "list-npm-contents": {
     "1.0.2": null
@@ -662,9 +662,6 @@
   "sunnier-bin": {
     "0.0.6": null
   },
-  "string-packer": {
-    "1.0.3": null
-  },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
@@ -676,9 +673,6 @@
   },
   "math-float64-bits": {
     "1.0.1": null
-  },
-  "vtexsay": {
-    "1.0.3": null
   },
   "xcm": {
     "1.0.4": null
@@ -713,6 +707,9 @@
   "@marchyang/npm-run-path": {
     "5.0.1": null
   },
+  "string-packer": {
+    "1.0.3": null
+  },
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
@@ -737,14 +734,17 @@
   "random-word-fr": {
     "1.0.3": null
   },
-  "hugo-extended": {
-    "0.100.1": null
-  },
   "sox-bin": {
     "1.0.2": null
   },
   "math-uint16-bits": {
     "1.0.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
+  },
+  "hugo-extended": {
+    "0.100.2": null
   },
   "deepmerge-yaml": {
     "0.0.2": null
