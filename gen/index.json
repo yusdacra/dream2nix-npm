@@ -20,11 +20,11 @@
   "is-installed-globally": {
     "0.4.0": null
   },
-  "bin-wrapper": {
-    "4.1.0": null
-  },
   "istextorbinary": {
     "6.0.0": null
+  },
+  "bin-wrapper": {
+    "4.1.0": null
   },
   "trash": {
     "8.1.0": null
@@ -56,14 +56,14 @@
   "resolve-bin": {
     "1.0.1": null
   },
-  "bin-pack": {
-    "1.0.2": null
-  },
   "levenshtein-edit-distance": {
     "3.0.0": null
   },
   "taketalk": {
     "1.0.0": null
+  },
+  "bin-pack": {
+    "1.0.2": null
   },
   "alex": {
     "10.0.0": null
@@ -182,11 +182,11 @@
   "link-bin": {
     "2.0.2": null
   },
-  "windows-bin": {
-    "1.0.1": null
-  },
   "cover-art": {
     "1.0.5": null
+  },
+  "windows-bin": {
+    "1.0.1": null
   },
   "array-scaler": {
     "0.3.2": null
@@ -263,9 +263,6 @@
   "movie-info": {
     "2.0.5": null
   },
-  "bing-wallpaper": {
-    "0.1.3": null
-  },
   "nerdy-cat-names": {
     "1.0.0": null
   },
@@ -274,6 +271,9 @@
   },
   "report-status": {
     "1.0.1": null
+  },
+  "bing-wallpaper": {
+    "0.1.3": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -293,9 +293,6 @@
   "resolve-as-bin": {
     "2.1.0": null
   },
-  "binstall": {
-    "1.2.1": null
-  },
   "help-version": {
     "1.1.1": null
   },
@@ -313,6 +310,9 @@
   },
   "@tunnckocore/execa": {
     "5.2.7": null
+  },
+  "binstall": {
+    "1.2.1": null
   },
   "webpack-shebang-plugin": {
     "1.1.7": null
@@ -340,9 +340,6 @@
   },
   "exec-bin": {
     "1.0.0": null
-  },
-  "begoo": {
-    "2.0.2": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -374,17 +371,20 @@
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
-  "zfinder-utils": {
-    "0.0.20160121": null
-  },
   "real-executable-path": {
     "3.0.0": null
+  },
+  "begoo": {
+    "2.0.2": null
   },
   "list-npm-contents": {
     "1.0.2": null
   },
   "vue-card-express": {
     "1.0.5": null
+  },
+  "zfinder-utils": {
+    "0.0.20160121": null
   },
   "scritch": {
     "1.3.1": null
@@ -416,9 +416,6 @@
   "babel-plugin-shebang": {
     "1.0.0": null
   },
-  "build-purescript": {
-    "0.4.1": null
-  },
   "boxpack": {
     "0.1.0": null
   },
@@ -427,6 +424,9 @@
   },
   "nvison": {
     "1.0.24": null
+  },
+  "build-purescript": {
+    "0.4.1": null
   },
   "@root/hexdump": {
     "1.1.1": null
@@ -439,9 +439,6 @@
   },
   "pkg-bin": {
     "1.0.2": null
-  },
-  "woofwoof": {
-    "3.6.7": null
   },
   "bin-packer": {
     "1.7.0": null
@@ -458,6 +455,9 @@
   "isbin": {
     "0.0.3": null
   },
+  "woofwoof": {
+    "3.6.7": null
+  },
   "ios-icons": {
     "3.3.3": null
   },
@@ -472,9 +472,6 @@
   },
   "ppx-sedlex": {
     "20.0.0": null
-  },
-  "yargs-command-config": {
-    "1.0.5": null
   },
   "bin-manager": {
     "1.3.1": null
@@ -500,14 +497,11 @@
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.6": null
   },
-  "bin-exists": {
-    "0.2.1": null
-  },
   "binary-wrapper": {
     "0.0.1": null
   },
-  "android-icons": {
-    "2.0.4": null
+  "bin-exists": {
+    "0.2.1": null
   },
   "ios-splash": {
     "2.1.2": null
@@ -517,6 +511,9 @@
   },
   "math-float64-from-bits": {
     "1.0.0": null
+  },
+  "yargs-command-config": {
+    "1.0.5": null
   },
   "clito": {
     "0.1.2": null
@@ -533,17 +530,14 @@
   "dargs-fork": {
     "1.0.0": null
   },
-  "bin-up": {
-    "1.3.2": null
-  },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
+  "bin-up": {
+    "1.3.2": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
@@ -551,35 +545,35 @@
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
   },
-  "android-splash": {
-    "1.0.2": null
-  },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.6": null
   },
   "chopsticks": {
     "0.6.0": null
   },
+  "android-splash": {
+    "1.0.2": null
+  },
   "johngrimm-utils": {
     "2.0.5": null
+  },
+  "android-icons": {
+    "2.0.4": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-uint8-base-from-binary-string": {
-    "0.0.6": null
-  },
   "7zip-standalone": {
     "0.0.3": null
+  },
+  "@stdlib/number-uint8-base-from-binary-string": {
+    "0.0.6": null
   },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.6": null
   },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
-  },
-  "bauer-exec": {
-    "0.1.5": null
   },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
@@ -592,6 +586,12 @@
   },
   "wix-msi": {
     "0.6.0": null
+  },
+  "bauer-exec": {
+    "0.1.5": null
+  },
+  "yosay-sogou": {
+    "0.0.2": null
   },
   "jsbindat": {
     "0.10.3": null
@@ -647,14 +647,11 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "bluemix-logo": {
-    "1.1.2": null
-  },
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "sunnier-bin": {
-    "0.0.6": null
+  "bluemix-logo": {
+    "1.1.2": null
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
@@ -666,6 +663,9 @@
     "0.1.2": null
   },
   "math-float64-bits": {
+    "1.0.1": null
+  },
+  "whereissync": {
     "1.0.1": null
   },
   "xcm": {
@@ -685,9 +685,6 @@
   },
   "@aligov/debug-es5": {
     "4.0.2": null
-  },
-  "whereissync": {
-    "1.0.1": null
   },
   "@commonify/npm-run-path": {
     "5.0.1": null
@@ -725,23 +722,26 @@
   "useful-ut": {
     "1.0.2": null
   },
-  "websocketdjs": {
-    "0.0.2": null
+  "sunnier-bin": {
+    "0.0.6": null
   },
   "random-word-fr": {
     "1.0.3": null
   },
-  "sox-bin": {
-    "1.0.2": null
-  },
   "cheese-name": {
     "2.0.1": null
+  },
+  "sox-bin": {
+    "1.0.2": null
   },
   "vtexsay": {
     "1.0.3": null
   },
   "math-uint16-bits": {
     "1.0.0": null
+  },
+  "websocketdjs": {
+    "0.0.2": null
   },
   "opn-bg": {
     "0.1.1": null
