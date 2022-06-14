@@ -182,14 +182,14 @@
   "link-bin": {
     "2.0.2": null
   },
-  "cover-art": {
-    "1.0.5": null
-  },
   "windows-bin": {
     "1.0.1": null
   },
   "array-scaler": {
     "0.3.2": null
+  },
+  "cover-art": {
+    "1.0.5": null
   },
   "osx-learn": {
     "1.1.2": null
@@ -218,9 +218,6 @@
   "nicknames": {
     "1.0.2": null
   },
-  "crip-names": {
-    "1.2.5": null
-  },
   "slugify-files": {
     "2.1.0": null
   },
@@ -238,6 +235,9 @@
   },
   "emailing": {
     "0.0.6": null
+  },
+  "crip-names": {
+    "1.2.5": null
   },
   "pet-names": {
     "1.0.1": null
@@ -500,11 +500,11 @@
   "binary-wrapper": {
     "0.0.1": null
   },
-  "bin-exists": {
-    "0.2.1": null
-  },
   "ios-splash": {
     "2.1.2": null
+  },
+  "bin-exists": {
+    "0.2.1": null
   },
   "meow-shorts": {
     "1.1.0": null
@@ -530,11 +530,11 @@
   "dargs-fork": {
     "1.0.0": null
   },
-  "@randy.tarampi/ios-splash": {
-    "3.1.11": null
-  },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
+  },
+  "@randy.tarampi/ios-splash": {
+    "3.1.11": null
   },
   "bin-up": {
     "1.3.2": null
@@ -602,29 +602,26 @@
   "mock-bin": {
     "2.0.0": null
   },
+  "config-strip-debug": {
+    "1.0.1": null
+  },
   "exec-extra": {
     "2.8.0": null
   },
   "dbin": {
     "0.0.8": null
   },
-  "config-strip-debug": {
-    "1.0.1": null
-  },
   "async-which": {
     "1.0.3": null
-  },
-  "ect-bin": {
-    "1.4.1": null
   },
   "cut-optimizer": {
     "0.1.1": null
   },
+  "ect-bin": {
+    "1.4.1": null
+  },
   "git-auto-badger": {
     "1.0.22": null
-  },
-  "comanche": {
-    "0.6.2": null
   },
   "@yarn-tool/shebang": {
     "1.0.10": null
@@ -677,9 +674,6 @@
   "npm-package-bin": {
     "0.0.6": null
   },
-  "compass-version-callback": {
-    "1.0.1": null
-  },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
   },
@@ -719,6 +713,9 @@
   "@whodunit/character": {
     "1.0.4": null
   },
+  "comanche": {
+    "0.6.2": null
+  },
   "useful-ut": {
     "1.0.2": null
   },
@@ -733,6 +730,9 @@
   },
   "sox-bin": {
     "1.0.2": null
+  },
+  "compass-version-callback": {
+    "1.0.1": null
   },
   "vtexsay": {
     "1.0.3": null
