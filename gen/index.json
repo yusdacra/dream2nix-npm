@@ -125,14 +125,14 @@
   "human-names": {
     "1.0.11": null
   },
-  "dice-coefficient": {
-    "2.1.0": null
-  },
   "svg-icon": {
     "0.8.2": null
   },
   "animals": {
     "0.0.3": null
+  },
+  "dice-coefficient": {
+    "2.1.0": null
   },
   "project-bin-path": {
     "2.0.0": null
@@ -212,9 +212,6 @@
   "npm-package-env": {
     "0.4.9": null
   },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
-  },
   "nicknames": {
     "1.0.2": null
   },
@@ -229,6 +226,9 @@
   },
   "ghcopy": {
     "0.3.0": null
+  },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
   },
   "@hugojosefson/example-cli": {
     "4.0.1": null
@@ -392,11 +392,11 @@
   "line-count": {
     "0.1.0": null
   },
-  "version-exists": {
-    "0.0.4": null
-  },
   "movie-trailer": {
     "2.1.0": null
+  },
+  "version-exists": {
+    "0.0.4": null
   },
   "is-jxr": {
     "2.0.0": null
@@ -527,9 +527,6 @@
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
-  "dargs-fork": {
-    "1.0.0": null
-  },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
@@ -584,6 +581,9 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.6": null
   },
+  "dargs-fork": {
+    "1.0.0": null
+  },
   "wix-msi": {
     "0.6.0": null
   },
@@ -608,11 +608,11 @@
   "exec-extra": {
     "2.8.0": null
   },
-  "dbin": {
-    "0.0.8": null
-  },
   "async-which": {
     "1.0.3": null
+  },
+  "dbin": {
+    "0.0.8": null
   },
   "cut-optimizer": {
     "0.1.1": null
