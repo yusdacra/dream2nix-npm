@@ -96,7 +96,7 @@
     "2.0.0": null
   },
   "cat-names": {
-    "3.0.0": null
+    "3.1.0": null
   },
   "syllable": {
     "5.0.0": null
@@ -392,11 +392,11 @@
   "line-count": {
     "0.1.0": null
   },
-  "movie-trailer": {
-    "2.1.0": null
-  },
   "version-exists": {
     "0.0.4": null
+  },
+  "movie-trailer": {
+    "2.1.0": null
   },
   "is-jxr": {
     "2.0.0": null
