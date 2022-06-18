@@ -380,9 +380,6 @@
   "list-npm-contents": {
     "1.0.2": null
   },
-  "vue-card-express": {
-    "1.0.5": null
-  },
   "zfinder-utils": {
     "0.0.20160121": null
   },
@@ -403,6 +400,9 @@
   },
   "yarn-config-directory": {
     "1.0.2": null
+  },
+  "vue-card-express": {
+    "1.0.5": null
   },
   "bin-tool": {
     "2.2.3": null
@@ -680,11 +680,11 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "urls-md": {
-    "4.0.1": null
-  },
   "ks-strip-debug": {
     "0.0.2": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "@marchyang/npm-run-path": {
     "5.0.1": null
