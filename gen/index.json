@@ -38,14 +38,14 @@
   "direction": {
     "2.0.1": null
   },
+  "magicli": {
+    "0.2.1": null
+  },
   "yeoman-character": {
     "1.1.0": null
   },
   "any-base": {
     "1.1.0": null
-  },
-  "magicli": {
-    "0.2.1": null
   },
   "trash-cli": {
     "5.0.0": null
@@ -68,14 +68,14 @@
   "alex": {
     "10.0.0": null
   },
-  "purescript": {
-    "0.15.2": null
-  },
   "remark-cli": {
     "10.0.1": null
   },
   "run-node": {
     "2.0.0": null
+  },
+  "purescript": {
+    "0.15.2": null
   },
   "vega-transforms": {
     "4.10.0": null
@@ -167,11 +167,11 @@
   "mngen": {
     "1.1.0": null
   },
-  "mockbin": {
-    "1.6.3": null
-  },
   "dig.js": {
     "1.3.9": null
+  },
+  "mockbin": {
+    "1.6.3": null
   },
   "binstruct": {
     "0.3.1": null
@@ -179,11 +179,11 @@
   "banks-db": {
     "0.20.0": null
   },
-  "link-bin": {
-    "2.0.2": null
-  },
   "windows-bin": {
     "1.0.1": null
+  },
+  "link-bin": {
+    "2.0.2": null
   },
   "array-scaler": {
     "0.3.2": null
@@ -230,9 +230,6 @@
   "dandruff-pinkeye-halitosis": {
     "3.0.1": null
   },
-  "@hugojosefson/example-cli": {
-    "4.0.1": null
-  },
   "crip-names": {
     "1.2.5": null
   },
@@ -240,12 +237,6 @@
     "1.1.1": null
   },
   "pet-names": {
-    "1.0.1": null
-  },
-  "markdown-proofing": {
-    "1.0.2": null
-  },
-  "meow-names": {
     "1.0.1": null
   },
   "standardize": {
@@ -275,20 +266,29 @@
   "tumblr-upload": {
     "0.8.1": null
   },
+  "@hugojosefson/example-cli": {
+    "4.0.1": null
+  },
   "time-bin": {
     "1.0.1": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
   },
-  "test-engine": {
-    "0.1.0": null
-  },
   "gazer-color": {
     "1.0.1": null
   },
+  "test-engine": {
+    "0.1.0": null
+  },
+  "markdown-proofing": {
+    "1.0.2": null
+  },
   "ipv6-to-bin": {
     "0.1.3": null
+  },
+  "meow-names": {
+    "1.0.1": null
   },
   "ipv4-to-bin": {
     "0.1.1": null
@@ -338,11 +338,11 @@
   "midway-bin": {
     "1.20.3": null
   },
-  "bin-wrapper-china": {
-    "0.1.0": null
-  },
   "math-float32-to-binary-string": {
     "1.0.0": null
+  },
+  "bin-wrapper-china": {
+    "0.1.0": null
   },
   "soundex-code": {
     "2.0.0": null
@@ -362,9 +362,6 @@
   "rasper": {
     "0.2.10": null
   },
-  "lancaster-stemmer": {
-    "2.0.0": null
-  },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
@@ -383,14 +380,17 @@
   "is-jxr": {
     "2.0.0": null
   },
+  "lancaster-stemmer": {
+    "2.0.0": null
+  },
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "scritch": {
-    "1.3.1": null
-  },
   "line-count": {
     "0.1.0": null
+  },
+  "scritch": {
+    "1.3.1": null
   },
   "version-exists": {
     "0.0.4": null
@@ -431,14 +431,14 @@
   "@root/hexdump": {
     "1.1.1": null
   },
-  "@marchyang/execa": {
-    "6.0.1": null
-  },
   "package-run": {
     "2.0.6": null
   },
   "pkg-bin": {
     "1.0.2": null
+  },
+  "@marchyang/execa": {
+    "6.0.1": null
   },
   "bin-packer": {
     "1.7.0": null
@@ -458,11 +458,11 @@
   "workspaces-utils": {
     "1.2.1": null
   },
-  "isbin": {
-    "0.0.3": null
-  },
   "cli-rewire": {
     "4.0.4": null
+  },
+  "isbin": {
+    "0.0.3": null
   },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
@@ -476,11 +476,11 @@
   "mosay": {
     "2.1.0": null
   },
-  "to-flag": {
-    "1.0.0": null
-  },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
+  },
+  "to-flag": {
+    "1.0.0": null
   },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
@@ -500,32 +500,20 @@
   "meow-shorts": {
     "1.1.0": null
   },
-  "math-float64-from-bits": {
-    "1.0.0": null
-  },
   "clito": {
     "0.1.2": null
   },
   "yargs-command-config": {
     "1.0.5": null
   },
-  "math-float32-from-bits": {
-    "1.0.1": null
-  },
-  "math-uint32-to-binary-string": {
-    "1.0.0": null
-  },
-  "math-uint8-bits": {
-    "1.0.0": null
-  },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
-  "@randy.tarampi/ios-splash": {
-    "3.1.11": null
-  },
   "bin-up": {
     "1.3.2": null
+  },
+  "@randy.tarampi/ios-splash": {
+    "3.1.11": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
@@ -542,6 +530,9 @@
   "ios-icons": {
     "3.3.3": null
   },
+  "math-uint32-to-binary-string": {
+    "1.0.0": null
+  },
   "android-splash": {
     "1.0.2": null
   },
@@ -551,20 +542,23 @@
   "android-icons": {
     "2.0.4": null
   },
-  "ios-splash": {
-    "2.1.2": null
+  "7zip-standalone": {
+    "0.0.3": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
   },
-  "7zip-standalone": {
-    "0.0.3": null
+  "ios-splash": {
+    "2.1.2": null
   },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.6": null
   },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.6": null
+  },
+  "math-float32-from-bits": {
+    "1.0.1": null
   },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
@@ -575,8 +569,14 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
+  "math-float64-from-bits": {
+    "1.0.0": null
+  },
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.6": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "dargs-fork": {
     "1.0.0": null
@@ -605,11 +605,11 @@
   "dbin": {
     "0.0.8": null
   },
-  "ect-bin": {
-    "1.4.1": null
-  },
   "git-auto-badger": {
     "1.0.22": null
+  },
+  "ect-bin": {
+    "1.4.1": null
   },
   "@yarn-tool/shebang": {
     "1.0.10": null
@@ -647,9 +647,6 @@
   "npm-bin-path": {
     "0.1.2": null
   },
-  "math-float64-bits": {
-    "1.0.1": null
-  },
   "jsbindat": {
     "0.10.3": null
   },
@@ -659,17 +656,11 @@
   "npm-package-bin": {
     "0.0.6": null
   },
-  "math-uint16-to-binary-string": {
-    "1.0.1": null
-  },
-  "ks-strip-debug": {
-    "0.0.2": null
-  },
   "urls-md": {
     "4.0.1": null
   },
-  "@marchyang/npm-run-path": {
-    "5.0.1": null
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
   },
   "string-packer": {
     "1.0.3": null
@@ -698,11 +689,11 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "random-word-fr": {
-    "1.0.3": null
-  },
   "sox-bin": {
     "1.0.2": null
+  },
+  "random-word-fr": {
+    "1.0.3": null
   },
   "@commonify/npm-run-path": {
     "5.0.1": null
@@ -710,11 +701,11 @@
   "compass-version-callback": {
     "1.0.1": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "cut-optimizer": {
     "0.1.1": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "funnelenvysays": {
     "1.0.7": null
@@ -722,20 +713,23 @@
   "tusd-static-win32": {
     "1.1.0": null
   },
-  "math-uint16-bits": {
-    "1.0.0": null
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "websocketdjs": {
     "0.0.2": null
   },
-  "xcm": {
-    "1.0.4": null
+  "math-float64-bits": {
+    "1.0.1": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
-  "opn-bg": {
-    "0.1.1": null
+  "xcm": {
+    "1.0.4": null
   },
   "number-convert": {
     "1.0.0": null
@@ -748,5 +742,11 @@
   },
   "deepmerge-yaml": {
     "0.0.2": null
+  },
+  "math-uint16-bits": {
+    "1.0.0": null
+  },
+  "@aligov/debug-es5": {
+    "4.0.2": null
   }
 }
