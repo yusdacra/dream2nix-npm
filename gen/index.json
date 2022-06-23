@@ -90,7 +90,7 @@
     "1.7.7": null
   },
   "@pnpm/link-bins": {
-    "7.1.3": null
+    "7.1.4": null
   },
   "metaphone": {
     "2.0.0": null
@@ -209,9 +209,6 @@
   "eightball": {
     "1.0.1": null
   },
-  "npm-package-env": {
-    "0.4.9": null
-  },
   "slugify-files": {
     "2.1.0": null
   },
@@ -239,6 +236,9 @@
   "standardize": {
     "1.2.2": null
   },
+  "npm-package-env": {
+    "0.4.9": null
+  },
   "scaler": {
     "0.2.1": null
   },
@@ -251,11 +251,11 @@
   "report-status": {
     "1.0.1": null
   },
-  "bing-wallpaper": {
-    "0.1.3": null
-  },
   "ghcopy": {
     "0.3.0": null
+  },
+  "bing-wallpaper": {
+    "0.1.3": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -272,11 +272,11 @@
   "gazer-color": {
     "1.0.1": null
   },
-  "test-engine": {
-    "0.1.0": null
-  },
   "markdown-proofing": {
     "1.0.2": null
+  },
+  "test-engine": {
+    "0.1.0": null
   },
   "ipv6-to-bin": {
     "0.1.3": null
@@ -542,11 +542,11 @@
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
-  "android-splash": {
-    "1.0.2": null
-  },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.6": null
+  },
+  "android-splash": {
+    "1.0.2": null
   },
   "android-icons": {
     "2.0.4": null
@@ -605,11 +605,11 @@
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
   },
-  "git-auto-badger": {
-    "1.0.22": null
-  },
   "ect-bin": {
     "1.4.1": null
+  },
+  "git-auto-badger": {
+    "1.0.22": null
   },
   "@yarn-tool/shebang": {
     "1.0.10": null
@@ -629,26 +629,17 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "npm-run-path-cli": {
-    "2.0.0": null
+  "wix-msi": {
+    "0.6.0": null
   },
   "bluemix-logo": {
     "1.1.2": null
   },
-  "wix-msi": {
-    "0.6.0": null
-  },
   "jsbindat": {
     "0.10.3": null
   },
-  "npm-bin-path": {
-    "0.1.2": null
-  },
   "whereissync": {
     "1.0.1": null
-  },
-  "npm-package-bin": {
-    "0.0.6": null
   },
   "urls-md": {
     "4.0.1": null
@@ -698,14 +689,14 @@
   "funnelenvysays": {
     "1.0.7": null
   },
+  "@testup/cli": {
+    "0.6.0": null
+  },
   "tusd-static-win32": {
     "1.1.0": null
   },
   "math-float64-to-binary-string": {
     "1.0.1": null
-  },
-  "@testup/cli": {
-    "0.6.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -713,11 +704,17 @@
   "websocketdjs": {
     "0.0.2": null
   },
-  "@abdfnx/hac_k": {
-    "1.0.2": null
+  "npm-run-path-cli": {
+    "2.0.0": null
+  },
+  "number-convert": {
+    "1.0.0": null
   },
   "opn-bg": {
     "0.1.1": null
+  },
+  "@abdfnx/hac_k": {
+    "1.0.2": null
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
@@ -725,14 +722,17 @@
   "xcm": {
     "1.0.4": null
   },
-  "number-convert": {
-    "1.0.0": null
+  "npm-package-bin": {
+    "0.0.6": null
   },
   "useful-ut": {
     "1.0.2": null
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "npm-bin-path": {
+    "0.1.2": null
   },
   "deepmerge-yaml": {
     "0.0.2": null
