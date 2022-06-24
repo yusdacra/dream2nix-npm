@@ -14,11 +14,11 @@
   "global-dirs": {
     "3.0.0": null
   },
+  "flow-bin": {
+    "0.181.0": null
+  },
   "is-installed-globally": {
     "0.4.0": null
-  },
-  "flow-bin": {
-    "0.180.1": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -74,11 +74,11 @@
   "run-node": {
     "2.0.0": null
   },
-  "purescript": {
-    "0.15.2": null
-  },
   "vega-transforms": {
     "4.10.0": null
+  },
+  "purescript": {
+    "0.15.2": null
   },
   "packery": {
     "2.1.2": null
@@ -230,14 +230,11 @@
   "help-version": {
     "1.1.1": null
   },
-  "pet-names": {
-    "1.0.1": null
+  "npm-package-env": {
+    "0.4.9": null
   },
   "standardize": {
     "1.2.2": null
-  },
-  "npm-package-env": {
-    "0.4.9": null
   },
   "scaler": {
     "0.2.1": null
@@ -266,17 +263,20 @@
   "time-bin": {
     "1.0.1": null
   },
-  "tcpip-port-to-bin": {
-    "0.1.0": null
-  },
   "gazer-color": {
     "1.0.1": null
+  },
+  "tcpip-port-to-bin": {
+    "0.1.0": null
   },
   "markdown-proofing": {
     "1.0.2": null
   },
   "test-engine": {
     "0.1.0": null
+  },
+  "pet-names": {
+    "1.0.1": null
   },
   "ipv6-to-bin": {
     "0.1.3": null
@@ -302,6 +302,9 @@
   "@midwayjs/cli": {
     "1.3.6": null
   },
+  "pkg-ok": {
+    "3.0.0": null
+  },
   "@tunnckocore/execa": {
     "5.2.7": null
   },
@@ -316,9 +319,6 @@
   },
   "webpack-shebang-plugin": {
     "1.1.7": null
-  },
-  "pkg-ok": {
-    "3.0.0": null
   },
   "find-module-bin": {
     "1.1.0": null
@@ -533,14 +533,14 @@
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
   },
-  "math-uint32-to-binary-string": {
-    "1.0.0": null
+  "@randy.tarampi/ios-splash": {
+    "3.1.11": null
   },
   "johngrimm-utils": {
     "2.0.5": null
   },
-  "@randy.tarampi/ios-splash": {
-    "3.1.11": null
+  "math-uint32-to-binary-string": {
+    "1.0.0": null
   },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.6": null
@@ -707,11 +707,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "number-convert": {
-    "1.0.0": null
-  },
   "opn-bg": {
     "0.1.1": null
+  },
+  "number-convert": {
+    "1.0.0": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
