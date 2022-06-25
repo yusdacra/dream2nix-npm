@@ -78,7 +78,7 @@
     "4.10.0": null
   },
   "purescript": {
-    "0.15.2": null
+    "0.15.3": null
   },
   "packery": {
     "2.1.2": null
@@ -90,7 +90,7 @@
     "1.7.7": null
   },
   "@pnpm/link-bins": {
-    "7.1.4": null
+    "7.1.5": null
   },
   "metaphone": {
     "2.0.0": null
@@ -473,11 +473,11 @@
   "mosay": {
     "2.1.0": null
   },
-  "@wrench/executable": {
-    "0.0.5": null
-  },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.6": null
+  },
+  "@wrench/executable": {
+    "0.0.5": null
   },
   "binary-wrapper": {
     "0.0.1": null
@@ -509,11 +509,11 @@
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.6": null
-  },
   "chopsticks": {
     "0.6.0": null
+  },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.6": null
   },
   "ios-icons": {
     "3.3.3": null
@@ -548,11 +548,11 @@
   "android-splash": {
     "1.0.2": null
   },
-  "android-icons": {
-    "2.0.4": null
-  },
   "7zip-standalone": {
     "0.0.3": null
+  },
+  "android-icons": {
+    "2.0.4": null
   },
   "ios-splash": {
     "2.1.2": null
@@ -611,11 +611,11 @@
   "git-auto-badger": {
     "1.0.22": null
   },
-  "@yarn-tool/shebang": {
-    "1.0.10": null
-  },
   "scala-bin": {
     "0.3.3": null
+  },
+  "@yarn-tool/shebang": {
+    "1.0.10": null
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
@@ -632,11 +632,11 @@
   "wix-msi": {
     "0.6.0": null
   },
-  "bluemix-logo": {
-    "1.1.2": null
-  },
   "jsbindat": {
     "0.10.3": null
+  },
+  "bluemix-logo": {
+    "1.1.2": null
   },
   "whereissync": {
     "1.0.1": null
@@ -650,11 +650,11 @@
   "string-packer": {
     "1.0.3": null
   },
-  "@cjs-mifi-test/npm-run-path": {
-    "5.0.1": null
-  },
   "exec-extra": {
     "2.8.0": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
   },
   "bin-pls": {
     "1.0.1": null
@@ -674,11 +674,11 @@
   "random-word-fr": {
     "1.0.3": null
   },
-  "@commonify/npm-run-path": {
-    "5.0.1": null
-  },
   "cut-optimizer": {
     "0.1.1": null
+  },
+  "@commonify/npm-run-path": {
+    "5.0.1": null
   },
   "compass-version-callback": {
     "1.0.1": null
@@ -686,11 +686,11 @@
   "vtexsay": {
     "1.0.3": null
   },
-  "funnelenvysays": {
-    "1.0.7": null
-  },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "funnelenvysays": {
+    "1.0.7": null
   },
   "tusd-static-win32": {
     "1.1.0": null
@@ -707,11 +707,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "opn-bg": {
-    "0.1.1": null
-  },
   "number-convert": {
     "1.0.0": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -728,11 +728,11 @@
   "useful-ut": {
     "1.0.2": null
   },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
-  },
   "npm-bin-path": {
     "0.1.2": null
+  },
+  "resolve-jsdoc-bin": {
+    "1.0.0": null
   },
   "deepmerge-yaml": {
     "0.0.2": null
