@@ -90,7 +90,7 @@
     "1.7.7": null
   },
   "@pnpm/link-bins": {
-    "7.1.5": null
+    "7.1.6": null
   },
   "metaphone": {
     "2.0.0": null
@@ -179,11 +179,11 @@
   "binstruct": {
     "0.3.1": null
   },
-  "link-bin": {
-    "2.0.2": null
-  },
   "windows-bin": {
     "1.0.1": null
+  },
+  "link-bin": {
+    "2.0.2": null
   },
   "array-scaler": {
     "0.3.2": null
@@ -212,11 +212,11 @@
   "emailing": {
     "0.0.6": null
   },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
-  },
   "help-version": {
     "1.1.1": null
+  },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
   },
   "require-resolve-cli": {
     "1.0.0": null
@@ -269,11 +269,11 @@
   "scaler": {
     "0.2.1": null
   },
-  "resolve-as-bin": {
-    "2.1.0": null
-  },
   "meow-names": {
     "1.0.1": null
+  },
+  "resolve-as-bin": {
+    "2.1.0": null
   },
   "ipv4-to-bin": {
     "0.1.1": null
@@ -320,6 +320,9 @@
   "webpack-shebang-plugin": {
     "1.1.7": null
   },
+  "get-bin-path": {
+    "7.0.0": null
+  },
   "find-module-bin": {
     "1.1.0": null
   },
@@ -338,17 +341,11 @@
   "strip-shebang": {
     "2.0.0": null
   },
-  "midway-bin": {
-    "1.20.3": null
-  },
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
   "exec-bin": {
     "1.0.0": null
-  },
-  "get-bin-path": {
-    "7.0.0": null
   },
   "egg-born-bin": {
     "4.0.18": null
@@ -361,6 +358,9 @@
   },
   "yarn-global-modules": {
     "1.0.1": null
+  },
+  "midway-bin": {
+    "1.20.3": null
   },
   "rasper": {
     "0.2.10": null
@@ -446,14 +446,14 @@
   "to-flag": {
     "1.0.0": null
   },
-  "woofwoof": {
-    "3.6.7": null
-  },
   "@root/hexdump": {
     "1.1.1": null
   },
   "workspaces-utils": {
     "1.2.1": null
+  },
+  "woofwoof": {
+    "3.6.7": null
   },
   "cli-rewire": {
     "4.0.4": null
@@ -509,11 +509,11 @@
   "ios-icons": {
     "3.3.3": null
   },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.6": null
-  },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
+  },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.6": null
   },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
@@ -584,14 +584,14 @@
   "yosay-sogou": {
     "0.0.2": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "mock-bin": {
     "2.0.0": null
   },
   "config-strip-debug": {
     "1.0.1": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
@@ -626,20 +626,14 @@
   "bluemix-logo": {
     "1.1.2": null
   },
-  "whereissync": {
-    "1.0.1": null
-  },
   "exec-extra": {
     "2.8.0": null
   },
-  "urls-md": {
-    "4.0.1": null
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
   },
   "math-uint16-to-binary-string": {
     "1.0.1": null
-  },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
@@ -652,6 +646,12 @@
   },
   "@wrote/rm": {
     "1.1.5": null
+  },
+  "urls-md": {
+    "4.0.1": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
@@ -680,9 +680,6 @@
   "compass-version-callback": {
     "1.0.1": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "funnelenvysays": {
     "1.0.7": null
   },
@@ -692,20 +689,23 @@
   "string-packer": {
     "1.0.3": null
   },
+  "math-float64-bits": {
+    "1.0.1": null
+  },
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "math-float64-bits": {
+  "whereissync": {
     "1.0.1": null
   },
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "number-convert": {
-    "1.0.0": null
-  },
   "opn-bg": {
     "0.1.1": null
+  },
+  "number-convert": {
+    "1.0.0": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -715,9 +715,6 @@
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
-  },
-  "websocketdjs": {
-    "0.0.2": null
   },
   "npm-package-bin": {
     "0.0.6": null
@@ -745,6 +742,9 @@
   },
   "bin-pls": {
     "1.0.1": null
+  },
+  "websocketdjs": {
+    "0.0.2": null
   },
   "@whodunit/character": {
     "1.0.4": null
