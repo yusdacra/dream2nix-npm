@@ -15,7 +15,7 @@
     "3.0.0": null
   },
   "flow-bin": {
-    "0.181.1": null
+    "0.181.2": null
   },
   "is-installed-globally": {
     "0.4.0": null
@@ -41,10 +41,10 @@
   "magicli": {
     "0.2.1": null
   },
-  "yeoman-character": {
+  "any-base": {
     "1.1.0": null
   },
-  "any-base": {
+  "yeoman-character": {
     "1.1.0": null
   },
   "trash-cli": {
@@ -191,17 +191,14 @@
   "cover-art": {
     "1.0.5": null
   },
-  "sourcebin": {
-    "4.3.5": null
-  },
   "osx-learn": {
     "1.1.2": null
   },
+  "sourcebin": {
+    "4.3.5": null
+  },
   "maxrects-packer": {
     "2.7.3": null
-  },
-  "zfinder": {
-    "0.2.10": null
   },
   "pwpush-cli": {
     "0.8.1": null
@@ -212,11 +209,14 @@
   "emailing": {
     "0.0.6": null
   },
-  "help-version": {
-    "1.1.1": null
+  "zfinder": {
+    "0.2.10": null
   },
   "dandruff-pinkeye-halitosis": {
     "3.0.1": null
+  },
+  "help-version": {
+    "1.1.1": null
   },
   "require-resolve-cli": {
     "1.0.0": null
@@ -272,11 +272,11 @@
   "meow-names": {
     "1.0.1": null
   },
-  "resolve-as-bin": {
-    "2.1.0": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "resolve-as-bin": {
+    "2.1.0": null
   },
   "node-diff-bin": {
     "0.1.0": null
@@ -348,7 +348,7 @@
     "1.0.0": null
   },
   "egg-born-bin": {
-    "4.0.18": null
+    "4.1.0": null
   },
   "ultrax": {
     "2.0.1": null
@@ -491,9 +491,6 @@
   "bin-up": {
     "1.3.2": null
   },
-  "yargs-command-config": {
-    "1.0.5": null
-  },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
@@ -503,11 +500,11 @@
   "chopsticks": {
     "0.6.0": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
-    "0.0.7": null
-  },
   "ios-icons": {
     "3.3.3": null
+  },
+  "@stdlib/number-uint8-base-to-binary-string": {
+    "0.0.7": null
   },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
@@ -521,6 +518,9 @@
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
+  "node-creditcard-identifier": {
+    "1.1.2": null
+  },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
@@ -529,6 +529,9 @@
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
+  },
+  "yargs-command-config": {
+    "1.0.5": null
   },
   "7zip-standalone": {
     "0.0.3": null
@@ -557,9 +560,6 @@
   "math-float64-from-bits": {
     "1.0.0": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
-  },
   "math-uint8-bits": {
     "1.0.0": null
   },
@@ -572,17 +572,17 @@
   "hexdump.js": {
     "1.1.0": null
   },
+  "yosay-sogou": {
+    "0.0.2": null
+  },
   "bauer-exec": {
     "0.1.5": null
-  },
-  "clito": {
-    "0.1.2": null
   },
   "meow-shorts": {
     "1.1.0": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
+  "clito": {
+    "0.1.2": null
   },
   "mock-bin": {
     "2.0.0": null
@@ -599,11 +599,11 @@
   "async-which": {
     "1.0.3": null
   },
-  "dbin": {
-    "0.0.8": null
-  },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
+  },
+  "dbin": {
+    "0.0.8": null
   },
   "ect-bin": {
     "1.4.1": null
@@ -641,14 +641,14 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
   "@wrote/rm": {
     "1.1.5": null
   },
   "urls-md": {
     "4.0.1": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "vtexsay": {
     "1.0.3": null
@@ -662,20 +662,20 @@
   "cut-optimizer": {
     "0.1.1": null
   },
-  "sunnier-bin": {
-    "0.0.6": null
-  },
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
   "sox-bin": {
     "1.0.2": null
   },
-  "@commonify/npm-run-path": {
-    "5.0.1": null
+  "sunnier-bin": {
+    "0.0.6": null
   },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "@commonify/npm-run-path": {
+    "5.0.1": null
   },
   "compass-version-callback": {
     "1.0.1": null
@@ -683,14 +683,14 @@
   "funnelenvysays": {
     "1.0.7": null
   },
+  "math-float64-bits": {
+    "1.0.1": null
+  },
   "tusd-static-win32": {
     "1.1.0": null
   },
   "string-packer": {
     "1.0.3": null
-  },
-  "math-float64-bits": {
-    "1.0.1": null
   },
   "math-float64-to-binary-string": {
     "1.0.1": null
@@ -701,11 +701,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "opn-bg": {
-    "0.1.1": null
-  },
   "number-convert": {
     "1.0.0": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
