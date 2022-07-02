@@ -212,11 +212,11 @@
   "zfinder": {
     "0.2.10": null
   },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
-  },
   "help-version": {
     "1.1.1": null
+  },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
   },
   "require-resolve-cli": {
     "1.0.0": null
@@ -290,10 +290,10 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "test-engine": {
+  "tcpip-port-to-bin": {
     "0.1.0": null
   },
-  "tcpip-port-to-bin": {
+  "test-engine": {
     "0.1.0": null
   },
   "realpath": {
@@ -380,11 +380,11 @@
   "is-jxr": {
     "2.0.0": null
   },
-  "to-flags": {
-    "0.2.0": null
-  },
   "zfinder-utils": {
     "0.0.20160121": null
+  },
+  "to-flags": {
+    "0.2.0": null
   },
   "lancaster-stemmer": {
     "2.0.0": null
@@ -395,11 +395,11 @@
   "scritch": {
     "1.3.1": null
   },
-  "bin-tool": {
-    "2.2.3": null
-  },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
+  },
+  "bin-tool": {
+    "2.2.3": null
   },
   "version-exists": {
     "0.0.4": null
@@ -476,11 +476,11 @@
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.6": null
   },
-  "mosay": {
-    "2.1.0": null
-  },
   "bin-exists": {
     "0.2.1": null
+  },
+  "mosay": {
+    "2.1.0": null
   },
   "android-icons": {
     "2.0.4": null
@@ -497,11 +497,11 @@
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.6": null
-  },
   "chopsticks": {
     "0.6.0": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.6": null
   },
   "ios-icons": {
     "3.3.3": null
@@ -533,11 +533,11 @@
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
   },
-  "yargs-command-config": {
-    "1.0.5": null
-  },
   "7zip-standalone": {
     "0.0.3": null
+  },
+  "yargs-command-config": {
+    "1.0.5": null
   },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.6": null
@@ -719,11 +719,11 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
-  },
   "npm-package-bin": {
     "0.0.6": null
+  },
+  "resolve-jsdoc-bin": {
+    "1.0.0": null
   },
   "useful-ut": {
     "1.0.2": null
