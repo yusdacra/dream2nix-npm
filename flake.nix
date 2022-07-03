@@ -7,25 +7,20 @@
       url = "github:nix-community/dream2nix/feat/indexers";
       inputs.nixpkgs.follows = "nixpkgs";
     };
-    ilib = {
-      url = "github:yusdacra/dream2nix-index-lib/feat/d2n-apps";
-      inputs.dream2nix.follows = "dream2nix";
-    };
   };
 
   outputs = inp:
-    inp.ilib.lib.makeOutputsForIndexes {
+    inp.dream2nix.lib.makeFlakeOutputsForIndexes {
       source = ./.;
-      indexesForSystems = {
-        "x86_64-linux" = ["npm"];
-      };
-      extendOutputs = {
-        system,
+      systems = ["x86_64-linux"];
+      indexNames = ["npm"];
+      overrideOutputs = {
         mkIndexApp,
+        prevOutputs,
         ...
-      }: prev: {
-        apps.${system} =
-          prev.apps.${system}
+      }: {
+        apps =
+          prevOutputs.apps
           // {
             index-npm-top-250-binary = mkIndexApp {
               name = "npm";
