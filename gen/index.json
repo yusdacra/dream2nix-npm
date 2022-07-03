@@ -90,7 +90,7 @@
     "1.7.7": null
   },
   "@pnpm/link-bins": {
-    "7.1.6": null
+    "7.1.7": null
   },
   "metaphone": {
     "2.0.0": null
@@ -179,11 +179,11 @@
   "binstruct": {
     "0.3.1": null
   },
-  "windows-bin": {
-    "1.0.1": null
-  },
   "link-bin": {
     "2.0.2": null
+  },
+  "windows-bin": {
+    "1.0.1": null
   },
   "array-scaler": {
     "0.3.2": null
@@ -200,9 +200,6 @@
   "maxrects-packer": {
     "2.7.3": null
   },
-  "pwpush-cli": {
-    "0.8.1": null
-  },
   "eightball": {
     "1.0.1": null
   },
@@ -211,6 +208,9 @@
   },
   "zfinder": {
     "0.2.10": null
+  },
+  "pwpush-cli": {
+    "0.8.1": null
   },
   "help-version": {
     "1.1.1": null
@@ -278,11 +278,11 @@
   "resolve-as-bin": {
     "2.1.0": null
   },
-  "node-diff-bin": {
-    "0.1.0": null
-  },
   "time-bin": {
     "1.0.1": null
+  },
+  "node-diff-bin": {
+    "0.1.0": null
   },
   "report-status": {
     "1.0.1": null
@@ -303,7 +303,7 @@
     "3.0.0": null
   },
   "@tunnckocore/execa": {
-    "5.2.7": null
+    "6.0.0": null
   },
   "@midwayjs/cli": {
     "1.3.6": null
@@ -353,11 +353,11 @@
   "ultrax": {
     "2.0.1": null
   },
-  "soundex-code": {
-    "2.0.0": null
-  },
   "yarn-global-modules": {
     "1.0.1": null
+  },
+  "soundex-code": {
+    "2.0.0": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -467,26 +467,23 @@
   "@sepalang/myself": {
     "0.3.0": null
   },
-  "ppx-sedlex": {
-    "20.0.0": null
-  },
   "bin-manager": {
     "1.3.1": null
-  },
-  "@stdlib/number-float64-base-to-binary-string": {
-    "0.0.6": null
   },
   "bin-exists": {
     "0.2.1": null
   },
+  "@stdlib/number-float64-base-to-binary-string": {
+    "0.0.6": null
+  },
   "mosay": {
     "2.1.0": null
   },
-  "android-icons": {
-    "2.0.4": null
-  },
   "@randy.tarampi/android-icons": {
     "3.1.11": null
+  },
+  "android-icons": {
+    "2.0.4": null
   },
   "binary-wrapper": {
     "0.0.1": null
@@ -494,17 +491,17 @@
   "bin-up": {
     "1.3.2": null
   },
-  "@stdlib/number-uint32-base-to-binary-string": {
-    "0.0.7": null
-  },
   "chopsticks": {
     "0.6.0": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.6": null
+  "@stdlib/number-uint32-base-to-binary-string": {
+    "0.0.7": null
   },
   "ios-icons": {
     "3.3.3": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.6": null
   },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
@@ -512,11 +509,11 @@
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.6": null
-  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
+  },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.6": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
@@ -527,14 +524,14 @@
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
+  "7zip-standalone": {
+    "0.0.3": null
+  },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
-  },
-  "7zip-standalone": {
-    "0.0.3": null
   },
   "yargs-command-config": {
     "1.0.5": null
@@ -553,6 +550,9 @@
   },
   "ios-splash": {
     "2.1.2": null
+  },
+  "ppx-sedlex": {
+    "20.0.0": null
   },
   "math-float32-from-bits": {
     "1.0.1": null
@@ -590,11 +590,11 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "async-which": {
     "1.0.3": null
@@ -647,14 +647,14 @@
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "@yarn-tool/shebang": {
     "1.0.10": null
   },
   "scala-bin": {
     "0.3.3": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -695,20 +695,20 @@
   "tusd-static-win32": {
     "1.1.0": null
   },
-  "math-float64-to-binary-string": {
-    "1.0.1": null
-  },
   "whereissync": {
     "1.0.1": null
   },
   "npm-run-path-cli": {
     "2.0.0": null
   },
+  "opn-bg": {
+    "0.1.1": null
+  },
   "number-convert": {
     "1.0.0": null
   },
-  "opn-bg": {
-    "0.1.1": null
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
