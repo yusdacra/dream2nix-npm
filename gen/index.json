@@ -290,10 +290,10 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "tcpip-port-to-bin": {
+  "test-engine": {
     "0.1.0": null
   },
-  "test-engine": {
+  "tcpip-port-to-bin": {
     "0.1.0": null
   },
   "realpath": {
@@ -461,11 +461,11 @@
   "johngrimm-utils": {
     "2.0.5": null
   },
-  "isbin": {
-    "0.0.3": null
-  },
   "@sepalang/myself": {
     "0.3.0": null
+  },
+  "isbin": {
+    "0.0.3": null
   },
   "bin-manager": {
     "1.3.1": null
@@ -485,11 +485,11 @@
   "android-icons": {
     "2.0.4": null
   },
-  "binary-wrapper": {
-    "0.0.1": null
-  },
   "bin-up": {
     "1.3.2": null
+  },
+  "binary-wrapper": {
+    "0.0.1": null
   },
   "chopsticks": {
     "0.6.0": null
@@ -506,11 +506,11 @@
   "@randy.tarampi/android-splash": {
     "2.1.11": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
-    "0.0.7": null
-  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
+  },
+  "@stdlib/number-uint8-base-to-binary-string": {
+    "0.0.7": null
   },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.6": null
@@ -518,14 +518,14 @@
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
+  "7zip-standalone": {
+    "0.0.3": null
   },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
-  "7zip-standalone": {
-    "0.0.3": null
+  "node-creditcard-identifier": {
+    "1.1.2": null
   },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
@@ -548,11 +548,11 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.6": null
   },
-  "ios-splash": {
-    "2.1.2": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "ios-splash": {
+    "2.1.2": null
   },
   "math-float32-from-bits": {
     "1.0.1": null
@@ -665,11 +665,11 @@
   "sox-bin": {
     "1.0.2": null
   },
-  "sunnier-bin": {
-    "0.0.6": null
-  },
   "bluemix-logo": {
     "1.1.2": null
+  },
+  "sunnier-bin": {
+    "0.0.6": null
   },
   "@testup/cli": {
     "0.6.0": null
@@ -701,11 +701,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "opn-bg": {
-    "0.1.1": null
-  },
   "number-convert": {
     "1.0.0": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "math-float64-to-binary-string": {
     "1.0.1": null
