@@ -203,6 +203,9 @@
   "eightball": {
     "1.0.1": null
   },
+  "resolve-as-bin": {
+    "2.1.0": null
+  },
   "emailing": {
     "0.0.6": null
   },
@@ -275,9 +278,6 @@
   "ipv4-to-bin": {
     "0.1.1": null
   },
-  "resolve-as-bin": {
-    "2.1.0": null
-  },
   "time-bin": {
     "1.0.1": null
   },
@@ -299,6 +299,9 @@
   "realpath": {
     "2.0.0": null
   },
+  "render-help": {
+    "1.0.2": null
+  },
   "pkg-ok": {
     "3.0.0": null
   },
@@ -307,9 +310,6 @@
   },
   "@midwayjs/cli": {
     "1.3.6": null
-  },
-  "render-help": {
-    "1.0.2": null
   },
   "binstall": {
     "1.2.1": null
@@ -365,11 +365,11 @@
   "rasper": {
     "0.2.10": null
   },
-  "begoo": {
-    "2.0.2": null
-  },
   "real-executable-path": {
     "3.0.0": null
+  },
+  "begoo": {
+    "2.0.2": null
   },
   "movie-trailer": {
     "2.1.0": null
@@ -458,11 +458,11 @@
   "cli-rewire": {
     "4.0.4": null
   },
-  "johngrimm-utils": {
-    "2.0.5": null
-  },
   "@sepalang/myself": {
     "0.3.0": null
+  },
+  "johngrimm-utils": {
+    "2.0.5": null
   },
   "isbin": {
     "0.0.3": null
@@ -494,17 +494,17 @@
   "chopsticks": {
     "0.6.0": null
   },
-  "@stdlib/number-uint32-base-to-binary-string": {
-    "0.0.7": null
-  },
   "ios-icons": {
     "3.3.3": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.6": null
+  "@stdlib/number-uint32-base-to-binary-string": {
+    "0.0.7": null
   },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.6": null
   },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
@@ -524,11 +524,11 @@
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.6": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
-  },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.6": null
+  },
+  "node-creditcard-identifier": {
+    "1.1.2": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.7": null
@@ -653,11 +653,11 @@
   "scala-bin": {
     "0.3.3": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "cut-optimizer": {
     "0.1.1": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
@@ -707,11 +707,11 @@
   "opn-bg": {
     "0.1.1": null
   },
-  "math-float64-to-binary-string": {
-    "1.0.1": null
-  },
   "@abdfnx/hac_k": {
     "1.0.2": null
+  },
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "random-word-fr": {
     "1.0.3": null
