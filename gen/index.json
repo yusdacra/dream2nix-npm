@@ -572,17 +572,17 @@
   "hexdump.js": {
     "1.1.0": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
-  },
   "bauer-exec": {
     "0.1.5": null
   },
-  "clito": {
-    "0.1.2": null
+  "yosay-sogou": {
+    "0.0.2": null
   },
   "meow-shorts": {
     "1.1.0": null
+  },
+  "clito": {
+    "0.1.2": null
   },
   "mock-bin": {
     "2.0.0": null
@@ -629,11 +629,11 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "@cjs-mifi-test/npm-run-path": {
-    "5.0.1": null
-  },
   "cheese-name": {
     "2.0.1": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
   },
   "@wrote/rm": {
     "1.1.5": null
@@ -641,11 +641,11 @@
   "urls-md": {
     "4.0.1": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "@yarn-tool/shebang": {
     "1.0.10": null
@@ -695,11 +695,11 @@
   "tusd-static-win32": {
     "1.1.0": null
   },
-  "whereissync": {
-    "1.0.1": null
-  },
   "npm-run-path-cli": {
     "2.0.0": null
+  },
+  "whereissync": {
+    "1.0.1": null
   },
   "number-convert": {
     "1.0.0": null
