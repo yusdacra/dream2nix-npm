@@ -293,10 +293,10 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "test-engine": {
+  "tcpip-port-to-bin": {
     "0.1.0": null
   },
-  "tcpip-port-to-bin": {
+  "test-engine": {
     "0.1.0": null
   },
   "realpath": {
@@ -500,11 +500,11 @@
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.6": null
-  },
   "chopsticks": {
     "0.6.0": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.6": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
