@@ -203,14 +203,14 @@
   "eightball": {
     "1.0.1": null
   },
+  "emailing": {
+    "0.0.6": null
+  },
   "resolve-as-bin": {
     "2.1.0": null
   },
   "zfinder": {
     "0.2.10": null
-  },
-  "emailing": {
-    "0.0.6": null
   },
   "pwpush-cli": {
     "0.8.1": null
@@ -230,11 +230,11 @@
   "binstall": {
     "1.2.1": null
   },
-  "nicknames": {
-    "1.0.2": null
-  },
   "sugar-ssh": {
     "0.4.0": null
+  },
+  "nicknames": {
+    "1.0.2": null
   },
   "slugify-files": {
     "2.1.0": null
@@ -353,14 +353,14 @@
   "yarn-global-modules": {
     "1.0.1": null
   },
-  "ultrax": {
-    "2.0.1": null
-  },
   "soundex-code": {
     "2.0.0": null
   },
   "midway-bin": {
     "1.20.3": null
+  },
+  "ultrax": {
+    "2.0.1": null
   },
   "rasper": {
     "0.2.10": null
@@ -650,17 +650,20 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "cut-optimizer": {
-    "0.1.1": null
-  },
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
   "sox-bin": {
     "1.0.2": null
   },
+  "hugo-extended": {
+    "0.101.0": null
+  },
   "vtexsay": {
     "1.0.3": null
+  },
+  "cut-optimizer": {
+    "0.1.1": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -689,9 +692,6 @@
   "string-packer": {
     "1.0.3": null
   },
-  "tusd-static-win32": {
-    "1.1.0": null
-  },
   "npm-run-path-cli": {
     "2.0.0": null
   },
@@ -719,14 +719,11 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "npm-package-bin": {
-    "0.0.6": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
+  "npm-package-bin": {
+    "0.0.6": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -737,16 +734,19 @@
   "@aligov/debug-es5": {
     "4.0.2": null
   },
+  "tusd-static-win32": {
+    "1.1.0": null
+  },
   "ks-strip-debug": {
     "0.0.2": null
   },
   "bin-pls": {
     "1.0.1": null
   },
+  "useful-ut": {
+    "1.0.2": null
+  },
   "websocketdjs": {
     "0.0.2": null
-  },
-  "@whodunit/character": {
-    "1.0.4": null
   }
 }
