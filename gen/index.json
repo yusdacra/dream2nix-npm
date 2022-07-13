@@ -230,11 +230,11 @@
   "binstall": {
     "1.2.1": null
   },
-  "sugar-ssh": {
-    "0.4.0": null
-  },
   "nicknames": {
     "1.0.2": null
+  },
+  "sugar-ssh": {
+    "0.4.0": null
   },
   "slugify-files": {
     "2.1.0": null
@@ -293,10 +293,10 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "tcpip-port-to-bin": {
+  "test-engine": {
     "0.1.0": null
   },
-  "test-engine": {
+  "tcpip-port-to-bin": {
     "0.1.0": null
   },
   "realpath": {
@@ -386,14 +386,14 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
+  "line-count": {
+    "0.1.0": null
+  },
   "to-flags": {
     "0.2.0": null
   },
   "lancaster-stemmer": {
     "2.0.0": null
-  },
-  "line-count": {
-    "0.1.0": null
   },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
@@ -458,6 +458,9 @@
   "woofwoof": {
     "3.6.7": null
   },
+  "@stdlib/number-float64-base-to-binary-string": {
+    "0.0.7": null
+  },
   "cli-rewire": {
     "4.0.4": null
   },
@@ -470,14 +473,20 @@
   "isbin": {
     "0.0.3": null
   },
+  "@stdlib/number-uint8-base-to-binary-string": {
+    "0.0.8": null
+  },
   "bin-manager": {
     "1.3.1": null
+  },
+  "@stdlib/number-uint32-base-to-binary-string": {
+    "0.0.8": null
   },
   "@randy.tarampi/android-icons": {
     "3.1.11": null
   },
-  "@stdlib/number-float64-base-to-binary-string": {
-    "0.0.6": null
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.7": null
   },
   "mosay": {
     "2.1.0": null
@@ -485,8 +494,20 @@
   "android-icons": {
     "2.0.4": null
   },
+  "@stdlib/number-uint16-base-to-binary-string": {
+    "0.0.8": null
+  },
   "binary-wrapper": {
     "0.0.1": null
+  },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-float32-base-from-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-uint32-base-from-binary-string": {
+    "0.0.7": null
   },
   "ios-icons": {
     "3.3.3": null
@@ -494,44 +515,26 @@
   "@randy.tarampi/android-splash": {
     "2.1.11": null
   },
+  "@stdlib/number-uint8-base-from-binary-string": {
+    "0.0.7": null
+  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
-  },
-  "@stdlib/number-uint32-base-to-binary-string": {
-    "0.0.7": null
   },
   "chopsticks": {
     "0.6.0": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.6": null
-  },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
+  "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
-  },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.6": null
   },
   "yargs-command-config": {
     "1.0.5": null
   },
-  "@stdlib/number-float32-base-from-binary-string": {
-    "0.0.6": null
-  },
-  "@stdlib/number-uint32-base-from-binary-string": {
-    "0.0.6": null
-  },
   "node-creditcard-identifier": {
     "1.1.2": null
-  },
-  "@stdlib/number-uint16-base-to-binary-string": {
-    "0.0.7": null
-  },
-  "@stdlib/number-uint8-base-from-binary-string": {
-    "0.0.6": null
   },
   "android-splash": {
     "1.0.2": null
@@ -547,9 +550,6 @@
   },
   "bin-up": {
     "1.3.2": null
-  },
-  "@stdlib/number-uint16-base-from-binary-string": {
-    "0.0.6": null
   },
   "ios-splash": {
     "2.1.2": null
@@ -626,14 +626,14 @@
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
-  "math-uint16-to-binary-string": {
-    "1.0.1": null
-  },
   "@wrote/rm": {
     "1.1.5": null
   },
   "urls-md": {
     "4.0.1": null
+  },
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
@@ -659,11 +659,11 @@
   "hugo-extended": {
     "0.101.0": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "cut-optimizer": {
     "0.1.1": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -701,11 +701,11 @@
   "opn-bg": {
     "0.1.1": null
   },
-  "whereissync": {
-    "1.0.1": null
-  },
   "sunnier-bin": {
     "0.0.6": null
+  },
+  "whereissync": {
+    "1.0.1": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -716,14 +716,14 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "math-float64-to-binary-string": {
-    "1.0.1": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "npm-package-bin": {
     "0.0.6": null
+  },
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "npm-bin-path": {
     "0.1.2": null
