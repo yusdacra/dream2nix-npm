@@ -1,0 +1,40 @@
+{
+  "_generic": {
+    "defaultPackage": "@colisweb/bs-react-intl-extractor-bin",
+    "location": "",
+    "packages": {
+      "@colisweb/bs-react-intl-extractor-bin": "0.12.2"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "@colisweb/bs-react-intl-extractor-bin": {
+      "0.12.2": [
+        [
+          "null",
+          "2.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "@colisweb/bs-react-intl-extractor-bin": {
+      "0.12.2": {
+        "hash": "sha256-ZHvmTwF02MgEaldnonOiA3SWtUrmknwXA0XhuWRhgzI=",
+        "type": "npm"
+      }
+    }
+  }
+}
