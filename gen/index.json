@@ -224,9 +224,6 @@
   "npm-package-env": {
     "0.4.9": null
   },
-  "movie-info": {
-    "2.0.5": null
-  },
   "binstall": {
     "1.2.1": null
   },
@@ -235,6 +232,9 @@
   },
   "sugar-ssh": {
     "0.4.0": null
+  },
+  "movie-info": {
+    "2.0.5": null
   },
   "slugify-files": {
     "2.1.0": null
@@ -266,6 +266,9 @@
   "@hugojosefson/example-cli": {
     "4.0.1": null
   },
+  "nerdy-cat-names": {
+    "1.0.0": null
+  },
   "ipv4-to-bin": {
     "0.1.1": null
   },
@@ -290,13 +293,10 @@
   "report-status": {
     "1.0.1": null
   },
-  "nerdy-cat-names": {
-    "1.0.0": null
-  },
-  "test-engine": {
+  "tcpip-port-to-bin": {
     "0.1.0": null
   },
-  "tcpip-port-to-bin": {
+  "test-engine": {
     "0.1.0": null
   },
   "realpath": {
@@ -344,9 +344,6 @@
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
-  "exec-bin": {
-    "1.0.0": null
-  },
   "soundex-code": {
     "2.0.0": null
   },
@@ -361,6 +358,9 @@
   },
   "rasper": {
     "0.2.10": null
+  },
+  "exec-bin": {
+    "1.0.0": null
   },
   "begoo": {
     "2.0.2": null
@@ -392,11 +392,11 @@
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
-  "version-exists": {
-    "0.0.4": null
-  },
   "bin-tool": {
     "2.2.3": null
+  },
+  "version-exists": {
+    "0.0.4": null
   },
   "vue-card-express": {
     "1.0.5": null
@@ -449,9 +449,6 @@
   "to-flag": {
     "1.0.0": null
   },
-  "@root/hexdump": {
-    "1.1.1": null
-  },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.7": null
   },
@@ -461,11 +458,14 @@
   "cli-rewire": {
     "4.0.4": null
   },
-  "@sepalang/myself": {
-    "0.3.0": null
-  },
   "johngrimm-utils": {
     "2.0.5": null
+  },
+  "@root/hexdump": {
+    "1.1.1": null
+  },
+  "@sepalang/myself": {
+    "0.3.0": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
@@ -488,14 +488,14 @@
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
   },
-  "mosay": {
-    "2.1.0": null
-  },
   "android-icons": {
     "2.0.4": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
+  },
+  "mosay": {
+    "2.1.0": null
   },
   "binary-wrapper": {
     "0.0.1": null
@@ -512,14 +512,8 @@
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
   },
-  "@randy.tarampi/android-splash": {
-    "2.1.11": null
-  },
   "math-uint32-to-binary-string": {
     "1.0.0": null
-  },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
   },
   "math-float64-from-bits": {
     "1.0.0": null
@@ -527,14 +521,14 @@
   "chopsticks": {
     "0.6.0": null
   },
-  "@randy.tarampi/ios-splash": {
-    "3.1.11": null
-  },
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
   },
   "workspaces-utils": {
     "1.2.1": null
+  },
+  "@randy.tarampi/android-splash": {
+    "2.1.11": null
   },
   "yargs-command-config": {
     "1.0.5": null
@@ -542,11 +536,17 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
+  },
   "math-uint8-bits": {
     "1.0.0": null
   },
   "android-splash": {
     "1.0.2": null
+  },
+  "@randy.tarampi/ios-splash": {
+    "3.1.11": null
   },
   "7zip-standalone": {
     "0.0.3": null
@@ -590,11 +590,11 @@
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "async-which": {
-    "1.0.3": null
-  },
   "config-strip-debug": {
     "1.0.1": null
+  },
+  "async-which": {
+    "1.0.3": null
   },
   "usually": {
     "1.2.0": null
@@ -653,14 +653,14 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
+  "hugo-extended": {
+    "0.101.0": null
+  },
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
   "sox-bin": {
     "1.0.2": null
-  },
-  "hugo-extended": {
-    "0.101.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -689,6 +689,9 @@
   "npm-gcf-test": {
     "1.1.2": null
   },
+  "@strong-roots-capital/bitmex-bin-size": {
+    "1.0.1": null
+  },
   "compass-version-callback": {
     "1.0.1": null
   },
@@ -716,9 +719,6 @@
   "random-word-fr": {
     "1.0.3": null
   },
-  "@strong-roots-capital/bitmex-bin-size": {
-    "1.0.1": null
-  },
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
@@ -740,11 +740,11 @@
   "bin-pls": {
     "1.0.1": null
   },
-  "useful-ut": {
-    "1.0.2": null
-  },
   "websocketdjs": {
     "0.0.2": null
+  },
+  "useful-ut": {
+    "1.0.2": null
   },
   "@commonify/npm-run-path": {
     "5.0.1": null
