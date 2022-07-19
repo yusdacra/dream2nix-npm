@@ -239,10 +239,10 @@
   "crip-names": {
     "1.2.5": null
   },
-  "nicknames": {
+  "markdown-proofing": {
     "1.0.2": null
   },
-  "markdown-proofing": {
+  "nicknames": {
     "1.0.2": null
   },
   "ghcopy": {
@@ -272,6 +272,9 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
+  "pet-names": {
+    "1.0.1": null
+  },
   "ipv4-to-bin": {
     "0.1.1": null
   },
@@ -280,9 +283,6 @@
   },
   "tumblr-upload": {
     "0.8.1": null
-  },
-  "pet-names": {
-    "1.0.1": null
   },
   "scaler": {
     "0.2.1": null
@@ -302,14 +302,14 @@
   "realpath": {
     "2.0.0": null
   },
+  "pkg-ok": {
+    "3.0.0": null
+  },
   "count-lines": {
     "0.1.2": null
   },
   "render-help": {
     "1.0.2": null
-  },
-  "pkg-ok": {
-    "3.0.0": null
   },
   "webpack-shebang-plugin": {
     "1.1.7": null
@@ -437,11 +437,11 @@
   "bin-packer": {
     "1.7.0": null
   },
-  "pkg-bin": {
-    "1.0.2": null
-  },
   "npm-run-path-compat": {
     "2.0.3": null
+  },
+  "pkg-bin": {
+    "1.0.2": null
   },
   "bin-exists": {
     "0.2.1": null
@@ -536,11 +536,11 @@
   "yargs-command-config": {
     "1.0.5": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
-  },
   "math-uint8-bits": {
     "1.0.0": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "android-splash": {
     "1.0.2": null
@@ -644,17 +644,20 @@
   "scala-bin": {
     "0.3.3": null
   },
-  "cheese-name": {
-    "2.0.1": null
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "math-float64-to-binary-string": {
-    "1.0.1": null
+  "cheese-name": {
+    "2.0.1": null
   },
   "hugo-extended": {
     "0.101.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -664,9 +667,6 @@
   },
   "sox-bin": {
     "1.0.2": null
-  },
-  "vtexsay": {
-    "1.0.3": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -689,11 +689,11 @@
   "funnelenvysays": {
     "1.0.7": null
   },
-  "npm-gcf-test": {
-    "1.1.2": null
-  },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "compass-version-callback": {
     "1.0.1": null
@@ -740,13 +740,13 @@
   "bin-pls": {
     "1.0.1": null
   },
+  "pkg-bin-paths": {
+    "1.0.0": null
+  },
   "useful-ut": {
     "1.0.2": null
   },
   "websocketdjs": {
     "0.0.2": null
-  },
-  "@commonify/npm-run-path": {
-    "5.0.1": null
   }
 }
