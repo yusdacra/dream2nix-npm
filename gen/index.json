@@ -272,11 +272,11 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "pet-names": {
-    "1.0.1": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "pet-names": {
+    "1.0.1": null
   },
   "gazer-color": {
     "1.0.1": null
@@ -539,11 +539,11 @@
   "math-uint8-bits": {
     "1.0.0": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
-  },
   "android-splash": {
     "1.0.2": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
@@ -593,11 +593,11 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "async-which": {
-    "1.0.3": null
-  },
   "usually": {
     "1.2.0": null
+  },
+  "async-which": {
+    "1.0.3": null
   },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
@@ -653,11 +653,11 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "hugo-extended": {
-    "0.101.0": null
-  },
   "vtexsay": {
     "1.0.3": null
+  },
+  "hugo-extended": {
+    "0.101.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -674,11 +674,11 @@
   "bluemix-logo": {
     "1.1.2": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
   "math-uint16-bits": {
     "1.0.0": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -743,8 +743,8 @@
   "pkg-bin-paths": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
+  "@commonify/npm-run-path": {
+    "5.0.1": null
   },
   "websocketdjs": {
     "0.0.2": null
