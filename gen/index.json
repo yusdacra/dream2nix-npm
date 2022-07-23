@@ -98,11 +98,11 @@
   "cat-names": {
     "3.1.0": null
   },
-  "metaphone": {
-    "2.0.0": null
-  },
   "syllable": {
     "5.0.0": null
+  },
+  "metaphone": {
+    "2.0.0": null
   },
   "npm-prefix": {
     "1.2.0": null
@@ -125,11 +125,11 @@
   "human-names": {
     "1.0.11": null
   },
-  "dice-coefficient": {
-    "2.1.0": null
-  },
   "svg-icon": {
     "0.8.2": null
+  },
+  "dice-coefficient": {
+    "2.1.0": null
   },
   "animals": {
     "0.0.3": null
@@ -140,11 +140,11 @@
   "npm-installed": {
     "2.0.2": null
   },
-  "node-alias": {
-    "1.0.4": null
-  },
   "stemmer": {
     "2.0.0": null
+  },
+  "node-alias": {
+    "1.0.4": null
   },
   "metal-name": {
     "2.2.0": null
@@ -206,11 +206,11 @@
   "emailing": {
     "0.0.6": null
   },
-  "resolve-as-bin": {
-    "2.1.0": null
-  },
   "require-resolve-cli": {
     "1.0.0": null
+  },
+  "resolve-as-bin": {
+    "2.1.0": null
   },
   "help-version": {
     "1.1.1": null
@@ -221,20 +221,20 @@
   "pwpush-cli": {
     "0.8.1": null
   },
+  "movie-info": {
+    "2.0.5": null
+  },
   "binstall": {
     "1.2.1": null
   },
-  "sugar-ssh": {
-    "0.4.0": null
-  },
-  "movie-info": {
-    "2.0.5": null
+  "npm-package-env": {
+    "0.4.9": null
   },
   "slugify-files": {
     "2.1.0": null
   },
-  "npm-package-env": {
-    "0.4.9": null
+  "sugar-ssh": {
+    "0.4.0": null
   },
   "markdown-proofing": {
     "1.0.2": null
@@ -245,11 +245,14 @@
   "nicknames": {
     "1.0.2": null
   },
+  "bing-wallpaper": {
+    "0.1.3": null
+  },
   "ghcopy": {
     "0.3.0": null
   },
-  "bing-wallpaper": {
-    "0.1.3": null
+  "time-bin": {
+    "1.0.1": null
   },
   "dandruff-pinkeye-halitosis": {
     "3.0.1": null
@@ -272,11 +275,17 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "standardize": {
-    "1.2.2": null
+  "tumblr-upload": {
+    "0.8.1": null
+  },
+  "test-engine": {
+    "0.1.0": null
   },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "tcpip-port-to-bin": {
+    "0.1.0": null
   },
   "@hugojosefson/example-cli": {
     "4.0.1": null
@@ -284,20 +293,11 @@
   "pet-names": {
     "1.0.1": null
   },
+  "standardize": {
+    "1.2.2": null
+  },
   "gazer-color": {
     "1.0.1": null
-  },
-  "tumblr-upload": {
-    "0.8.1": null
-  },
-  "time-bin": {
-    "1.0.1": null
-  },
-  "tcpip-port-to-bin": {
-    "0.1.0": null
-  },
-  "test-engine": {
-    "0.1.0": null
   },
   "realpath": {
     "2.0.0": null
@@ -329,6 +329,9 @@
   "cli-belt": {
     "2.0.0": null
   },
+  "strip-shebang": {
+    "2.0.0": null
+  },
   "@spatial/boolean-point-in-polygon": {
     "2.0.0": null
   },
@@ -338,7 +341,7 @@
   "bin-wrapper-china": {
     "0.1.0": null
   },
-  "strip-shebang": {
+  "soundex-code": {
     "2.0.0": null
   },
   "math-float32-to-binary-string": {
@@ -346,9 +349,6 @@
   },
   "real-executable-path": {
     "3.0.0": null
-  },
-  "soundex-code": {
-    "2.0.0": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -380,9 +380,6 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "to-flags": {
-    "0.2.0": null
-  },
   "list-npm-contents": {
     "1.0.2": null
   },
@@ -392,17 +389,20 @@
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
-  "version-exists": {
-    "0.0.4": null
-  },
   "bin-tool": {
     "2.2.3": null
   },
-  "vue-card-express": {
-    "1.0.5": null
+  "version-exists": {
+    "0.0.4": null
+  },
+  "to-flags": {
+    "0.2.0": null
   },
   "egg-born-bin": {
-    "4.1.1": null
+    "4.1.2": null
+  },
+  "vue-card-express": {
+    "1.0.5": null
   },
   "yarn-config-directory": {
     "1.0.2": null
@@ -425,17 +425,17 @@
   "package-run": {
     "2.0.6": null
   },
-  "is-jxr": {
-    "2.0.0": null
-  },
   "@marchyang/execa": {
     "6.0.1": null
   },
-  "build-purescript": {
-    "0.4.1": null
+  "is-jxr": {
+    "2.0.0": null
   },
   "bin-packer": {
     "1.7.0": null
+  },
+  "build-purescript": {
+    "0.4.1": null
   },
   "pkg-bin": {
     "1.0.2": null
@@ -445,9 +445,6 @@
   },
   "bin-exists": {
     "0.2.1": null
-  },
-  "to-flag": {
-    "1.0.0": null
   },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.7": null
@@ -467,11 +464,11 @@
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
   },
-  "@sepalang/myself": {
-    "0.3.0": null
-  },
   "ios-icons": {
     "3.3.3": null
+  },
+  "@sepalang/myself": {
+    "0.3.0": null
   },
   "bin-manager": {
     "1.3.1": null
@@ -479,11 +476,17 @@
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.8": null
   },
+  "to-flag": {
+    "1.0.0": null
+  },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
   },
   "android-icons": {
     "2.0.4": null
+  },
+  "mosay": {
+    "2.1.0": null
   },
   "@randy.tarampi/android-icons": {
     "3.1.11": null
@@ -491,14 +494,11 @@
   "binary-wrapper": {
     "0.0.1": null
   },
-  "johngrimm-utils": {
-    "2.0.5": null
-  },
-  "mosay": {
-    "2.1.0": null
-  },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
+  },
+  "johngrimm-utils": {
+    "2.0.5": null
   },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.7": null
@@ -509,11 +509,11 @@
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-uint8-base-from-binary-string": {
-    "0.0.7": null
-  },
   "math-uint32-to-binary-string": {
     "1.0.0": null
+  },
+  "@stdlib/number-uint8-base-from-binary-string": {
+    "0.0.7": null
   },
   "math-float64-from-bits": {
     "1.0.0": null
@@ -524,17 +524,11 @@
   "chopsticks": {
     "0.6.0": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
-  },
   "yargs-command-config": {
     "1.0.5": null
   },
-  "workspaces-utils": {
-    "1.2.1": null
-  },
-  "@randy.tarampi/android-splash": {
-    "2.1.11": null
+  "node-creditcard-identifier": {
+    "1.1.2": null
   },
   "android-splash": {
     "1.0.2": null
@@ -542,11 +536,17 @@
   "math-uint8-bits": {
     "1.0.0": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
+  "workspaces-utils": {
+    "1.2.1": null
+  },
+  "@randy.tarampi/android-splash": {
+    "2.1.11": null
   },
   "ios-splash": {
     "2.1.2": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "math-float32-from-bits": {
     "1.0.1": null
@@ -611,17 +611,17 @@
   "wix-msi": {
     "0.6.0": null
   },
-  "deepmerge-yaml": {
-    "0.0.2": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
-  "git-auto-badger": {
-    "1.0.22": null
-  },
   "random-word-fr": {
     "1.0.3": null
+  },
+  "deepmerge-yaml": {
+    "0.0.2": null
+  },
+  "git-auto-badger": {
+    "1.0.22": null
   },
   "jsbindat": {
     "0.10.3": null
@@ -641,14 +641,14 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "urls-md": {
-    "4.0.1": null
-  },
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
   "vtexsay": {
     "1.0.3": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -659,35 +659,35 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "hugo-extended": {
-    "0.101.0": null
-  },
   "sox-bin": {
     "1.0.2": null
+  },
+  "hugo-extended": {
+    "0.101.0": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
+  "math-uint16-bits": {
+    "1.0.0": null
+  },
+  "npm-bin-path": {
+    "0.1.2": null
+  },
   "cut-optimizer": {
     "0.1.1": null
   },
-  "math-uint16-bits": {
+  "number-convert": {
     "1.0.0": null
   },
   "bluemix-logo": {
     "1.1.2": null
   },
-  "npm-bin-path": {
-    "0.1.2": null
-  },
-  "number-convert": {
-    "1.0.0": null
+  "funnelenvysays": {
+    "1.0.7": null
   },
   "@wrote/rm": {
     "1.1.5": null
-  },
-  "funnelenvysays": {
-    "1.0.7": null
   },
   "comanche": {
     "0.6.2": null
@@ -701,17 +701,14 @@
   "npm-gcf-test": {
     "1.1.2": null
   },
-  "string-packer": {
-    "1.0.3": null
-  },
   "whereissync": {
     "1.0.1": null
   },
-  "opn-bg": {
-    "0.1.1": null
-  },
   "ks-strip-debug": {
     "0.0.2": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "npm-run-path-cli": {
     "2.0.0": null
@@ -721,6 +718,9 @@
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
+  },
+  "string-packer": {
+    "1.0.3": null
   },
   "@testup/cli": {
     "0.6.0": null
@@ -737,16 +737,16 @@
   "pkg-bin-paths": {
     "1.0.0": null
   },
-  "tusd-static-win32": {
-    "1.1.0": null
-  },
   "@commonify/npm-run-path": {
     "5.0.1": null
   },
+  "tusd-static-win32": {
+    "1.1.0": null
+  },
+  "math-float32-bits": {
+    "1.0.0": null
+  },
   "useful-ut": {
     "1.0.2": null
-  },
-  "websocketdjs": {
-    "0.0.2": null
   }
 }
