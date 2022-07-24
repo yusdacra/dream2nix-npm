@@ -71,11 +71,11 @@
   "alex": {
     "10.0.0": null
   },
-  "run-node": {
-    "2.0.0": null
-  },
   "vega-transforms": {
     "4.10.0": null
+  },
+  "run-node": {
+    "2.0.0": null
   },
   "purescript": {
     "0.15.4": null
@@ -104,6 +104,9 @@
   "metaphone": {
     "2.0.0": null
   },
+  "which-promise": {
+    "1.0.0": null
+  },
   "npm-prefix": {
     "1.2.0": null
   },
@@ -118,9 +121,6 @@
   },
   "npm-run-script": {
     "0.0.4": null
-  },
-  "which-promise": {
-    "1.0.0": null
   },
   "human-names": {
     "1.0.11": null
@@ -320,11 +320,11 @@
   "@midwayjs/cli": {
     "1.3.8": null
   },
-  "find-module-bin": {
-    "1.1.0": null
-  },
   "get-bin-path": {
     "7.0.0": null
+  },
+  "find-module-bin": {
+    "1.1.0": null
   },
   "cli-belt": {
     "2.0.0": null
@@ -349,9 +349,6 @@
   },
   "real-executable-path": {
     "3.0.0": null
-  },
-  "midway-bin": {
-    "1.20.3": null
   },
   "yarn-global-modules": {
     "1.0.1": null
@@ -413,6 +410,9 @@
   "@mole-inc/bin-wrapper": {
     "8.0.0": null
   },
+  "midway-bin": {
+    "1.20.3": null
+  },
   "all-module-paths": {
     "0.10.7": null
   },
@@ -446,23 +446,23 @@
   "bin-exists": {
     "0.2.1": null
   },
-  "@stdlib/number-float64-base-to-binary-string": {
-    "0.0.7": null
-  },
   "woofwoof": {
     "3.6.7": null
   },
-  "cli-rewire": {
-    "4.0.4": null
+  "@stdlib/number-float64-base-to-binary-string": {
+    "0.0.7": null
   },
   "isbin": {
     "0.0.3": null
   },
-  "@root/hexdump": {
-    "1.1.1": null
+  "cli-rewire": {
+    "4.0.4": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
+  },
+  "@root/hexdump": {
+    "1.1.1": null
   },
   "ios-icons": {
     "3.3.3": null
@@ -593,9 +593,6 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
   },
@@ -623,11 +620,17 @@
   "git-auto-badger": {
     "1.0.22": null
   },
+  "usually": {
+    "1.2.0": null
+  },
   "jsbindat": {
     "0.10.3": null
   },
   "scala-bin": {
     "0.3.3": null
+  },
+  "websocketdjs": {
+    "0.0.2": null
   },
   "exec-extra": {
     "2.8.0": null
@@ -644,12 +647,6 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
-  "urls-md": {
-    "4.0.1": null
-  },
   "math-float64-bits": {
     "1.0.1": null
   },
@@ -665,20 +662,23 @@
   "hugo-extended": {
     "0.101.0": null
   },
-  "chromium-all-codecs-bin": {
-    "0.1.0": null
+  "urls-md": {
+    "4.0.1": null
   },
   "math-uint16-bits": {
     "1.0.0": null
   },
+  "chromium-all-codecs-bin": {
+    "0.1.0": null
+  },
   "npm-bin-path": {
     "0.1.2": null
   },
-  "cut-optimizer": {
-    "0.1.1": null
-  },
   "number-convert": {
     "1.0.0": null
+  },
+  "cut-optimizer": {
+    "0.1.1": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -698,11 +698,11 @@
   "compass-version-callback": {
     "1.0.1": null
   },
-  "npm-gcf-test": {
-    "1.1.2": null
-  },
   "whereissync": {
     "1.0.1": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "ks-strip-debug": {
     "0.0.2": null
@@ -713,17 +713,20 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "sunnier-bin": {
-    "0.0.6": null
-  },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
+  },
+  "sunnier-bin": {
+    "0.0.6": null
   },
   "string-packer": {
     "1.0.3": null
   },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -745,8 +748,5 @@
   },
   "math-float32-bits": {
     "1.0.0": null
-  },
-  "useful-ut": {
-    "1.0.2": null
   }
 }
