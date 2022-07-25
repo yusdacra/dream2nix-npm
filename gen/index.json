@@ -44,11 +44,11 @@
   "any-base": {
     "1.1.0": null
   },
-  "yeoman-character": {
-    "1.1.0": null
-  },
   "trash-cli": {
     "5.0.0": null
+  },
+  "yeoman-character": {
+    "1.1.0": null
   },
   "@turf/boolean-point-in-polygon": {
     "6.5.0": null
@@ -224,20 +224,20 @@
   "movie-info": {
     "2.0.5": null
   },
-  "binstall": {
-    "1.2.1": null
-  },
   "npm-package-env": {
     "0.4.9": null
+  },
+  "binstall": {
+    "1.2.1": null
   },
   "slugify-files": {
     "2.1.0": null
   },
-  "sugar-ssh": {
-    "0.4.0": null
-  },
   "markdown-proofing": {
     "1.0.2": null
+  },
+  "sugar-ssh": {
+    "0.4.0": null
   },
   "crip-names": {
     "1.2.5": null
@@ -254,11 +254,11 @@
   "time-bin": {
     "1.0.1": null
   },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
-  },
   "report-status": {
     "1.0.1": null
+  },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
   },
   "node-diff-bin": {
     "0.1.0": null
@@ -365,6 +365,9 @@
   "begoo": {
     "2.0.2": null
   },
+  "zfinder-utils": {
+    "0.0.20160121": null
+  },
   "babel-plugin-shebang": {
     "1.0.0": null
   },
@@ -373,9 +376,6 @@
   },
   "lancaster-stemmer": {
     "2.0.0": null
-  },
-  "zfinder-utils": {
-    "0.0.20160121": null
   },
   "list-npm-contents": {
     "1.0.2": null
@@ -479,20 +479,20 @@
   "to-flag": {
     "1.0.0": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.7": null
-  },
   "android-icons": {
     "2.0.4": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.7": null
   },
   "mosay": {
     "2.1.0": null
   },
-  "@randy.tarampi/android-icons": {
-    "3.1.11": null
-  },
   "binary-wrapper": {
     "0.0.1": null
+  },
+  "@randy.tarampi/android-icons": {
+    "3.1.11": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
@@ -509,6 +509,9 @@
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
+  "node-creditcard-identifier": {
+    "1.1.2": null
+  },
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
@@ -521,14 +524,11 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
   },
-  "chopsticks": {
-    "0.6.0": null
-  },
   "yargs-command-config": {
     "1.0.5": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
+  "chopsticks": {
+    "0.6.0": null
   },
   "android-splash": {
     "1.0.2": null
@@ -545,11 +545,11 @@
   "ios-splash": {
     "2.1.2": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
-  },
   "math-float32-from-bits": {
     "1.0.1": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
@@ -572,11 +572,11 @@
   "dargs-fork": {
     "1.0.0": null
   },
-  "hexdump.js": {
-    "1.1.0": null
-  },
   "yosay-sogou": {
     "0.0.2": null
+  },
+  "hexdump.js": {
+    "1.1.0": null
   },
   "mock-bin": {
     "2.0.0": null
@@ -623,11 +623,11 @@
   "usually": {
     "1.2.0": null
   },
-  "jsbindat": {
-    "0.10.3": null
-  },
   "scala-bin": {
     "0.3.3": null
+  },
+  "jsbindat": {
+    "0.10.3": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -656,17 +656,17 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "sox-bin": {
-    "1.0.2": null
-  },
   "hugo-extended": {
     "0.101.0": null
   },
-  "urls-md": {
-    "4.0.1": null
+  "sox-bin": {
+    "1.0.2": null
   },
   "math-uint16-bits": {
     "1.0.0": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
@@ -710,11 +710,11 @@
   "opn-bg": {
     "0.1.1": null
   },
-  "npm-run-path-cli": {
-    "2.0.0": null
-  },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
+  },
+  "npm-run-path-cli": {
+    "2.0.0": null
   },
   "sunnier-bin": {
     "0.0.6": null
@@ -731,13 +731,13 @@
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
+  "pkg-bin-paths": {
+    "1.0.0": null
+  },
   "npm-package-bin": {
     "0.0.6": null
   },
   "resolve-jsdoc-bin": {
-    "1.0.0": null
-  },
-  "pkg-bin-paths": {
     "1.0.0": null
   },
   "@commonify/npm-run-path": {
