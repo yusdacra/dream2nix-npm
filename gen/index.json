@@ -287,11 +287,11 @@
   "tcpip-port-to-bin": {
     "0.1.0": null
   },
-  "@hugojosefson/example-cli": {
-    "4.0.1": null
-  },
   "pet-names": {
     "1.0.1": null
+  },
+  "@hugojosefson/example-cli": {
+    "4.0.1": null
   },
   "standardize": {
     "1.2.2": null
@@ -452,6 +452,9 @@
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.7": null
   },
+  "android-icons": {
+    "2.0.4": null
+  },
   "isbin": {
     "0.0.3": null
   },
@@ -478,9 +481,6 @@
   },
   "to-flag": {
     "1.0.0": null
-  },
-  "android-icons": {
-    "2.0.4": null
   },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
@@ -608,14 +608,17 @@
   "wix-msi": {
     "0.6.0": null
   },
+  "bluemix-logo": {
+    "1.1.2": null
+  },
+  "deepmerge-yaml": {
+    "0.0.2": null
+  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
   "random-word-fr": {
     "1.0.3": null
-  },
-  "deepmerge-yaml": {
-    "0.0.2": null
   },
   "git-auto-badger": {
     "1.0.22": null
@@ -650,9 +653,6 @@
   "math-float64-bits": {
     "1.0.1": null
   },
-  "@yarn-tool/shebang": {
-    "1.0.10": null
-  },
   "cheese-name": {
     "2.0.1": null
   },
@@ -674,14 +674,14 @@
   "npm-bin-path": {
     "0.1.2": null
   },
+  "@yarn-tool/shebang": {
+    "1.0.10": null
+  },
   "number-convert": {
     "1.0.0": null
   },
   "cut-optimizer": {
     "0.1.1": null
-  },
-  "bluemix-logo": {
-    "1.1.2": null
   },
   "funnelenvysays": {
     "1.0.7": null
@@ -689,20 +689,17 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "comanche": {
-    "0.6.2": null
-  },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
+  },
+  "comanche": {
+    "0.6.2": null
   },
   "compass-version-callback": {
     "1.0.1": null
   },
   "whereissync": {
     "1.0.1": null
-  },
-  "npm-gcf-test": {
-    "1.1.2": null
   },
   "ks-strip-debug": {
     "0.0.2": null
@@ -718,6 +715,9 @@
   },
   "sunnier-bin": {
     "0.0.6": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "string-packer": {
     "1.0.3": null
