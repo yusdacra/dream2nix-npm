@@ -734,11 +734,11 @@
   "pkg-bin-paths": {
     "1.0.0": null
   },
-  "npm-package-bin": {
-    "0.0.6": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "npm-package-bin": {
+    "0.0.6": null
   },
   "@commonify/npm-run-path": {
     "5.0.1": null
