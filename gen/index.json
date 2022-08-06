@@ -245,11 +245,11 @@
   "time-bin": {
     "1.0.1": null
   },
-  "nicknames": {
-    "1.0.2": null
-  },
   "report-status": {
     "1.0.1": null
+  },
+  "nicknames": {
+    "1.0.2": null
   },
   "node-diff-bin": {
     "0.1.0": null
@@ -272,11 +272,11 @@
   "tumblr-upload": {
     "0.8.1": null
   },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
-  },
   "test-engine": {
     "0.1.0": null
+  },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -350,11 +350,11 @@
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
-  "real-executable-path": {
-    "3.0.0": null
-  },
   "ultrax": {
     "2.0.1": null
+  },
+  "real-executable-path": {
+    "3.0.0": null
   },
   "yarn-global-modules": {
     "1.0.1": null
@@ -632,6 +632,9 @@
   "scala-bin": {
     "0.3.3": null
   },
+  "cut-optimizer": {
+    "0.1.1": null
+  },
   "jsbindat": {
     "0.10.3": null
   },
@@ -653,17 +656,17 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
+  "hugo-extended": {
+    "0.101.0": null
   },
   "compass-version-callback": {
     "1.0.1": null
   },
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
+  },
   "math-float64-bits": {
     "1.0.1": null
-  },
-  "hugo-extended": {
-    "0.101.0": null
   },
   "math-uint16-bits": {
     "1.0.0": null
@@ -688,9 +691,6 @@
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
-  },
-  "cut-optimizer": {
-    "0.1.1": null
   },
   "@wrote/rm": {
     "1.1.5": null
@@ -737,16 +737,16 @@
   "math-float32-bits": {
     "1.0.0": null
   },
-  "npm-package-bin": {
-    "0.0.6": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "npm-package-bin": {
+    "0.0.6": null
   },
   "sunnier-bin": {
     "0.0.6": null
   },
-  "tusd-static-win32": {
-    "1.1.0": null
+  "onionsay": {
+    "1.0.0": null
   }
 }
