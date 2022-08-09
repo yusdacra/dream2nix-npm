@@ -53,11 +53,11 @@
   "@turf/boolean-point-in-polygon": {
     "6.5.0": null
   },
-  "resolve-bin": {
-    "1.0.1": null
-  },
   "levenshtein-edit-distance": {
     "3.0.0": null
+  },
+  "resolve-bin": {
+    "1.0.1": null
   },
   "remark-cli": {
     "11.0.0": null
@@ -98,14 +98,14 @@
   "syllable": {
     "5.0.0": null
   },
-  "metaphone": {
-    "2.0.0": null
-  },
   "which-promise": {
     "1.0.0": null
   },
   "npm-prefix": {
     "1.2.0": null
+  },
+  "metaphone": {
+    "2.0.0": null
   },
   "ffbinaries": {
     "1.1.4": null
@@ -149,6 +149,9 @@
   "metal-name": {
     "2.2.0": null
   },
+  "mngen": {
+    "1.1.0": null
+  },
   "aybabtu": {
     "1.1.6": null
   },
@@ -164,9 +167,6 @@
   "to-executable-name": {
     "2.0.0": null
   },
-  "mngen": {
-    "1.1.0": null
-  },
   "mockbin": {
     "1.6.3": null
   },
@@ -179,11 +179,11 @@
   "banks-db": {
     "0.20.0": null
   },
-  "array-scaler": {
-    "0.3.2": null
-  },
   "link-bin": {
     "2.0.2": null
+  },
+  "array-scaler": {
+    "0.3.2": null
   },
   "windows-bin": {
     "1.0.1": null
@@ -191,14 +191,14 @@
   "cover-art": {
     "1.0.5": null
   },
-  "maxrects-packer": {
-    "2.7.3": null
-  },
   "osx-learn": {
     "1.1.2": null
   },
   "sourcebin": {
     "4.3.5": null
+  },
+  "maxrects-packer": {
+    "2.7.3": null
   },
   "eightball": {
     "1.0.1": null
@@ -224,23 +224,23 @@
   "help-version": {
     "1.1.1": null
   },
-  "bing-wallpaper": {
-    "0.1.3": null
-  },
   "ghcopy": {
     "0.3.0": null
+  },
+  "bing-wallpaper": {
+    "0.1.3": null
   },
   "slugify-files": {
     "2.1.0": null
   },
-  "markdown-proofing": {
-    "1.0.2": null
-  },
-  "movie-info": {
-    "2.0.5": null
+  "@hugojosefson/example-cli": {
+    "4.0.1": null
   },
   "sugar-ssh": {
     "0.4.0": null
+  },
+  "movie-info": {
+    "2.0.5": null
   },
   "npm-package-env": {
     "0.4.9": null
@@ -257,14 +257,14 @@
   "nicknames": {
     "1.0.2": null
   },
-  "meow-names": {
-    "1.0.1": null
-  },
   "scaler": {
     "0.2.1": null
   },
   "nerdy-cat-names": {
     "1.0.0": null
+  },
+  "meow-names": {
+    "1.0.1": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -281,14 +281,14 @@
   "pet-names": {
     "1.0.1": null
   },
-  "@hugojosefson/example-cli": {
-    "4.0.1": null
-  },
   "standardize": {
     "1.2.2": null
   },
   "ipv6-to-bin": {
     "0.1.3": null
+  },
+  "markdown-proofing": {
+    "1.0.2": null
   },
   "ipv4-to-bin": {
     "0.1.1": null
@@ -377,20 +377,20 @@
   "package-run": {
     "2.0.6": null
   },
-  "list-npm-contents": {
-    "1.0.2": null
+  "vue-card-express": {
+    "1.0.5": null
   },
   "line-count": {
     "0.1.0": null
   },
-  "vue-card-express": {
-    "1.0.5": null
+  "bin-tool": {
+    "2.2.3": null
   },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
-  "bin-tool": {
-    "2.2.3": null
+  "list-npm-contents": {
+    "1.0.2": null
   },
   "version-exists": {
     "0.0.4": null
@@ -485,14 +485,14 @@
   "to-flag": {
     "1.0.0": null
   },
+  "mosay": {
+    "2.1.0": null
+  },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.7": null
   },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.7": null
-  },
-  "mosay": {
-    "2.1.0": null
   },
   "chopsticks": {
     "0.6.0": null
@@ -503,20 +503,20 @@
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
-  "@randy.tarampi/android-icons": {
-    "3.1.11": null
-  },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
+  },
+  "@randy.tarampi/android-icons": {
+    "3.1.11": null
   },
   "johngrimm-utils": {
     "2.0.5": null
   },
-  "bin-exists": {
-    "0.2.1": null
-  },
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
+  },
+  "bin-exists": {
+    "0.2.1": null
   },
   "bauer-exec": {
     "0.1.5": null
@@ -527,17 +527,11 @@
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
-  "math-float64-from-bits": {
-    "1.0.0": null
-  },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
   },
   "yargs-command-config": {
     "1.0.5": null
-  },
-  "math-uint8-bits": {
-    "1.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
@@ -548,17 +542,14 @@
   "android-splash": {
     "1.0.2": null
   },
-  "math-float32-from-bits": {
-    "1.0.1": null
-  },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
-  },
   "dargs-fork": {
     "1.0.0": null
+  },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
   },
   "workspaces-utils": {
     "1.2.1": null
@@ -571,6 +562,12 @@
   },
   "yosay-sogou": {
     "0.0.2": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
+  },
+  "math-float64-from-bits": {
+    "1.0.0": null
   },
   "argv-user-input": {
     "1.3.2": null
@@ -586,6 +583,9 @@
   },
   "bin-up": {
     "1.3.2": null
+  },
+  "math-float32-from-bits": {
+    "1.0.1": null
   },
   "meow-shorts": {
     "1.1.0": null
@@ -611,14 +611,14 @@
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "ect-bin": {
-    "1.4.1": null
-  },
   "bluemix-logo": {
     "1.1.2": null
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
+  },
+  "ect-bin": {
+    "1.4.1": null
   },
   "random-word-fr": {
     "1.0.3": null
@@ -626,11 +626,11 @@
   "git-auto-badger": {
     "1.0.22": null
   },
-  "deepmerge-yaml": {
-    "0.0.3": null
-  },
   "scala-bin": {
     "0.3.3": null
+  },
+  "deepmerge-yaml": {
+    "0.0.3": null
   },
   "usually": {
     "1.2.0": null
@@ -650,29 +650,20 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "math-uint16-to-binary-string": {
-    "1.0.1": null
-  },
-  "math-float64-to-binary-string": {
+  "compass-version-callback": {
     "1.0.1": null
   },
   "hugo-extended": {
     "0.101.0": null
   },
-  "compass-version-callback": {
-    "1.0.1": null
-  },
-  "math-float64-bits": {
-    "1.0.1": null
-  },
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
+  "math-float64-to-binary-string": {
+    "1.0.1": null
+  },
   "exec-extra": {
     "2.8.0": null
-  },
-  "math-uint16-bits": {
-    "1.0.0": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -683,17 +674,23 @@
   "funnelenvysays": {
     "1.0.7": null
   },
+  "@strong-roots-capital/bitmex-bin-size": {
+    "1.0.1": null
+  },
   "sox-bin": {
     "1.0.2": null
   },
-  "@strong-roots-capital/bitmex-bin-size": {
-    "1.0.1": null
+  "math-uint16-bits": {
+    "1.0.0": null
   },
   "urls-md": {
     "4.0.1": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
+  },
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
   },
   "whereissync": {
     "1.0.1": null
@@ -704,11 +701,11 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "ks-strip-debug": {
-    "0.0.2": null
-  },
   "pkg-bin-paths": {
     "1.0.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "opn-bg": {
     "0.1.1": null
@@ -716,28 +713,25 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "npm-gcf-test": {
     "1.1.2": null
   },
   "string-packer": {
     "1.0.3": null
   },
+  "math-float64-bits": {
+    "1.0.1": null
+  },
   "@testup/cli": {
     "0.6.0": null
   },
-  "math-float32-bits": {
-    "1.0.0": null
-  },
-  "resolve-jsdoc-bin": {
+  "onionsay": {
     "1.0.0": null
   },
   "npm-package-bin": {
     "0.0.6": null
   },
-  "onionsay": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "@abdfnx/hac_k": {
@@ -748,5 +742,11 @@
   },
   "tusd-static-win32": {
     "1.1.0": null
+  },
+  "bin-pls": {
+    "1.0.1": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
   }
 }
