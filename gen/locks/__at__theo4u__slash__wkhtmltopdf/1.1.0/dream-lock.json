@@ -1,0 +1,77 @@
+{
+  "_generic": {
+    "defaultPackage": "@theo4u/wkhtmltopdf",
+    "location": "",
+    "packages": {
+      "@theo4u/wkhtmltopdf": "1.1.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "@theo4u/wkhtmltopdf": {
+      "1.1.0": [
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "wget-improved",
+          "1.5.0"
+        ]
+      ]
+    },
+    "wget-improved": {
+      "1.5.0": [
+        [
+          "minimist",
+          "1.2.0"
+        ],
+        [
+          "tunnel",
+          "0.0.2"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "minimist": {
+      "1.2.0": {
+        "hash": "sha512-7Wl+Jz+IGWuSdgsQEJ4JunV0si/iMhg42MnQQG6h1R6TNeVenp4U9x5CC5v/gYqz/fENLQITAWXidNtVL0NNbw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "tunnel": {
+      "0.0.2": {
+        "hash": "sha512-PjBRT+4Y/UH3q/lnjXosoaB+hY1yNH2TXWMjPSF1bAIdZmUDAJ2lBPt5s8jTH1e7sgb3nleK889E9vyY4NXpYw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/tunnel/-/tunnel-0.0.2.tgz"
+      }
+    },
+    "wget-improved": {
+      "1.5.0": {
+        "hash": "sha512-t+G+g9SQSy2h2+dg7h54r9adllfdI0fHHtshbl1V4jwIIBj1c10SmHwjP8vFx9fn1dr9QuF27uC7xoZr9YwEmg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/wget-improved/-/wget-improved-1.5.0.tgz"
+      }
+    },
+    "@theo4u/wkhtmltopdf": {
+      "1.1.0": {
+        "hash": "sha256-26iVWGKZAnuBSf9mVFB4qOD9X/Vd9pp6KjrMZtaePHo=",
+        "type": "npm"
+      }
+    }
+  }
+}

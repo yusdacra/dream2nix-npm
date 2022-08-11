@@ -248,23 +248,20 @@
   "report-status": {
     "1.0.1": null
   },
-  "node-diff-bin": {
-    "0.1.0": null
-  },
   "movie-info": {
     "2.0.5": null
   },
   "scaler": {
     "0.2.1": null
   },
-  "nicknames": {
-    "1.0.2": null
+  "tumblr-upload": {
+    "0.8.1": null
   },
   "meow-names": {
     "1.0.1": null
   },
-  "tumblr-upload": {
-    "0.8.1": null
+  "nicknames": {
+    "1.0.2": null
   },
   "test-engine": {
     "0.1.0": null
@@ -278,11 +275,11 @@
   "pet-names": {
     "1.0.1": null
   },
-  "standardize": {
-    "1.2.2": null
-  },
   "ipv6-to-bin": {
     "0.1.3": null
+  },
+  "standardize": {
+    "1.2.2": null
   },
   "ipv4-to-bin": {
     "0.1.1": null
@@ -292,6 +289,9 @@
   },
   "nerdy-cat-names": {
     "1.0.0": null
+  },
+  "node-diff-bin": {
+    "0.1.0": null
   },
   "gazer-color": {
     "1.0.1": null
@@ -587,14 +587,17 @@
   "math-float32-from-bits": {
     "1.0.1": null
   },
-  "@tunnckocore/jest-runner-eslint": {
-    "1.2.9": null
-  },
   "meow-shorts": {
     "1.1.0": null
   },
+  "@tunnckocore/jest-runner-eslint": {
+    "1.2.9": null
+  },
   "@wrench/executable": {
     "0.0.5": null
+  },
+  "@tunnckocore/jest-runner-babel": {
+    "4.2.8": null
   },
   "@yarn-tool/shebang": {
     "1.0.11": null
@@ -608,9 +611,6 @@
   "async-which": {
     "1.0.3": null
   },
-  "@tunnckocore/jest-runner-babel": {
-    "4.2.8": null
-  },
   "bluemix-logo": {
     "1.1.2": null
   },
@@ -622,6 +622,9 @@
   },
   "random-word-fr": {
     "1.0.3": null
+  },
+  "@theo4u/wkhtmltopdf": {
+    "1.1.0": null
   },
   "git-auto-badger": {
     "1.0.22": null
@@ -665,11 +668,11 @@
   "npm-bin-path": {
     "0.1.2": null
   },
-  "exec-extra": {
-    "2.8.0": null
-  },
   "number-convert": {
     "1.0.0": null
+  },
+  "exec-extra": {
+    "2.8.0": null
   },
   "funnelenvysays": {
     "1.0.7": null
@@ -683,17 +686,17 @@
   "sox-bin": {
     "1.0.2": null
   },
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
+  },
   "urls-md": {
     "4.0.1": null
   },
-  "math-uint16-to-binary-string": {
+  "whereissync": {
     "1.0.1": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
-  },
-  "whereissync": {
-    "1.0.1": null
   },
   "@wrote/rm": {
     "1.1.5": null
@@ -722,17 +725,14 @@
   "math-float64-bits": {
     "1.0.1": null
   },
-  "@testup/cli": {
-    "0.6.0": null
-  },
   "onionsay": {
-    "1.0.0": null
-  },
-  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "npm-package-bin": {
     "0.0.6": null
+  },
+  "resolve-jsdoc-bin": {
+    "1.0.0": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -740,13 +740,13 @@
   "sunnier-bin": {
     "0.0.6": null
   },
+  "@testup/cli": {
+    "0.6.0": null
+  },
   "tusd-static-win32": {
     "1.1.0": null
   },
   "execa-tree-kill": {
     "4.0.0": null
-  },
-  "bin-pls": {
-    "1.0.1": null
   }
 }
