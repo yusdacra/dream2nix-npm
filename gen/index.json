@@ -209,6 +209,9 @@
   "require-resolve-cli": {
     "1.0.0": null
   },
+  "npm-package-env": {
+    "0.4.9": null
+  },
   "crip-names": {
     "1.2.5": null
   },
@@ -238,9 +241,6 @@
   },
   "sugar-ssh": {
     "0.4.0": null
-  },
-  "npm-package-env": {
-    "0.4.9": null
   },
   "time-bin": {
     "1.0.1": null
@@ -437,11 +437,11 @@
   "build-purescript": {
     "0.4.1": null
   },
-  "npm-run-path-compat": {
-    "2.0.3": null
-  },
   "woofwoof": {
     "3.6.7": null
+  },
+  "npm-run-path-compat": {
+    "2.0.3": null
   },
   "bin-packer": {
     "1.7.0": null
@@ -542,6 +542,9 @@
   "android-splash": {
     "1.0.2": null
   },
+  "git-auto-badger": {
+    "1.0.22": null
+  },
   "dargs-fork": {
     "1.0.0": null
   },
@@ -626,9 +629,6 @@
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
   },
-  "git-auto-badger": {
-    "1.0.22": null
-  },
   "scala-bin": {
     "0.3.3": null
   },
@@ -665,12 +665,6 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "npm-bin-path": {
-    "0.1.2": null
-  },
-  "number-convert": {
-    "1.0.0": null
-  },
   "exec-extra": {
     "2.8.0": null
   },
@@ -704,17 +698,14 @@
   "cheese-name": {
     "2.0.1": null
   },
+  "npm-bin-path": {
+    "0.1.2": null
+  },
   "pkg-bin-paths": {
     "1.0.0": null
   },
   "vtexsay": {
     "1.0.3": null
-  },
-  "opn-bg": {
-    "0.1.1": null
-  },
-  "npm-run-path-cli": {
-    "2.0.0": null
   },
   "npm-gcf-test": {
     "1.1.2": null
@@ -724,9 +715,6 @@
   },
   "math-float64-bits": {
     "1.0.1": null
-  },
-  "onionsay": {
-    "1.0.0": null
   },
   "npm-package-bin": {
     "0.0.6": null
@@ -740,13 +728,25 @@
   "sunnier-bin": {
     "0.0.6": null
   },
+  "npm-run-path-cli": {
+    "2.0.0": null
+  },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "opn-bg": {
+    "0.1.1": null
   },
   "tusd-static-win32": {
     "1.1.0": null
   },
   "execa-tree-kill": {
     "4.0.0": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
+  },
+  "bin-pls": {
+    "1.0.1": null
   }
 }
