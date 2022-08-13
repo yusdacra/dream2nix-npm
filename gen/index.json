@@ -428,9 +428,6 @@
   "@marchyang/execa": {
     "6.0.1": null
   },
-  "pkg-bin": {
-    "1.0.2": null
-  },
   "is-jxr": {
     "2.0.0": null
   },
@@ -442,6 +439,9 @@
   },
   "npm-run-path-compat": {
     "2.0.3": null
+  },
+  "pkg-bin": {
+    "1.0.2": null
   },
   "bin-packer": {
     "1.7.0": null
@@ -602,9 +602,6 @@
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "@yarn-tool/shebang": {
-    "1.0.11": null
-  },
   "jsbindat": {
     "0.10.3": null
   },
@@ -613,6 +610,9 @@
   },
   "async-which": {
     "1.0.3": null
+  },
+  "@yarn-tool/shebang": {
+    "1.0.12": null
   },
   "bluemix-logo": {
     "1.1.2": null
@@ -701,9 +701,6 @@
   "npm-bin-path": {
     "0.1.2": null
   },
-  "pkg-bin-paths": {
-    "1.0.0": null
-  },
   "vtexsay": {
     "1.0.3": null
   },
@@ -748,5 +745,8 @@
   },
   "bin-pls": {
     "1.0.1": null
+  },
+  "xcm": {
+    "1.0.4": null
   }
 }
