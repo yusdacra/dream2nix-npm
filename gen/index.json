@@ -338,14 +338,14 @@
   "@spatial/boolean-point-in-polygon": {
     "2.0.0": null
   },
-  "bin-wrapper-china": {
-    "0.1.0": null
-  },
   "npm-cli-path": {
     "4.0.0": null
   },
   "soundex-code": {
     "2.0.0": null
+  },
+  "bin-wrapper-china": {
+    "0.1.0": null
   },
   "exec-bin": {
     "1.0.0": null
@@ -389,9 +389,6 @@
   "movie-trailer": {
     "2.1.0": null
   },
-  "bin-tool": {
-    "2.2.3": null
-  },
   "list-npm-contents": {
     "1.0.2": null
   },
@@ -404,11 +401,11 @@
   "scritch": {
     "1.3.1": null
   },
-  "egg-born-bin": {
-    "4.1.2": null
-  },
   "babel-plugin-shebang": {
     "1.0.0": null
+  },
+  "egg-born-bin": {
+    "4.1.3": null
   },
   "yarn-config-directory": {
     "1.0.2": null
@@ -418,6 +415,9 @@
   },
   "all-module-paths": {
     "0.10.7": null
+  },
+  "bin-tool": {
+    "2.2.3": null
   },
   "boxpack": {
     "0.1.0": null
@@ -497,9 +497,6 @@
   "chopsticks": {
     "0.6.0": null
   },
-  "binary-wrapper": {
-    "0.0.1": null
-  },
   "mosay": {
     "2.1.0": null
   },
@@ -511,9 +508,6 @@
   },
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
-  },
-  "johngrimm-utils": {
-    "2.0.5": null
   },
   "bin-exists": {
     "0.2.1": null
@@ -533,11 +527,20 @@
   "yargs-command-config": {
     "1.0.5": null
   },
+  "@wrench/executable": {
+    "0.0.5": null
+  },
   "7zip-standalone": {
     "0.0.3": null
   },
   "hexdump.js": {
     "1.1.0": null
+  },
+  "binary-wrapper": {
+    "0.0.1": null
+  },
+  "johngrimm-utils": {
+    "2.0.5": null
   },
   "android-splash": {
     "1.0.2": null
@@ -593,11 +596,11 @@
   "meow-shorts": {
     "1.1.0": null
   },
+  "random-word-fr": {
+    "1.0.3": null
+  },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
-  },
-  "@wrench/executable": {
-    "0.0.5": null
   },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
@@ -608,9 +611,6 @@
   "dbin": {
     "0.0.8": null
   },
-  "async-which": {
-    "1.0.3": null
-  },
   "@yarn-tool/shebang": {
     "1.0.12": null
   },
@@ -620,11 +620,11 @@
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
+  "async-which": {
+    "1.0.3": null
+  },
   "ect-bin": {
     "1.4.1": null
-  },
-  "random-word-fr": {
-    "1.0.3": null
   },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
@@ -635,17 +635,20 @@
   "deepmerge-yaml": {
     "0.0.3": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "cut-optimizer": {
     "0.1.1": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "websocketdjs": {
     "0.0.2": null
   },
   "wix-msi": {
     "0.6.0": null
+  },
+  "@wrote/rm": {
+    "1.1.5": null
   },
   "comanche": {
     "0.6.2": null
@@ -658,9 +661,6 @@
   },
   "hugo-extended": {
     "0.101.0": null
-  },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
   },
   "math-float64-to-binary-string": {
     "1.0.1": null
@@ -680,6 +680,9 @@
   "sox-bin": {
     "1.0.2": null
   },
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
+  },
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
@@ -691,9 +694,6 @@
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
-  },
-  "@wrote/rm": {
-    "1.1.5": null
   },
   "cheese-name": {
     "2.0.1": null
@@ -743,10 +743,10 @@
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
   },
-  "bin-pls": {
-    "1.0.1": null
-  },
   "xcm": {
     "1.0.4": null
+  },
+  "number-convert": {
+    "1.0.0": null
   }
 }
