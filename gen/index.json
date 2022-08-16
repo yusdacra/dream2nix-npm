@@ -56,11 +56,11 @@
   "levenshtein-edit-distance": {
     "3.0.0": null
   },
-  "resolve-bin": {
-    "1.0.1": null
-  },
   "remark-cli": {
     "11.0.0": null
+  },
+  "resolve-bin": {
+    "1.0.1": null
   },
   "bin-pack": {
     "1.0.2": null
@@ -206,14 +206,14 @@
   "emailing": {
     "0.0.6": null
   },
-  "require-resolve-cli": {
-    "1.0.0": null
-  },
   "npm-package-env": {
     "0.4.9": null
   },
   "crip-names": {
     "1.2.5": null
+  },
+  "require-resolve-cli": {
+    "1.0.0": null
   },
   "zfinder": {
     "0.2.10": null
@@ -245,14 +245,11 @@
   "time-bin": {
     "1.0.1": null
   },
-  "report-status": {
-    "1.0.1": null
+  "scaler": {
+    "0.2.1": null
   },
   "movie-info": {
     "2.0.5": null
-  },
-  "scaler": {
-    "0.2.1": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -293,17 +290,20 @@
   "node-diff-bin": {
     "0.1.0": null
   },
-  "gazer-color": {
+  "report-status": {
     "1.0.1": null
   },
-  "realpath": {
-    "2.0.0": null
+  "gazer-color": {
+    "1.0.1": null
   },
   "count-lines": {
     "0.1.2": null
   },
   "@midwayjs/cli": {
     "1.3.11": null
+  },
+  "realpath": {
+    "2.0.0": null
   },
   "pkg-ok": {
     "3.0.0": null
@@ -405,7 +405,7 @@
     "1.0.0": null
   },
   "egg-born-bin": {
-    "4.1.3": null
+    "4.1.4": null
   },
   "yarn-config-directory": {
     "1.0.2": null
@@ -467,9 +467,6 @@
   "isbin": {
     "0.0.3": null
   },
-  "cli-rewire": {
-    "4.0.4": null
-  },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
   },
@@ -484,6 +481,9 @@
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
+  },
+  "cli-rewire": {
+    "4.0.4": null
   },
   "to-flag": {
     "1.0.0": null
@@ -560,9 +560,6 @@
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
-  "clito": {
-    "0.1.2": null
-  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
   },
@@ -583,6 +580,9 @@
   },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "clito": {
+    "0.1.2": null
   },
   "mock-bin": {
     "2.0.0": null
@@ -617,9 +617,6 @@
   "bluemix-logo": {
     "1.1.2": null
   },
-  "scalajs-standalone-bin": {
-    "0.4.3": null
-  },
   "async-which": {
     "1.0.3": null
   },
@@ -629,9 +626,6 @@
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
   },
-  "scala-bin": {
-    "0.3.3": null
-  },
   "deepmerge-yaml": {
     "0.0.3": null
   },
@@ -640,6 +634,9 @@
   },
   "usually": {
     "1.2.0": null
+  },
+  "scalajs-standalone-bin": {
+    "0.4.3": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -652,6 +649,9 @@
   },
   "comanche": {
     "0.6.2": null
+  },
+  "scala-bin": {
+    "0.3.3": null
   },
   "config-strip-debug": {
     "1.0.1": null
@@ -680,11 +680,11 @@
   "sox-bin": {
     "1.0.2": null
   },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
-  },
   "math-uint16-to-binary-string": {
     "1.0.1": null
+  },
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
   },
   "whereissync": {
     "1.0.1": null
@@ -692,14 +692,14 @@
   "urls-md": {
     "4.0.1": null
   },
-  "chromium-all-codecs-bin": {
-    "0.1.0": null
-  },
   "cheese-name": {
     "2.0.1": null
   },
   "npm-bin-path": {
     "0.1.2": null
+  },
+  "chromium-all-codecs-bin": {
+    "0.1.0": null
   },
   "vtexsay": {
     "1.0.3": null
@@ -715,9 +715,6 @@
   },
   "npm-package-bin": {
     "0.0.6": null
-  },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -747,6 +744,9 @@
     "1.0.4": null
   },
   "number-convert": {
+    "1.0.0": null
+  },
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   }
 }
