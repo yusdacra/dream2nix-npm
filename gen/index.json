@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.184.0": null
+    "0.185.0": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -71,9 +71,6 @@
   "alex": {
     "10.0.0": null
   },
-  "vega-transforms": {
-    "4.10.0": null
-  },
   "run-node": {
     "2.0.0": null
   },
@@ -86,20 +83,20 @@
   "pngcrush-bin": {
     "7.0.0": null
   },
+  "vega-transforms": {
+    "4.10.0": null
+  },
   "simple-bin-help": {
     "1.7.7": null
   },
   "@pnpm/link-bins": {
-    "7.2.4": null
+    "7.2.5": null
   },
   "cat-names": {
     "3.1.0": null
   },
   "syllable": {
     "5.0.0": null
-  },
-  "which-promise": {
-    "1.0.0": null
   },
   "npm-prefix": {
     "1.2.0": null
@@ -121,6 +118,9 @@
   },
   "npm-run-script": {
     "0.0.4": null
+  },
+  "which-promise": {
+    "1.0.0": null
   },
   "human-names": {
     "1.0.11": null
@@ -185,11 +185,11 @@
   "array-scaler": {
     "0.3.2": null
   },
-  "windows-bin": {
-    "1.0.1": null
-  },
   "cover-art": {
     "1.0.5": null
+  },
+  "windows-bin": {
+    "1.0.1": null
   },
   "osx-learn": {
     "1.1.2": null
@@ -377,6 +377,9 @@
   "package-run": {
     "2.0.6": null
   },
+  "egg-born-bin": {
+    "4.1.6": null
+  },
   "@mole-inc/bin-wrapper": {
     "8.0.0": null
   },
@@ -404,14 +407,8 @@
   "babel-plugin-shebang": {
     "1.0.0": null
   },
-  "egg-born-bin": {
-    "4.1.4": null
-  },
   "yarn-config-directory": {
     "1.0.2": null
-  },
-  "midway-bin": {
-    "1.20.3": null
   },
   "all-module-paths": {
     "0.10.7": null
@@ -428,14 +425,14 @@
   "@marchyang/execa": {
     "6.0.1": null
   },
+  "midway-bin": {
+    "1.20.3": null
+  },
   "is-jxr": {
     "2.0.0": null
   },
   "build-purescript": {
     "0.4.1": null
-  },
-  "woofwoof": {
-    "3.6.7": null
   },
   "pkg-bin": {
     "1.0.2": null
@@ -469,6 +466,9 @@
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
+  },
+  "woofwoof": {
+    "3.6.7": null
   },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
@@ -599,6 +599,9 @@
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
   },
+  "usually": {
+    "1.2.0": null
+  },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
@@ -610,6 +613,9 @@
   },
   "dbin": {
     "0.0.8": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "@yarn-tool/shebang": {
     "1.0.12": null
@@ -634,12 +640,6 @@
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
-  },
-  "usually": {
-    "1.2.0": null
-  },
-  "websocketdjs": {
-    "0.0.2": null
   },
   "wix-msi": {
     "0.6.0": null
@@ -680,17 +680,14 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "whereissync": {
-    "1.0.1": null
+  "sox-bin": {
+    "1.0.2": null
   },
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
-  "sox-bin": {
-    "1.0.2": null
-  },
-  "urls-md": {
-    "4.0.1": null
+  "websocketdjs": {
+    "0.0.2": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -701,9 +698,6 @@
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "npm-gcf-test": {
     "1.1.2": null
   },
@@ -712,6 +706,9 @@
   },
   "npm-package-bin": {
     "0.0.6": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
@@ -743,10 +740,13 @@
   "xcm": {
     "1.0.4": null
   },
-  "number-convert": {
-    "1.0.0": null
+  "whereissync": {
+    "1.0.1": null
   },
   "resolve-jsdoc-bin": {
+    "1.0.0": null
+  },
+  "number-convert": {
     "1.0.0": null
   }
 }
