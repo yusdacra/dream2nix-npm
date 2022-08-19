@@ -44,14 +44,14 @@
   "any-base": {
     "1.1.0": null
   },
+  "yeoman-character": {
+    "1.1.0": null
+  },
   "trash-cli": {
     "5.0.0": null
   },
   "@turf/boolean-point-in-polygon": {
     "6.5.0": null
-  },
-  "yeoman-character": {
-    "1.1.0": null
   },
   "levenshtein-edit-distance": {
     "3.0.0": null
@@ -123,7 +123,7 @@
     "1.0.0": null
   },
   "human-names": {
-    "1.0.11": null
+    "1.0.12": null
   },
   "svg-icon": {
     "0.8.2": null
@@ -221,9 +221,6 @@
   "slugify-files": {
     "2.1.0": null
   },
-  "zfinder": {
-    "0.2.10": null
-  },
   "resolve-as-bin": {
     "2.1.0": null
   },
@@ -244,6 +241,9 @@
   },
   "@hugojosefson/example-cli": {
     "4.0.1": null
+  },
+  "zfinder": {
+    "0.2.10": null
   },
   "scaler": {
     "0.2.1": null
@@ -368,9 +368,6 @@
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
   },
-  "zfinder-utils": {
-    "0.0.20160121": null
-  },
   "lancaster-stemmer": {
     "2.0.0": null
   },
@@ -385,6 +382,9 @@
   },
   "vue-card-express": {
     "1.0.5": null
+  },
+  "zfinder-utils": {
+    "0.0.20160121": null
   },
   "movie-trailer": {
     "2.1.0": null
@@ -506,14 +506,14 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
   },
+  "node-creditcard-identifier": {
+    "1.1.2": null
+  },
   "bin-exists": {
     "0.2.1": null
   },
   "bauer-exec": {
     "0.1.5": null
-  },
-  "node-creditcard-identifier": {
-    "1.1.2": null
   },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
@@ -523,9 +523,6 @@
   },
   "@wrench/executable": {
     "0.0.5": null
-  },
-  "yargs-command-config": {
-    "1.0.5": null
   },
   "hexdump.js": {
     "1.1.0": null
@@ -560,9 +557,6 @@
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
-  },
   "math-uint8-bits": {
     "1.0.0": null
   },
@@ -586,6 +580,12 @@
   },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "yosay-sogou": {
+    "0.0.2": null
+  },
+  "yargs-command-config": {
+    "1.0.5": null
   },
   "bin-up": {
     "1.3.2": null
@@ -680,11 +680,11 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "sox-bin": {
-    "1.0.2": null
-  },
   "babel-plugin-bin-shebang": {
     "1.0.3": null
+  },
+  "sox-bin": {
+    "1.0.2": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -743,10 +743,10 @@
   "whereissync": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   }
 }
