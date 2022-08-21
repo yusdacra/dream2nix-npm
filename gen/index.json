@@ -359,6 +359,9 @@
   "real-executable-path": {
     "3.0.0": null
   },
+  "package-run": {
+    "2.0.6": null
+  },
   "rasper": {
     "0.2.10": null
   },
@@ -370,9 +373,6 @@
   },
   "lancaster-stemmer": {
     "2.0.0": null
-  },
-  "package-run": {
-    "2.0.6": null
   },
   "@mole-inc/bin-wrapper": {
     "8.0.0": null
