@@ -680,11 +680,11 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "sox-bin": {
-    "1.0.2": null
-  },
   "babel-plugin-bin-shebang": {
     "1.0.3": null
+  },
+  "sox-bin": {
+    "1.0.2": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -704,9 +704,6 @@
   "npm-package-bin": {
     "0.0.6": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
@@ -715,6 +712,9 @@
   },
   "npm-run-path-cli": {
     "2.0.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "@testup/cli": {
     "0.6.0": null
