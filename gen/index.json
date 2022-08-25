@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.185.1": null
+    "0.185.2": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -743,10 +743,10 @@
   "number-convert": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "useful-ut": {
+    "1.0.2": null
   }
 }
