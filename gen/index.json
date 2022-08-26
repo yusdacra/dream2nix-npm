@@ -296,11 +296,11 @@
   "test-engine": {
     "0.1.0": null
   },
+  "@midwayjs/cli": {
+    "1.3.12": null
+  },
   "count-lines": {
     "0.1.2": null
-  },
-  "@midwayjs/cli": {
-    "1.3.11": null
   },
   "realpath": {
     "2.0.0": null
@@ -575,6 +575,9 @@
   "ios-splash": {
     "2.1.2": null
   },
+  "@yarn-tool/shebang": {
+    "1.0.13": null
+  },
   "mock-bin": {
     "2.0.0": null
   },
@@ -616,9 +619,6 @@
   },
   "urls-md": {
     "4.0.1": null
-  },
-  "@yarn-tool/shebang": {
-    "1.0.12": null
   },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
@@ -740,13 +740,13 @@
   "whereissync": {
     "1.0.1": null
   },
-  "number-convert": {
-    "1.0.0": null
+  "useful-ut": {
+    "1.0.2": null
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
+  "number-convert": {
+    "1.0.0": null
   }
 }
