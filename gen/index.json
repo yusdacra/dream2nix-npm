@@ -32,11 +32,11 @@
   "istextorbinary": {
     "6.0.0": null
   },
-  "hasbin": {
-    "1.2.3": null
-  },
   "direction": {
     "2.0.1": null
+  },
+  "hasbin": {
+    "1.2.3": null
   },
   "magicli": {
     "0.2.1": null
@@ -227,6 +227,9 @@
   "crip-names": {
     "1.2.5": null
   },
+  "dandruff-pinkeye-halitosis": {
+    "3.0.1": null
+  },
   "ghcopy": {
     "0.3.0": null
   },
@@ -256,9 +259,6 @@
   },
   "bing-wallpaper": {
     "0.1.3": null
-  },
-  "dandruff-pinkeye-halitosis": {
-    "3.0.1": null
   },
   "pet-names": {
     "1.0.1": null
@@ -296,6 +296,9 @@
   "test-engine": {
     "0.1.0": null
   },
+  "webpack-shebang-plugin": {
+    "1.1.8": null
+  },
   "count-lines": {
     "0.1.2": null
   },
@@ -310,9 +313,6 @@
   },
   "pkg-ok": {
     "3.0.0": null
-  },
-  "webpack-shebang-plugin": {
-    "1.1.8": null
   },
   "render-help": {
     "1.0.2": null
@@ -533,9 +533,6 @@
   "git-auto-badger": {
     "1.0.22": null
   },
-  "dargs-fork": {
-    "1.0.0": null
-  },
   "bauer-exec": {
     "0.1.5": null
   },
@@ -596,6 +593,9 @@
   "math-float32-from-bits": {
     "1.0.1": null
   },
+  "dargs-fork": {
+    "1.0.0": null
+  },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
   },
@@ -617,11 +617,11 @@
   "jsbindat": {
     "0.10.3": null
   },
-  "dbin": {
-    "0.0.8": null
-  },
   "urls-md": {
     "4.0.1": null
+  },
+  "dbin": {
+    "0.0.8": null
   },
   "async-which": {
     "1.0.3": null
@@ -665,9 +665,6 @@
   "funnelenvysays": {
     "1.0.7": null
   },
-  "hugo-extended": {
-    "0.101.0": null
-  },
   "compass-version-callback": {
     "1.0.1": null
   },
@@ -694,6 +691,9 @@
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
+  },
+  "hugo-extended": {
+    "0.102.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -737,14 +737,14 @@
   "whereissync": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
+  "useful-ut": {
+    "1.0.2": null
   },
   "number-convert": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
+  "resolve-jsdoc-bin": {
+    "1.0.0": null
   },
   "math-float32-bits": {
     "1.0.0": null
