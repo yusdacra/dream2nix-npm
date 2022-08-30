@@ -200,11 +200,11 @@
   "maxrects-packer": {
     "2.7.3": null
   },
-  "eightball": {
-    "1.0.1": null
-  },
   "emailing": {
     "0.0.6": null
+  },
+  "eightball": {
+    "1.0.1": null
   },
   "pwpush-cli": {
     "0.8.1": null
@@ -686,14 +686,14 @@
   "websocketdjs": {
     "0.0.2": null
   },
+  "hugo-extended": {
+    "0.102.1": null
+  },
   "npm-bin-path": {
     "0.1.2": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
-  },
-  "hugo-extended": {
-    "0.102.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -710,11 +710,11 @@
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "@testup/cli": {
-    "0.6.0": null
-  },
   "vtexsay": {
     "1.0.3": null
+  },
+  "@testup/cli": {
+    "0.6.0": null
   },
   "string-packer": {
     "1.0.3": null
@@ -737,14 +737,14 @@
   "whereissync": {
     "1.0.1": null
   },
-  "useful-ut": {
-    "1.0.2": null
-  },
   "number-convert": {
     "1.0.0": null
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "useful-ut": {
+    "1.0.2": null
   },
   "math-float32-bits": {
     "1.0.0": null
