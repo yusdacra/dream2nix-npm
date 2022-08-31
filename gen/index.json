@@ -629,9 +629,6 @@
   "ect-bin": {
     "1.4.1": null
   },
-  "cut-optimizer": {
-    "0.1.1": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
@@ -652,6 +649,9 @@
   },
   "bluemix-logo": {
     "1.1.2": null
+  },
+  "cut-optimizer": {
+    "0.1.1": null
   },
   "config-strip-debug": {
     "1.0.1": null
@@ -725,9 +725,6 @@
   "execa-tree-kill": {
     "4.0.0": null
   },
-  "tusd-static-win32": {
-    "1.1.0": null
-  },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
   },
@@ -743,10 +740,13 @@
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "useful-ut": {
-    "1.0.2": null
-  },
   "math-float32-bits": {
     "1.0.0": null
+  },
+  "onionsay": {
+    "1.0.0": null
+  },
+  "ks-strip-debug": {
+    "0.0.2": null
   }
 }
