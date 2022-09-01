@@ -1,0 +1,40 @@
+{
+  "_generic": {
+    "defaultPackage": "flow-bin",
+    "location": "",
+    "packages": {
+      "flow-bin": "0.186.0"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "flow-bin": {
+      "0.186.0": [
+        [
+          "null",
+          "2.0.0"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "flow-bin": {
+      "0.186.0": {
+        "hash": "sha256-2ieU9AwhHUPg1xN4zrlj/TLpt6twZcPUP+XFRKvMG1A=",
+        "type": "npm"
+      }
+    }
+  }
+}

@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.185.2": null
+    "0.186.0": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -380,9 +380,6 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "vue-card-express": {
-    "1.0.5": null
-  },
   "line-count": {
     "0.1.0": null
   },
@@ -391,6 +388,9 @@
   },
   "list-npm-contents": {
     "1.0.2": null
+  },
+  "vue-card-express": {
+    "1.0.5": null
   },
   "version-exists": {
     "0.0.4": null
@@ -461,10 +461,10 @@
   "woofwoof": {
     "3.6.7": null
   },
-  "@stdlib/number-uint32-base-to-binary-string": {
+  "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
+  "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.8": null
   },
   "@root/hexdump": {
@@ -482,31 +482,31 @@
   "bin-manager": {
     "1.3.1": null
   },
-  "@stdlib/number-uint16-base-to-binary-string": {
-    "0.0.8": null
-  },
   "cli-rewire": {
     "4.0.4": null
   },
-  "@stdlib/number-float32-base-from-binary-string": {
-    "0.0.7": null
-  },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.7": null
+  "@stdlib/number-uint16-base-to-binary-string": {
+    "0.0.8": null
   },
   "mosay": {
     "2.1.0": null
   },
-  "@stdlib/number-uint32-base-from-binary-string": {
+  "@stdlib/number-float64-base-from-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-uint8-base-from-binary-string": {
+  "@stdlib/number-float32-base-from-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
   "bin-exists": {
     "0.2.1": null
   },
   "@stdlib/number-uint16-base-from-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
   },
   "node-creditcard-identifier": {
@@ -650,6 +650,9 @@
   "bluemix-logo": {
     "1.1.2": null
   },
+  "hugo-extended": {
+    "0.102.2": null
+  },
   "cut-optimizer": {
     "0.1.1": null
   },
@@ -685,9 +688,6 @@
   },
   "websocketdjs": {
     "0.0.2": null
-  },
-  "hugo-extended": {
-    "0.102.1": null
   },
   "npm-bin-path": {
     "0.1.2": null
@@ -734,10 +734,10 @@
   "whereissync": {
     "1.0.1": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
   "math-float32-bits": {
