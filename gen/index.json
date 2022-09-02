@@ -26,11 +26,11 @@
   "trash": {
     "8.1.0": null
   },
-  "elm": {
-    "0.19.1-5": null
-  },
   "istextorbinary": {
     "6.0.0": null
+  },
+  "elm": {
+    "0.19.1-5": null
   },
   "direction": {
     "2.0.1": null
@@ -104,11 +104,11 @@
   "metaphone": {
     "2.0.0": null
   },
-  "ffbinaries": {
-    "1.1.4": null
-  },
   "album-art": {
     "2.0.2": null
+  },
+  "ffbinaries": {
+    "1.1.4": null
   },
   "bin-v8-flags-filter": {
     "1.2.0": null
@@ -230,14 +230,8 @@
   "dandruff-pinkeye-halitosis": {
     "3.0.1": null
   },
-  "ghcopy": {
-    "0.3.0": null
-  },
   "standardize": {
     "1.2.2": null
-  },
-  "help-version": {
-    "1.1.1": null
   },
   "zfinder": {
     "0.2.10": null
@@ -263,12 +257,6 @@
   "pet-names": {
     "1.0.1": null
   },
-  "ipv6-to-bin": {
-    "0.1.3": null
-  },
-  "ipv4-to-bin": {
-    "0.1.1": null
-  },
   "markdown-proofing": {
     "1.0.2": null
   },
@@ -281,8 +269,8 @@
   "report-status": {
     "1.0.1": null
   },
-  "gazer-color": {
-    "1.0.1": null
+  "ghcopy": {
+    "0.3.0": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -296,8 +284,20 @@
   "test-engine": {
     "0.1.0": null
   },
+  "gazer-color": {
+    "1.0.1": null
+  },
+  "ipv6-to-bin": {
+    "0.1.3": null
+  },
   "webpack-shebang-plugin": {
     "1.1.8": null
+  },
+  "ipv4-to-bin": {
+    "0.1.1": null
+  },
+  "help-version": {
+    "1.1.1": null
   },
   "count-lines": {
     "0.1.2": null
@@ -359,9 +359,6 @@
   "real-executable-path": {
     "3.0.0": null
   },
-  "yarn-global-modules": {
-    "1.0.1": null
-  },
   "package-run": {
     "2.0.6": null
   },
@@ -370,6 +367,9 @@
   },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
+  },
+  "yarn-global-modules": {
+    "1.0.1": null
   },
   "lancaster-stemmer": {
     "2.0.0": null
@@ -431,11 +431,11 @@
   "bin-packer": {
     "1.7.0": null
   },
-  "is-jxr": {
-    "2.0.0": null
-  },
   "build-purescript": {
     "0.4.1": null
+  },
+  "is-jxr": {
+    "2.0.0": null
   },
   "npm-run-path-compat": {
     "2.0.3": null
@@ -449,14 +449,8 @@
   "@sepalang/myself": {
     "0.3.0": null
   },
-  "ios-icons": {
-    "3.3.3": null
-  },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.7": null
-  },
-  "isbin": {
-    "0.0.3": null
   },
   "woofwoof": {
     "3.6.7": null
@@ -467,6 +461,9 @@
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.8": null
   },
+  "isbin": {
+    "0.0.3": null
+  },
   "@root/hexdump": {
     "1.1.1": null
   },
@@ -476,11 +473,11 @@
   "7zip-standalone": {
     "0.0.3": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.7": null
-  },
   "bin-manager": {
     "1.3.1": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.7": null
   },
   "cli-rewire": {
     "4.0.4": null
@@ -515,14 +512,8 @@
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
-  "@colisweb/bs-react-intl-extractor-bin": {
-    "0.12.2": null
-  },
   "@wrench/executable": {
     "0.0.5": null
-  },
-  "hexdump.js": {
-    "1.1.0": null
   },
   "johngrimm-utils": {
     "2.0.5": null
@@ -536,17 +527,17 @@
   "bauer-exec": {
     "0.1.5": null
   },
+  "@randy.tarampi/android-splash": {
+    "2.1.11": null
+  },
   "android-splash": {
     "1.0.2": null
   },
   "ppx-sedlex": {
     "20.0.0": null
   },
-  "@randy.tarampi/android-splash": {
-    "2.1.11": null
-  },
-  "workspaces-utils": {
-    "1.2.1": null
+  "ios-icons": {
+    "3.3.3": null
   },
   "chopsticks": {
     "0.6.0": null
@@ -569,8 +560,8 @@
   "bin-up": {
     "1.3.2": null
   },
-  "ios-splash": {
-    "2.1.2": null
+  "@colisweb/bs-react-intl-extractor-bin": {
+    "0.12.2": null
   },
   "argv-user-input": {
     "1.3.2": null
@@ -584,6 +575,9 @@
   "mock-bin": {
     "2.0.0": null
   },
+  "workspaces-utils": {
+    "1.2.1": null
+  },
   "yargs-command-config": {
     "1.0.5": null
   },
@@ -596,6 +590,9 @@
   "dargs-fork": {
     "1.0.0": null
   },
+  "ios-splash": {
+    "2.1.2": null
+  },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
   },
@@ -605,6 +602,9 @@
   "random-word-fr": {
     "1.0.3": null
   },
+  "hexdump.js": {
+    "1.1.0": null
+  },
   "meow-shorts": {
     "1.1.0": null
   },
@@ -613,9 +613,6 @@
   },
   "deepmerge-yaml": {
     "0.0.3": null
-  },
-  "jsbindat": {
-    "0.10.3": null
   },
   "urls-md": {
     "4.0.1": null
@@ -629,14 +626,11 @@
   "ect-bin": {
     "1.4.1": null
   },
-  "scalajs-standalone-bin": {
-    "0.4.3": null
-  },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
   },
-  "wix-msi": {
-    "0.6.0": null
+  "scalajs-standalone-bin": {
+    "0.4.3": null
   },
   "comanche": {
     "0.6.2": null
@@ -647,11 +641,14 @@
   "scala-bin": {
     "0.3.3": null
   },
+  "hugo-extended": {
+    "0.102.3": null
+  },
+  "wix-msi": {
+    "0.6.0": null
+  },
   "bluemix-logo": {
     "1.1.2": null
-  },
-  "hugo-extended": {
-    "0.102.2": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -662,11 +659,8 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "exec-extra": {
-    "2.8.0": null
-  },
-  "funnelenvysays": {
-    "1.0.7": null
+  "jsbindat": {
+    "0.10.3": null
   },
   "compass-version-callback": {
     "1.0.1": null
@@ -677,11 +671,11 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
-  },
   "sox-bin": {
     "1.0.2": null
+  },
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
   },
   "math-uint16-to-binary-string": {
     "1.0.1": null
@@ -689,11 +683,17 @@
   "websocketdjs": {
     "0.0.2": null
   },
+  "exec-extra": {
+    "2.8.0": null
+  },
   "npm-bin-path": {
     "0.1.2": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
+  },
+  "funnelenvysays": {
+    "1.0.7": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -704,17 +704,17 @@
   "cheese-name": {
     "2.0.1": null
   },
-  "@abdfnx/hac_k": {
-    "1.0.2": null
-  },
   "npm-run-path-cli": {
     "2.0.0": null
   },
-  "vtexsay": {
-    "1.0.3": null
+  "@abdfnx/hac_k": {
+    "1.0.2": null
   },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "string-packer": {
     "1.0.3": null
@@ -724,12 +724,6 @@
   },
   "execa-tree-kill": {
     "4.0.0": null
-  },
-  "@cjs-mifi-test/npm-run-path": {
-    "5.0.1": null
-  },
-  "xcm": {
-    "1.0.4": null
   },
   "whereissync": {
     "1.0.1": null
@@ -748,5 +742,11 @@
   },
   "ks-strip-debug": {
     "0.0.2": null
+  },
+  "pkg-bin-paths": {
+    "1.0.0": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   }
 }
