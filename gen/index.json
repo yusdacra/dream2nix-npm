@@ -146,17 +146,17 @@
   "node-alias": {
     "1.0.4": null
   },
-  "metal-name": {
-    "2.2.0": null
+  "mngen": {
+    "1.1.0": null
   },
   "movie-art": {
     "2.0.3": null
   },
-  "mngen": {
-    "1.1.0": null
-  },
   "aybabtu": {
     "1.1.6": null
+  },
+  "metal-name": {
+    "2.2.0": null
   },
   "glow": {
     "1.2.2": null
@@ -179,9 +179,6 @@
   "binstruct": {
     "0.3.1": null
   },
-  "link-bin": {
-    "2.0.2": null
-  },
   "array-scaler": {
     "0.3.2": null
   },
@@ -193,6 +190,9 @@
   },
   "windows-bin": {
     "1.0.1": null
+  },
+  "link-bin": {
+    "2.0.2": null
   },
   "osx-learn": {
     "1.1.2": null
@@ -224,6 +224,9 @@
   "slugify-files": {
     "2.1.0": null
   },
+  "@hugojosefson/example-cli": {
+    "4.0.1": null
+  },
   "crip-names": {
     "1.2.5": null
   },
@@ -236,17 +239,11 @@
   "zfinder": {
     "0.2.10": null
   },
-  "@hugojosefson/example-cli": {
-    "4.0.1": null
-  },
   "scaler": {
     "0.2.1": null
   },
   "movie-info": {
     "2.0.5": null
-  },
-  "meow-names": {
-    "1.0.1": null
   },
   "nicknames": {
     "1.0.2": null
@@ -257,26 +254,26 @@
   "pet-names": {
     "1.0.1": null
   },
-  "markdown-proofing": {
-    "1.0.2": null
-  },
   "nerdy-cat-names": {
     "1.0.0": null
   },
   "node-diff-bin": {
     "0.1.0": null
   },
-  "report-status": {
-    "1.0.1": null
-  },
   "ghcopy": {
     "0.3.0": null
+  },
+  "report-status": {
+    "1.0.1": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
   },
   "time-bin": {
     "1.0.1": null
+  },
+  "markdown-proofing": {
+    "1.0.2": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -285,6 +282,9 @@
     "0.1.0": null
   },
   "gazer-color": {
+    "1.0.1": null
+  },
+  "meow-names": {
     "1.0.1": null
   },
   "ipv6-to-bin": {
@@ -323,6 +323,9 @@
   "cli-belt": {
     "2.0.0": null
   },
+  "ect-bin": {
+    "1.4.1": null
+  },
   "begoo": {
     "2.0.2": null
   },
@@ -347,13 +350,13 @@
   "ultrax": {
     "2.0.5": null
   },
-  "math-float32-to-binary-string": {
-    "1.0.0": null
-  },
   "bin-wrapper-china": {
     "0.1.0": null
   },
   "exec-bin": {
+    "1.0.0": null
+  },
+  "math-float32-to-binary-string": {
     "1.0.0": null
   },
   "real-executable-path": {
@@ -380,14 +383,11 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "line-count": {
-    "0.1.0": null
-  },
   "movie-trailer": {
     "2.1.0": null
   },
-  "list-npm-contents": {
-    "1.0.2": null
+  "line-count": {
+    "0.1.0": null
   },
   "vue-card-express": {
     "1.0.5": null
@@ -397,6 +397,9 @@
   },
   "scritch": {
     "1.3.1": null
+  },
+  "list-npm-contents": {
+    "1.0.2": null
   },
   "to-flags": {
     "0.2.0": null
@@ -509,9 +512,6 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
-  "math-uint32-to-binary-string": {
-    "1.0.0": null
-  },
   "@wrench/executable": {
     "0.0.5": null
   },
@@ -530,14 +530,17 @@
   "@randy.tarampi/android-splash": {
     "2.1.11": null
   },
-  "android-splash": {
-    "1.0.2": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
   },
+  "android-splash": {
+    "1.0.2": null
+  },
   "ios-icons": {
     "3.3.3": null
+  },
+  "math-float32-from-bits": {
+    "1.0.1": null
   },
   "chopsticks": {
     "0.6.0": null
@@ -548,13 +551,13 @@
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
   },
-  "math-uint8-bits": {
+  "math-float64-from-bits": {
+    "1.0.0": null
+  },
+  "math-uint32-to-binary-string": {
     "1.0.0": null
   },
   "to-flag": {
-    "1.0.0": null
-  },
-  "math-float64-from-bits": {
     "1.0.0": null
   },
   "bin-up": {
@@ -569,14 +572,11 @@
   "clito": {
     "0.1.2": null
   },
-  "yosay-sogou": {
-    "0.0.2": null
-  },
-  "mock-bin": {
-    "2.0.0": null
-  },
   "workspaces-utils": {
     "1.2.1": null
+  },
+  "yosay-sogou": {
+    "0.0.2": null
   },
   "yargs-command-config": {
     "1.0.5": null
@@ -584,14 +584,14 @@
   "@yarn-tool/shebang": {
     "1.0.13": null
   },
-  "math-float32-from-bits": {
-    "1.0.1": null
-  },
   "dargs-fork": {
     "1.0.0": null
   },
   "ios-splash": {
     "2.1.2": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
@@ -617,14 +617,14 @@
   "urls-md": {
     "4.0.1": null
   },
+  "mock-bin": {
+    "2.0.0": null
+  },
   "dbin": {
     "0.0.8": null
   },
   "async-which": {
     "1.0.3": null
-  },
-  "ect-bin": {
-    "1.4.1": null
   },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
@@ -656,29 +656,20 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "math-float64-to-binary-string": {
-    "1.0.1": null
-  },
   "jsbindat": {
     "0.10.3": null
   },
   "compass-version-callback": {
     "1.0.1": null
   },
-  "math-uint16-bits": {
-    "1.0.0": null
-  },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
-  },
-  "sox-bin": {
-    "1.0.2": null
   },
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
-  "math-uint16-to-binary-string": {
-    "1.0.1": null
+  "sox-bin": {
+    "1.0.2": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -695,8 +686,8 @@
   "funnelenvysays": {
     "1.0.7": null
   },
-  "math-float64-bits": {
-    "1.0.1": null
+  "math-uint16-bits": {
+    "1.0.0": null
   },
   "npm-package-bin": {
     "0.0.6": null
@@ -713,6 +704,9 @@
   "@testup/cli": {
     "0.6.0": null
   },
+  "math-uint16-to-binary-string": {
+    "1.0.1": null
+  },
   "vtexsay": {
     "1.0.3": null
   },
@@ -722,31 +716,37 @@
   "opn-bg": {
     "0.1.1": null
   },
+  "math-float64-bits": {
+    "1.0.1": null
+  },
   "execa-tree-kill": {
     "4.0.0": null
+  },
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   },
   "whereissync": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
-  },
   "number-convert": {
     "1.0.0": null
   },
-  "math-float32-bits": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
   "onionsay": {
     "1.0.0": null
-  },
-  "ks-strip-debug": {
-    "0.0.2": null
   },
   "pkg-bin-paths": {
     "1.0.0": null
   },
   "npm-gcf-test": {
     "1.1.2": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
+  },
+  "@alizw/debug-es5": {
+    "4.0.2": null
   }
 }
