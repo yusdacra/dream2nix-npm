@@ -242,9 +242,6 @@
   "scaler": {
     "0.2.1": null
   },
-  "nicknames": {
-    "1.0.2": null
-  },
   "movie-info": {
     "2.0.5": null
   },
@@ -254,8 +251,8 @@
   "pet-names": {
     "1.0.1": null
   },
-  "node-diff-bin": {
-    "0.1.0": null
+  "nicknames": {
+    "1.0.2": null
   },
   "ghcopy": {
     "0.3.0": null
@@ -266,11 +263,14 @@
   "tcpip-port-to-bin": {
     "0.1.0": null
   },
+  "markdown-proofing": {
+    "1.0.2": null
+  },
   "time-bin": {
     "1.0.1": null
   },
-  "markdown-proofing": {
-    "1.0.2": null
+  "node-diff-bin": {
+    "0.1.0": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -290,11 +290,11 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "webpack-shebang-plugin": {
-    "1.1.8": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "webpack-shebang-plugin": {
+    "1.1.8": null
   },
   "help-version": {
     "1.1.1": null
@@ -524,8 +524,14 @@
   "johngrimm-utils": {
     "2.0.5": null
   },
+  "@tunnckocore/jest-runner-babel": {
+    "4.2.8": null
+  },
   "binary-wrapper": {
     "0.0.1": null
+  },
+  "@tunnckocore/jest-runner-eslint": {
+    "1.2.9": null
   },
   "git-auto-badger": {
     "1.0.22": null
@@ -593,9 +599,6 @@
   "math-uint8-bits": {
     "1.0.0": null
   },
-  "@tunnckocore/jest-runner-eslint": {
-    "1.2.9": null
-  },
   "usually": {
     "1.2.0": null
   },
@@ -608,11 +611,11 @@
   "meow-shorts": {
     "1.1.0": null
   },
-  "@tunnckocore/jest-runner-babel": {
-    "4.2.8": null
-  },
   "deepmerge-yaml": {
     "0.0.3": null
+  },
+  "@theo4u/wkhtmltopdf": {
+    "1.1.0": null
   },
   "urls-md": {
     "4.0.1": null
@@ -626,11 +629,11 @@
   "async-which": {
     "1.0.3": null
   },
-  "@theo4u/wkhtmltopdf": {
-    "1.1.0": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
+  },
+  "@testup/cli": {
+    "0.6.0": null
   },
   "comanche": {
     "0.6.2": null
@@ -701,9 +704,6 @@
   "@abdfnx/hac_k": {
     "1.0.2": null
   },
-  "@testup/cli": {
-    "0.6.0": null
-  },
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
@@ -712,6 +712,9 @@
   },
   "vtexsay": {
     "1.0.3": null
+  },
+  "@whodunit/character": {
+    "1.0.4": null
   },
   "opn-bg": {
     "0.1.1": null
@@ -725,10 +728,10 @@
   "whereissync": {
     "1.0.1": null
   },
-  "number-convert": {
+  "resolve-jsdoc-bin": {
     "1.0.0": null
   },
-  "resolve-jsdoc-bin": {
+  "number-convert": {
     "1.0.0": null
   },
   "execa-tree-kill": {
@@ -745,8 +748,5 @@
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
-  },
-  "@alizw/debug-es5": {
-    "4.0.2": null
   }
 }
