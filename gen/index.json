@@ -278,10 +278,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "ipv6-to-bin": {
@@ -410,14 +410,14 @@
   "egg-born-bin": {
     "4.1.7": null
   },
+  "bin-tool": {
+    "2.2.3": null
+  },
   "yarn-config-directory": {
     "1.0.2": null
   },
   "all-module-paths": {
     "0.10.7": null
-  },
-  "bin-tool": {
-    "2.2.3": null
   },
   "boxpack": {
     "0.1.0": null
@@ -503,6 +503,9 @@
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
+  "@wrench/executable": {
+    "0.0.5": null
+  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
   },
@@ -518,17 +521,14 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
-  "@wrench/executable": {
-    "0.0.5": null
-  },
-  "johngrimm-utils": {
-    "2.0.5": null
-  },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "binary-wrapper": {
-    "0.0.1": null
+  "random-word-fr": {
+    "1.0.3": null
+  },
+  "johngrimm-utils": {
+    "2.0.5": null
   },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
@@ -566,6 +566,9 @@
   "to-flag": {
     "1.0.0": null
   },
+  "binary-wrapper": {
+    "0.0.1": null
+  },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
   },
@@ -599,9 +602,6 @@
   "usually": {
     "1.2.0": null
   },
-  "random-word-fr": {
-    "1.0.3": null
-  },
   "hexdump.js": {
     "1.1.0": null
   },
@@ -610,6 +610,9 @@
   },
   "deepmerge-yaml": {
     "0.0.3": null
+  },
+  "@wrote/rm": {
+    "1.1.5": null
   },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
@@ -629,6 +632,9 @@
   "async-which": {
     "1.0.3": null
   },
+  "babel-plugin-bin-shebang": {
+    "1.0.3": null
+  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
@@ -637,9 +643,6 @@
   },
   "comanche": {
     "0.6.2": null
-  },
-  "@wrote/rm": {
-    "1.1.5": null
   },
   "scala-bin": {
     "0.3.3": null
@@ -664,9 +667,6 @@
   },
   "compass-version-callback": {
     "1.0.1": null
-  },
-  "babel-plugin-bin-shebang": {
-    "1.0.3": null
   },
   "sox-bin": {
     "1.0.2": null
@@ -725,6 +725,9 @@
   "execa-tree-kill": {
     "4.0.0": null
   },
+  "bin-pls": {
+    "1.0.1": null
+  },
   "npm-gcf-test": {
     "1.1.2": null
   },
@@ -745,8 +748,5 @@
   },
   "@alizw/debug-es5": {
     "4.0.2": null
-  },
-  "pkg-bin-paths": {
-    "1.0.0": null
   }
 }
