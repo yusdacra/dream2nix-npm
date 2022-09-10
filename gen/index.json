@@ -209,9 +209,6 @@
   "pwpush-cli": {
     "0.8.1": null
   },
-  "require-resolve-cli": {
-    "1.0.0": null
-  },
   "resolve-as-bin": {
     "2.1.0": null
   },
@@ -236,11 +233,14 @@
   "zfinder": {
     "0.2.10": null
   },
-  "scaler": {
-    "0.2.1": null
+  "require-resolve-cli": {
+    "1.0.0": null
   },
   "movie-info": {
     "2.0.5": null
+  },
+  "scaler": {
+    "0.2.1": null
   },
   "bing-wallpaper": {
     "0.1.3": null
@@ -253,9 +253,6 @@
   },
   "ghcopy": {
     "0.3.0": null
-  },
-  "report-status": {
-    "1.0.1": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -272,20 +269,23 @@
   "tumblr-upload": {
     "0.8.1": null
   },
+  "pet-names": {
+    "1.0.1": null
+  },
   "test-engine": {
     "0.1.0": null
   },
-  "pet-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "meow-names": {
     "1.0.1": null
   },
-  "gazer-color": {
-    "1.0.1": null
-  },
   "ipv6-to-bin": {
     "0.1.3": null
+  },
+  "report-status": {
+    "1.0.1": null
   },
   "nerdy-cat-names": {
     "1.0.0": null
@@ -299,14 +299,14 @@
   "@midwayjs/cli": {
     "1.3.13": null
   },
+  "realpath": {
+    "2.0.0": null
+  },
   "help-version": {
     "1.1.1": null
   },
   "count-lines": {
     "0.1.2": null
-  },
-  "realpath": {
-    "2.0.0": null
   },
   "pkg-ok": {
     "3.0.0": null
@@ -422,6 +422,9 @@
   "boxpack": {
     "0.1.0": null
   },
+  "cli-rewire": {
+    "4.0.4": null
+  },
   "@marchyang/execa": {
     "6.0.1": null
   },
@@ -482,9 +485,6 @@
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
   },
-  "cli-rewire": {
-    "4.0.4": null
-  },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
   },
@@ -536,6 +536,9 @@
   "@yarn-tool/shebang": {
     "1.0.14": null
   },
+  "clito": {
+    "0.1.2": null
+  },
   "bauer-exec": {
     "0.1.5": null
   },
@@ -578,14 +581,11 @@
   "argv-user-input": {
     "1.3.2": null
   },
-  "clito": {
-    "0.1.2": null
+  "workspaces-utils": {
+    "1.2.1": null
   },
   "yosay-sogou": {
     "0.0.2": null
-  },
-  "workspaces-utils": {
-    "1.2.1": null
   },
   "yargs-command-config": {
     "1.0.5": null
@@ -635,17 +635,11 @@
   "babel-plugin-bin-shebang": {
     "1.0.3": null
   },
-  "scalajs-standalone-bin": {
-    "0.4.3": null
-  },
   "@testup/cli": {
     "0.6.0": null
   },
   "comanche": {
     "0.6.2": null
-  },
-  "scala-bin": {
-    "0.3.3": null
   },
   "wix-msi": {
     "0.6.1": null
@@ -655,6 +649,9 @@
   },
   "bluemix-logo": {
     "1.1.2": null
+  },
+  "scalajs-standalone-bin": {
+    "0.4.3": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -673,6 +670,9 @@
   },
   "websocketdjs": {
     "0.0.2": null
+  },
+  "scala-bin": {
+    "0.3.3": null
   },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
@@ -719,11 +719,11 @@
   "whereissync": {
     "1.0.1": null
   },
-  "resolve-jsdoc-bin": {
-    "1.0.0": null
-  },
   "execa-tree-kill": {
     "4.0.0": null
+  },
+  "resolve-jsdoc-bin": {
+    "1.0.0": null
   },
   "bin-pls": {
     "1.0.1": null
@@ -740,11 +740,11 @@
   "number-convert": {
     "1.0.0": null
   },
-  "@cjs-mifi-test/npm-run-path": {
-    "5.0.1": null
-  },
   "opn-bg": {
     "0.1.1": null
+  },
+  "@cjs-mifi-test/npm-run-path": {
+    "5.0.1": null
   },
   "@alizw/debug-es5": {
     "4.0.2": null
