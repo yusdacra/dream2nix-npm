@@ -1,0 +1,552 @@
+{
+  "_generic": {
+    "defaultPackage": "nvison",
+    "location": "",
+    "packages": {
+      "nvison": "1.0.27"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "nodejs"
+  },
+  "_subsystem": {
+    "nodejsVersion": "14"
+  },
+  "cyclicDependencies": {},
+  "dependencies": {
+    "ndtreejs": {
+      "1.3.37": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-facutil-event",
+          "1.0.0"
+        ],
+        [
+          "uuid",
+          "8.3.2"
+        ]
+      ]
+    },
+    "nv-array-basic": {
+      "1.0.25": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ]
+      ]
+    },
+    "nv-array-combo": {
+      "1.0.0": [
+        [
+          "nv-array-basic",
+          "1.0.25"
+        ]
+      ]
+    },
+    "nv-char-escape": {
+      "1.0.14": [
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ],
+        [
+          "nv-string-basic",
+          "1.0.51"
+        ],
+        [
+          "nv-string-stream",
+          "1.0.10"
+        ]
+      ]
+    },
+    "nv-char-whitespace": {
+      "1.0.7": [
+        [
+          "nv-char-basic",
+          "1.0.3"
+        ]
+      ]
+    },
+    "nv-facutil-basic": {
+      "1.3.20": [
+        [
+          "nanoid",
+          "3.3.4"
+        ],
+        [
+          "nv-facutil-notandor",
+          "1.0.5"
+        ]
+      ]
+    },
+    "nv-facutil-defp": {
+      "1.0.3": [
+        [
+          "nv-array-combo",
+          "1.0.0"
+        ]
+      ]
+    },
+    "nv-facutil-event": {
+      "1.0.0": [
+        [
+          "nv-facutil-name",
+          "1.0.5"
+        ]
+      ]
+    },
+    "nv-facutil-generator": {
+      "1.0.6": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-facutil-promise",
+          "1.0.34"
+        ]
+      ]
+    },
+    "nv-facutil-promise": {
+      "1.0.34": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-facutil-defp",
+          "1.0.3"
+        ]
+      ]
+    },
+    "nv-string-basic": {
+      "1.0.51": [
+        [
+          "charcodes",
+          "0.2.0"
+        ],
+        [
+          "nv-array-combo",
+          "1.0.0"
+        ],
+        [
+          "nv-char-basic",
+          "1.0.3"
+        ],
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ],
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ]
+      ]
+    },
+    "nv-string-comment": {
+      "1.0.5": [
+        [
+          "nv-char-escape",
+          "1.0.14"
+        ],
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ]
+      ]
+    },
+    "nv-string-stream": {
+      "1.0.10": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ]
+      ]
+    },
+    "nvison": {
+      "1.0.27": [
+        [
+          "minimist",
+          "1.2.6"
+        ],
+        [
+          "null",
+          "2.0.0"
+        ],
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ],
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nvison-cfg",
+          "1.0.14"
+        ],
+        [
+          "nvison-parse-d",
+          "1.0.61"
+        ],
+        [
+          "nvison-parse-engine",
+          "1.0.53"
+        ],
+        [
+          "nvison-parse-internal",
+          "1.0.40"
+        ]
+      ]
+    },
+    "nvison-cfg": {
+      "1.0.14": [
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ],
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-string-basic",
+          "1.0.51"
+        ]
+      ]
+    },
+    "nvison-obj-class": {
+      "1.0.11": [
+        [
+          "ndtreejs",
+          "1.3.37"
+        ],
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-string-basic",
+          "1.0.51"
+        ],
+        [
+          "nvison-obj-typedef",
+          "1.0.3"
+        ]
+      ]
+    },
+    "nvison-parse-d": {
+      "1.0.61": [
+        [
+          "nv-char-escape",
+          "1.0.14"
+        ],
+        [
+          "nv-char-whitespace",
+          "1.0.7"
+        ],
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nv-facutil-generator",
+          "1.0.6"
+        ],
+        [
+          "nv-string-comment",
+          "1.0.5"
+        ],
+        [
+          "nv-string-stream",
+          "1.0.10"
+        ],
+        [
+          "nvison-cfg",
+          "1.0.14"
+        ],
+        [
+          "nvison-obj-class",
+          "1.0.11"
+        ],
+        [
+          "nvison-obj-typedef",
+          "1.0.3"
+        ],
+        [
+          "nvison-parse-scope",
+          "1.0.14"
+        ],
+        [
+          "nvison-parse-state",
+          "1.0.12"
+        ]
+      ]
+    },
+    "nvison-parse-engine": {
+      "1.0.53": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nvison-cfg",
+          "1.0.14"
+        ],
+        [
+          "nvison-parse-d",
+          "1.0.61"
+        ],
+        [
+          "nvison-parse-state",
+          "1.0.12"
+        ]
+      ]
+    },
+    "nvison-parse-internal": {
+      "1.0.40": [
+        [
+          "nv-string-stream",
+          "1.0.10"
+        ],
+        [
+          "nvison-cfg",
+          "1.0.14"
+        ],
+        [
+          "nvison-parse-engine",
+          "1.0.53"
+        ],
+        [
+          "nvison-parse-state",
+          "1.0.12"
+        ]
+      ]
+    },
+    "nvison-parse-scope": {
+      "1.0.14": [
+        [
+          "nv-facutil-basic",
+          "1.3.20"
+        ],
+        [
+          "nvison-obj-class",
+          "1.0.11"
+        ]
+      ]
+    }
+  },
+  "sources": {
+    "charcodes": {
+      "0.2.0": {
+        "hash": "sha512-Y4kiDb+AM4Ecy58YkuZrrSRJBDQdQ2L+NyS1vHHFtNtUjgutcZfx3yp1dAONI/oPaPmyGfCLx5CxL+zauIMyKQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/charcodes/-/charcodes-0.2.0.tgz"
+      }
+    },
+    "minimist": {
+      "1.2.6": {
+        "hash": "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+      }
+    },
+    "nanoid": {
+      "3.3.4": {
+        "hash": "sha512-MqBkQh/OHTS2egovRtLk45wEyNXwF+cokD+1YPf9u5VfJiRdAiRwB2froX5Co9Rh20xs4siNPm8naNotSD6RBw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nanoid/-/nanoid-3.3.4.tgz"
+      }
+    },
+    "ndtreejs": {
+      "1.3.37": {
+        "hash": "sha512-sEFWG8ZU8uE9I1vh4rCTrqkDpxbYObqSBPOgmcscNYrp+woHrrkv0Qdy1t+e+JRHt38v5+VW9HVRUByGNWO/tw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/ndtreejs/-/ndtreejs-1.3.37.tgz"
+      }
+    },
+    "null": {
+      "2.0.0": {
+        "hash": "sha512-CVSXPeB7Af0Sku7w8N8EKkgcwvQ6wGNfs6bly419A/q6dpIwzaHIk+65+La2g80ml21uxVXQo8xReTMI2WEYbA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/null/-/null-2.0.0.tgz"
+      }
+    },
+    "nv-array-basic": {
+      "1.0.25": {
+        "hash": "sha512-GVwxt/kWHnuU8b/d87NYsX5NtnjCuIVvHgl608FA3a6ALL2bqcREg0fvueJ9wvfUTkKoeABXsi0Zqv/zZjvfOQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-array-basic/-/nv-array-basic-1.0.25.tgz"
+      }
+    },
+    "nv-array-combo": {
+      "1.0.0": {
+        "hash": "sha512-/QYz/ssYpO4cFTrhTBBu8V3a4OLdLLHPPxlE7iIJoUUsoLQV/InsQ/7+XWyIxAYf4ZsNSl8vv2zd0Gz+q4QytA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-array-combo/-/nv-array-combo-1.0.0.tgz"
+      }
+    },
+    "nv-char-basic": {
+      "1.0.3": {
+        "hash": "sha512-XGG9Y+5VnePEk0zkQIUwQEYkDwgfMrerCylQMKEGWa44oD9+IWw7XZsNIrxrHdO2Otqoj73p+IZ6ugzj+iPyhw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-char-basic/-/nv-char-basic-1.0.3.tgz"
+      }
+    },
+    "nv-char-escape": {
+      "1.0.14": {
+        "hash": "sha512-E/8gQzvb6U7hVPxhaD3F/S9DxuSVqfbuAqY2uMAy5wQYtBl4Vj8cqazYd3RC7CQdbj6azVS9KDbHdQEuyIrh3Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-char-escape/-/nv-char-escape-1.0.14.tgz"
+      }
+    },
+    "nv-char-whitespace": {
+      "1.0.7": {
+        "hash": "sha512-RvTW6pwPReN8LFWaR+ZquqeHTXmxmyWla7EFCv8RPaqtoN184ejQlwQEKhWEUZ0wsiKSYpRjVVvD71Fpaa1pAQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-char-whitespace/-/nv-char-whitespace-1.0.7.tgz"
+      }
+    },
+    "nv-facutil-basic": {
+      "1.3.20": {
+        "hash": "sha512-eGkAie/avH6ApghzuVApbszkwD8OX9d4u3Vl0pZnm0sV9etwdHn1trAFVTeMzadP9KMANCDI+ICwVY/a/KBKvw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-basic/-/nv-facutil-basic-1.3.20.tgz"
+      }
+    },
+    "nv-facutil-defp": {
+      "1.0.3": {
+        "hash": "sha512-9EaciXDeC4xkI9sPDY9OZ5PBzeCvOr+PqfKUycmRTXixPu8f+pQNh2kmk2ixh/jPs354Ltcaslb8bGJBh+1qvQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-defp/-/nv-facutil-defp-1.0.3.tgz"
+      }
+    },
+    "nv-facutil-event": {
+      "1.0.0": {
+        "hash": "sha512-3BDjR39q9eB7VOWIye/LBtbizLelkUmf0KtsrXF1srityDpnhOuId3NDaYifkM1rB8zgMiVZ52iAHeJio5fJHg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-event/-/nv-facutil-event-1.0.0.tgz"
+      }
+    },
+    "nv-facutil-generator": {
+      "1.0.6": {
+        "hash": "sha512-NmhU2yKxV9BYqYDfLhIchspPJyjQxaEp27IWavrGFu1IzPHJGbWvpXjhVoA654RBo+leTlnUXNsu79CqGj0QrA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-generator/-/nv-facutil-generator-1.0.6.tgz"
+      }
+    },
+    "nv-facutil-name": {
+      "1.0.5": {
+        "hash": "sha512-G234rTviqk8Hm58rIH5Sj3/BUnffRKn89UnG3qXqRGMvN47kvdK9vUS8t781JIXuDpZd0f1N15xdgYcz+906aA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-name/-/nv-facutil-name-1.0.5.tgz"
+      }
+    },
+    "nv-facutil-notandor": {
+      "1.0.5": {
+        "hash": "sha512-29H+w/g+VecoxPHtcm3ZNrhZgIDbUeoSbo9i/wvNnOWjfC7em0ZKboOJuLpV4WNUb3v+Z01AdKEz/AIJxIOe8Q==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-notandor/-/nv-facutil-notandor-1.0.5.tgz"
+      }
+    },
+    "nv-facutil-promise": {
+      "1.0.34": {
+        "hash": "sha512-9AE9FphtX4crbY//0KBFsDukpYxf9NSmSuX+I95l/1wrLMHau6osDbCS/71wiX6IrquaZxlp56HGCjqkNAbDPQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-facutil-promise/-/nv-facutil-promise-1.0.34.tgz"
+      }
+    },
+    "nv-string-basic": {
+      "1.0.51": {
+        "hash": "sha512-dXFVe3uTULW6H9U/QjnYpYnumlKy6R0FSRD42j6dK/yzAjryXiU/ByWADJ+eRgmrjVTJtM2D4F8VjVrgdC9tYQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-string-basic/-/nv-string-basic-1.0.51.tgz"
+      }
+    },
+    "nv-string-comment": {
+      "1.0.5": {
+        "hash": "sha512-P9KxWGpllV4VGvSJ70TylY0wBeen52d0+v+pPsqBfXr5KB5Zzkt/M886kQZlckicjOzWedRhuo6ZWZhAF7IRbQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-string-comment/-/nv-string-comment-1.0.5.tgz"
+      }
+    },
+    "nv-string-stream": {
+      "1.0.10": {
+        "hash": "sha512-RxuGeMWq0bsBC8cCbO/aMC4FcV1zzJL00mFV+cKIHV5YK15gkCxI8+hEHhYm6QzpqZBlHadJpoRG9PUXutTwkw==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nv-string-stream/-/nv-string-stream-1.0.10.tgz"
+      }
+    },
+    "nvison-cfg": {
+      "1.0.14": {
+        "hash": "sha512-ziIeXfunob8G3E++pV6a7XE6+EOS6vy80BTho8nOvDUrjNGlaQjzqWFm2CN2VqSQqi4e3/t3nlibSBwMvh2jqg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-cfg/-/nvison-cfg-1.0.14.tgz"
+      }
+    },
+    "nvison-obj-class": {
+      "1.0.11": {
+        "hash": "sha512-Wdm3gnYv3Cz6PclZacFVJoa0VjPlI1EiAKv2oWS1HGDDFbqQDAxsT9sX0oTatyKt9Ppf0g67LUhoN/2OAsKjpA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-obj-class/-/nvison-obj-class-1.0.11.tgz"
+      }
+    },
+    "nvison-obj-typedef": {
+      "1.0.3": {
+        "hash": "sha512-hFuD1bJPb8/25WsdYLES/peCgqz5d1XXrqxrAPCZAkv2olgA8ZGD66sfuI9+q8QWFjwqRj292vG3cwkHz+XUfA==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-obj-typedef/-/nvison-obj-typedef-1.0.3.tgz"
+      }
+    },
+    "nvison-parse-d": {
+      "1.0.61": {
+        "hash": "sha512-91bcEMH3xLI3i/GxmY6bpSLmF73gpfRxYK0uc8ZfsCo8G+vcxJWvoTZ+LUYQ2OGPR7r5GvzHZ1QVSN8bFsgH9A==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-parse-d/-/nvison-parse-d-1.0.61.tgz"
+      }
+    },
+    "nvison-parse-engine": {
+      "1.0.53": {
+        "hash": "sha512-QU43k9q0NDB10FSwYiv7kIHSES9vRQrXP4XN3jl84yM1QleR5+oU5WoIsrPwkbSlNwl1rHEyXm/3nss+H6C9Jg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-parse-engine/-/nvison-parse-engine-1.0.53.tgz"
+      }
+    },
+    "nvison-parse-internal": {
+      "1.0.40": {
+        "hash": "sha512-mGhggxZUzCWv0za0lXUQN9Xz3o4FkOz/GbEtRd4EFwDmhPqwnJmIOaSRiPcXdMZGzvn7ZKi+hnPp6qZe9D+AqQ==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-parse-internal/-/nvison-parse-internal-1.0.40.tgz"
+      }
+    },
+    "nvison-parse-scope": {
+      "1.0.14": {
+        "hash": "sha512-WkG+x5522QHKV0An/dy3W3Gegsps0PasSYQHiLYhWUKsZJl3JR9rEY9EsrSxDZXGR4DHNY5z33Vwi/4yAUfN3g==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-parse-scope/-/nvison-parse-scope-1.0.14.tgz"
+      }
+    },
+    "nvison-parse-state": {
+      "1.0.12": {
+        "hash": "sha512-TiMliuGxpYBq1suD6dJthhGKtKqnDDmC4Z6JrFldHT3S93zN4jp+RQTWoW7eP5JQYfnM7YPlvKwoHt//C9a4Lg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/nvison-parse-state/-/nvison-parse-state-1.0.12.tgz"
+      }
+    },
+    "uuid": {
+      "8.3.2": {
+        "hash": "sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==",
+        "type": "http",
+        "url": "https://registry.npmjs.org/uuid/-/uuid-8.3.2.tgz"
+      }
+    },
+    "nvison": {
+      "1.0.27": {
+        "hash": "sha256-Tx0Y12d8OMvXIhjZxLBpOfGQ3selr7AoPM0JuyEtPlI=",
+        "type": "npm"
+      }
+    }
+  }
+}
