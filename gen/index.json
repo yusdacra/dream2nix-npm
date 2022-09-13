@@ -47,9 +47,6 @@
   "trash-cli": {
     "5.0.0": null
   },
-  "yeoman-character": {
-    "1.1.0": null
-  },
   "@turf/boolean-point-in-polygon": {
     "6.5.0": null
   },
@@ -58,6 +55,9 @@
   },
   "remark-cli": {
     "11.0.0": null
+  },
+  "yeoman-character": {
+    "1.1.0": null
   },
   "bin-pack": {
     "1.0.2": null
@@ -200,6 +200,9 @@
   "maxrects-packer": {
     "2.7.3": null
   },
+  "zfinder": {
+    "0.2.10": null
+  },
   "emailing": {
     "0.0.6": null
   },
@@ -223,9 +226,6 @@
   },
   "sugar-ssh": {
     "0.4.0": null
-  },
-  "zfinder": {
-    "0.2.10": null
   },
   "require-resolve-cli": {
     "1.0.0": null
@@ -287,11 +287,11 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "tcpip-port-to-bin": {
-    "0.1.0": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "tcpip-port-to-bin": {
+    "0.1.0": null
   },
   "webpack-shebang-plugin": {
     "1.1.8": null
@@ -359,6 +359,9 @@
   "real-executable-path": {
     "3.0.0": null
   },
+  "zfinder-utils": {
+    "0.0.20160121": null
+  },
   "package-run": {
     "2.0.6": null
   },
@@ -382,9 +385,6 @@
   },
   "movie-trailer": {
     "2.1.0": null
-  },
-  "zfinder-utils": {
-    "0.0.20160121": null
   },
   "@mole-inc/bin-wrapper": {
     "8.0.0": null
@@ -479,6 +479,9 @@
   "7zip-standalone": {
     "0.0.3": null
   },
+  "yargs-command-config": {
+    "1.0.5": null
+  },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
   },
@@ -487,6 +490,9 @@
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
+  },
+  "node-creditcard-identifier": {
+    "1.1.2": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
@@ -518,14 +524,14 @@
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
   },
-  "node-creditcard-identifier": {
-    "1.1.2": null
-  },
   "to-flag": {
     "1.0.0": null
   },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
+  },
+  "@esm2cjs/npm-run-path": {
+    "5.1.1-cjs.0": null
   },
   "random-word-fr": {
     "1.0.3": null
@@ -586,9 +592,6 @@
   },
   "yosay-sogou": {
     "0.0.2": null
-  },
-  "yargs-command-config": {
-    "1.0.5": null
   },
   "dargs-fork": {
     "1.0.0": null
@@ -677,6 +680,9 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
+  "vtexsay": {
+    "1.0.3": null
+  },
   "exec-extra": {
     "2.8.0": null
   },
@@ -706,9 +712,6 @@
   },
   "@whodunit/character": {
     "1.0.4": null
-  },
-  "vtexsay": {
-    "1.0.3": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -745,8 +748,5 @@
   },
   "@cjs-mifi-test/npm-run-path": {
     "5.0.1": null
-  },
-  "@alizw/debug-es5": {
-    "4.0.2": null
   }
 }
