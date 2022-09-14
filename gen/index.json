@@ -356,6 +356,9 @@
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
+  "egg-born-bin": {
+    "4.1.7": null
+  },
   "real-executable-path": {
     "3.0.0": null
   },
@@ -406,9 +409,6 @@
   },
   "babel-plugin-shebang": {
     "1.0.0": null
-  },
-  "egg-born-bin": {
-    "4.1.7": null
   },
   "bin-tool": {
     "2.2.3": null
@@ -473,9 +473,6 @@
   "isbin": {
     "0.0.3": null
   },
-  "android-icons": {
-    "2.0.4": null
-  },
   "7zip-standalone": {
     "0.0.3": null
   },
@@ -523,6 +520,9 @@
   },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
+  },
+  "android-icons": {
+    "2.0.4": null
   },
   "to-flag": {
     "1.0.0": null
@@ -638,6 +638,9 @@
   "urls-md": {
     "4.0.1": null
   },
+  "bluemix-logo": {
+    "1.1.2": null
+  },
   "@testup/cli": {
     "0.6.0": null
   },
@@ -649,9 +652,6 @@
   },
   "wix-msi": {
     "0.6.1": null
-  },
-  "bluemix-logo": {
-    "1.1.2": null
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
@@ -688,6 +688,9 @@
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "funnelenvysays": {
     "1.0.7": null
@@ -730,9 +733,6 @@
   },
   "bin-pls": {
     "1.0.1": null
-  },
-  "npm-gcf-test": {
-    "1.1.2": null
   },
   "npm-bin-path": {
     "0.1.2": null
