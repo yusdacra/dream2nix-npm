@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.186.0": null
+    "0.187.0": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -365,9 +365,6 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "package-run": {
-    "2.0.6": null
-  },
   "rasper": {
     "0.2.10": null
   },
@@ -385,6 +382,9 @@
   },
   "lancaster-stemmer": {
     "2.0.0": null
+  },
+  "package-run": {
+    "2.0.6": null
   },
   "movie-trailer": {
     "2.1.0": null
