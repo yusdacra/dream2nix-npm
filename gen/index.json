@@ -128,11 +128,11 @@
   "svg-icon": {
     "0.8.2": null
   },
-  "dice-coefficient": {
-    "2.1.0": null
-  },
   "project-bin-path": {
     "2.0.0": null
+  },
+  "dice-coefficient": {
+    "2.1.0": null
   },
   "animals": {
     "0.0.3": null
@@ -551,9 +551,6 @@
   "bauer-exec": {
     "0.1.5": null
   },
-  "ppx-sedlex": {
-    "20.0.0": null
-  },
   "android-splash": {
     "1.0.2": null
   },
@@ -602,6 +599,12 @@
   "math-uint8-bits": {
     "1.0.0": null
   },
+  "ppx-sedlex": {
+    "20.0.0": null
+  },
+  "hugo-extended": {
+    "0.103.0": null
+  },
   "hexdump.js": {
     "1.1.0": null
   },
@@ -646,9 +649,6 @@
   },
   "comanche": {
     "0.6.2": null
-  },
-  "hugo-extended": {
-    "0.102.3": null
   },
   "wix-msi": {
     "0.6.1": null
