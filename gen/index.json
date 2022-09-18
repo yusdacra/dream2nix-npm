@@ -269,10 +269,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "test-engine": {
@@ -433,6 +433,9 @@
   },
   "bin-packer": {
     "1.7.0": null
+  },
+  "capacitor-standard-version": {
+    "1.0.16": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -745,8 +748,5 @@
   },
   "opn-bg": {
     "0.1.1": null
-  },
-  "@cjs-mifi-test/npm-run-path": {
-    "5.0.1": null
   }
 }
