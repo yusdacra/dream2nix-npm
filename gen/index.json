@@ -90,7 +90,7 @@
     "2.1.2": null
   },
   "@pnpm/link-bins": {
-    "7.2.5": null
+    "7.2.6": null
   },
   "cat-names": {
     "3.1.0": null
@@ -428,6 +428,9 @@
   "@marchyang/execa": {
     "6.0.1": null
   },
+  "@esm2cjs/execa": {
+    "6.1.1-cjs.1": null
+  },
   "nvison": {
     "1.0.27": null
   },
@@ -590,6 +593,9 @@
   "workspaces-utils": {
     "1.2.1": null
   },
+  "hugo-extended": {
+    "0.103.1": null
+  },
   "yosay-sogou": {
     "0.0.2": null
   },
@@ -599,14 +605,11 @@
   "ios-splash": {
     "2.1.2": null
   },
-  "math-uint8-bits": {
-    "1.0.0": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
   },
-  "hugo-extended": {
-    "0.103.0": null
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
@@ -745,8 +748,5 @@
   },
   "number-convert": {
     "1.0.0": null
-  },
-  "opn-bg": {
-    "0.1.1": null
   }
 }
