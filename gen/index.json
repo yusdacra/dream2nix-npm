@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.187.0": null
+    "0.187.1": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -251,6 +251,9 @@
   "nicknames": {
     "1.0.2": null
   },
+  "@midwayjs/cli": {
+    "1.3.13": null
+  },
   "tumblr-upload": {
     "0.8.1": null
   },
@@ -295,9 +298,6 @@
   },
   "webpack-shebang-plugin": {
     "1.1.8": null
-  },
-  "@midwayjs/cli": {
-    "1.3.13": null
   },
   "realpath": {
     "2.0.0": null
@@ -413,6 +413,9 @@
   "bin-tool": {
     "2.2.3": null
   },
+  "capacitor-standard-version": {
+    "1.0.17": null
+  },
   "yarn-config-directory": {
     "1.0.2": null
   },
@@ -436,9 +439,6 @@
   },
   "bin-packer": {
     "1.7.0": null
-  },
-  "capacitor-standard-version": {
-    "1.0.16": null
   },
   "midway-bin": {
     "1.20.3": null
@@ -605,11 +605,11 @@
   "ios-splash": {
     "2.1.2": null
   },
-  "ppx-sedlex": {
-    "20.0.0": null
-  },
   "math-uint8-bits": {
     "1.0.0": null
+  },
+  "ppx-sedlex": {
+    "20.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
