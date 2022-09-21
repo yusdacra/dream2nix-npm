@@ -251,11 +251,11 @@
   "nicknames": {
     "1.0.2": null
   },
-  "@midwayjs/cli": {
-    "1.3.13": null
-  },
   "tumblr-upload": {
     "0.8.1": null
+  },
+  "@midwayjs/cli": {
+    "1.3.13": null
   },
   "ghcopy": {
     "0.3.0": null
@@ -290,11 +290,11 @@
   "nerdy-cat-names": {
     "1.0.0": null
   },
-  "ipv4-to-bin": {
-    "0.1.1": null
-  },
   "tcpip-port-to-bin": {
     "0.1.0": null
+  },
+  "ipv4-to-bin": {
+    "0.1.1": null
   },
   "webpack-shebang-plugin": {
     "1.1.8": null
@@ -302,11 +302,11 @@
   "realpath": {
     "2.0.0": null
   },
-  "help-version": {
-    "1.1.1": null
-  },
   "count-lines": {
     "0.1.2": null
+  },
+  "help-version": {
+    "1.1.1": null
   },
   "pkg-ok": {
     "3.0.0": null
@@ -398,11 +398,11 @@
   "vue-card-express": {
     "1.0.5": null
   },
-  "version-exists": {
-    "0.0.4": null
-  },
   "scritch": {
     "1.3.1": null
+  },
+  "version-exists": {
+    "0.0.4": null
   },
   "list-npm-contents": {
     "1.0.2": null
@@ -605,11 +605,11 @@
   "ios-splash": {
     "2.1.2": null
   },
-  "math-uint8-bits": {
-    "1.0.0": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
@@ -623,11 +623,11 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "@theo4u/wkhtmltopdf": {
     "1.1.0": null
+  },
+  "usually": {
+    "1.2.0": null
   },
   "git-auto-badger": {
     "1.0.22": null
@@ -686,11 +686,11 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "vtexsay": {
-    "1.0.3": null
-  },
   "exec-extra": {
     "2.8.0": null
+  },
+  "vtexsay": {
+    "1.0.3": null
   },
   "chromium-all-codecs-bin": {
     "0.1.0": null
@@ -731,11 +731,11 @@
   "math-float64-to-binary-string": {
     "1.0.1": null
   },
-  "execa-tree-kill": {
-    "4.0.0": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "execa-tree-kill": {
+    "4.0.0": null
   },
   "bin-pls": {
     "1.0.1": null
