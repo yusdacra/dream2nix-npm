@@ -254,11 +254,14 @@
   "nicknames": {
     "1.0.2": null
   },
+  "@midwayjs/cli": {
+    "1.3.13": null
+  },
   "tumblr-upload": {
     "0.8.1": null
   },
-  "@midwayjs/cli": {
-    "1.3.13": null
+  "webpack-shebang-plugin": {
+    "1.1.8": null
   },
   "ghcopy": {
     "0.3.0": null
@@ -275,10 +278,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "test-engine": {
@@ -298,9 +301,6 @@
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
-  },
-  "webpack-shebang-plugin": {
-    "1.1.8": null
   },
   "count-lines": {
     "0.1.2": null
@@ -563,6 +563,9 @@
   "clito": {
     "0.1.2": null
   },
+  "dargs-fork": {
+    "1.0.0": null
+  },
   "ios-icons": {
     "3.3.3": null
   },
@@ -602,23 +605,23 @@
   "yosay-sogou": {
     "0.0.2": null
   },
-  "dargs-fork": {
-    "1.0.0": null
-  },
   "ios-splash": {
     "2.1.2": null
   },
-  "math-uint8-bits": {
-    "1.0.0": null
-  },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "math-uint8-bits": {
+    "1.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
   },
   "meow-shorts": {
     "1.1.0": null
+  },
+  "dbin": {
+    "0.0.8": null
   },
   "@wrote/rm": {
     "1.1.5": null
@@ -634,9 +637,6 @@
   },
   "mock-bin": {
     "2.0.0": null
-  },
-  "dbin": {
-    "0.0.8": null
   },
   "async-which": {
     "1.0.3": null
