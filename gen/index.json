@@ -356,9 +356,6 @@
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
-  "egg-born-bin": {
-    "4.1.7": null
-  },
   "real-executable-path": {
     "3.0.0": null
   },
@@ -386,6 +383,9 @@
   "package-run": {
     "2.0.6": null
   },
+  "egg-born-bin": {
+    "4.1.8": null
+  },
   "movie-trailer": {
     "2.1.0": null
   },
@@ -394,6 +394,9 @@
   },
   "line-count": {
     "0.1.0": null
+  },
+  "capacitor-standard-version": {
+    "1.0.18": null
   },
   "vue-card-express": {
     "1.0.5": null
@@ -412,9 +415,6 @@
   },
   "bin-tool": {
     "2.2.3": null
-  },
-  "capacitor-standard-version": {
-    "1.0.17": null
   },
   "yarn-config-directory": {
     "1.0.2": null
@@ -560,6 +560,9 @@
   "@yarn-tool/shebang": {
     "1.0.14": null
   },
+  "hugo-extended": {
+    "0.104.0": null
+  },
   "clito": {
     "0.1.2": null
   },
@@ -599,20 +602,17 @@
   "workspaces-utils": {
     "1.2.1": null
   },
-  "hugo-extended": {
-    "0.103.1": null
-  },
   "yosay-sogou": {
     "0.0.2": null
   },
   "ios-splash": {
     "2.1.2": null
   },
-  "ppx-sedlex": {
-    "20.0.0": null
-  },
   "math-uint8-bits": {
     "1.0.0": null
+  },
+  "ppx-sedlex": {
+    "20.0.0": null
   },
   "hexdump.js": {
     "1.1.0": null
