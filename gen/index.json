@@ -209,9 +209,6 @@
   "emailing": {
     "0.0.6": null
   },
-  "eightball": {
-    "1.0.1": null
-  },
   "pwpush-cli": {
     "0.8.1": null
   },
@@ -226,6 +223,9 @@
   },
   "sugar-ssh": {
     "0.4.0": null
+  },
+  "eightball": {
+    "1.0.1": null
   },
   "bing-wallpaper": {
     "0.1.3": null
@@ -377,14 +377,14 @@
   "exec-bin": {
     "1.0.0": null
   },
+  "egg-born-bin": {
+    "4.1.9": null
+  },
   "lancaster-stemmer": {
     "2.0.0": null
   },
   "package-run": {
     "2.0.6": null
-  },
-  "egg-born-bin": {
-    "4.1.8": null
   },
   "movie-trailer": {
     "2.1.0": null
@@ -626,11 +626,11 @@
   "@wrote/rm": {
     "1.1.5": null
   },
-  "@theo4u/wkhtmltopdf": {
-    "1.1.0": null
-  },
   "usually": {
     "1.2.0": null
+  },
+  "@theo4u/wkhtmltopdf": {
+    "1.1.0": null
   },
   "git-auto-badger": {
     "1.0.22": null
@@ -659,14 +659,14 @@
   "@testup/cli": {
     "0.6.0": null
   },
+  "cut-optimizer": {
+    "0.1.1": null
+  },
   "wix-msi": {
     "0.6.1": null
   },
   "scalajs-standalone-bin": {
     "0.4.3": null
-  },
-  "cut-optimizer": {
-    "0.1.1": null
   },
   "websocketdjs": {
     "0.0.2": null
@@ -716,11 +716,11 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "npm-run-path-cli": {
-    "2.0.0": null
-  },
   "@whodunit/character": {
     "1.0.4": null
+  },
+  "npm-run-path-cli": {
+    "2.0.0": null
   },
   "math-float64-bits": {
     "1.0.1": null
@@ -743,10 +743,10 @@
   "cheese-name": {
     "2.0.1": null
   },
+  "tusd-static-win32": {
+    "1.1.0": null
+  },
   "npm-bin-path": {
     "0.1.2": null
-  },
-  "npm-package-bin": {
-    "0.0.6": null
   }
 }
