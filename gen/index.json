@@ -233,11 +233,11 @@
   "require-resolve-cli": {
     "1.0.0": null
   },
-  "movie-info": {
-    "2.0.5": null
-  },
   "scaler": {
     "0.2.1": null
+  },
+  "movie-info": {
+    "2.0.5": null
   },
   "binstall": {
     "1.2.1": null
@@ -278,10 +278,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
   "test-engine": {
@@ -386,6 +386,9 @@
   "package-run": {
     "2.0.6": null
   },
+  "vue-card-express": {
+    "1.0.5": null
+  },
   "movie-trailer": {
     "2.1.0": null
   },
@@ -397,9 +400,6 @@
   },
   "capacitor-standard-version": {
     "1.0.18": null
-  },
-  "vue-card-express": {
-    "1.0.5": null
   },
   "scritch": {
     "1.3.1": null
@@ -464,23 +464,17 @@
   "@randy.tarampi/android-icons": {
     "3.1.11": null
   },
+  "@stdlib/number-float64-base-to-binary-string": {
+    "0.0.7": null
+  },
   "chopsticks": {
     "0.6.0": null
   },
   "pkg-bin": {
     "1.0.2": null
   },
-  "@stdlib/number-float64-base-to-binary-string": {
-    "0.0.7": null
-  },
   "bin-exists": {
     "0.2.1": null
-  },
-  "bin-manager": {
-    "1.3.1": null
-  },
-  "7zip-standalone": {
-    "0.0.3": null
   },
   "@stdlib/number-uint8-base-to-binary-string": {
     "0.0.8": null
@@ -488,14 +482,20 @@
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.8": null
   },
+  "bin-manager": {
+    "1.3.1": null
+  },
+  "7zip-standalone": {
+    "0.0.3": null
+  },
   "isbin": {
     "0.0.3": null
   },
-  "yargs-command-config": {
-    "1.0.5": null
-  },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
+  },
+  "yargs-command-config": {
+    "1.0.5": null
   },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
@@ -509,23 +509,23 @@
   "mosay": {
     "2.1.0": null
   },
-  "@stdlib/number-float64-base-from-binary-string": {
-    "0.0.7": null
-  },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.7": null
   },
-  "@stdlib/number-uint32-base-from-binary-string": {
+  "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
   },
   "@wrench/executable": {
     "0.0.5": null
   },
+  "@stdlib/number-float64-base-from-binary-string": {
+    "0.0.7": null
+  },
+  "@stdlib/number-uint32-base-from-binary-string": {
+    "0.0.7": null
+  },
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
-  },
-  "@stdlib/number-uint16-base-from-binary-string": {
-    "0.0.7": null
   },
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
@@ -692,11 +692,11 @@
   "vtexsay": {
     "1.0.3": null
   },
-  "exec-extra": {
-    "2.8.0": null
-  },
   "chromium-all-codecs-bin": {
     "0.1.0": null
+  },
+  "exec-extra": {
+    "2.8.0": null
   },
   "npm-gcf-test": {
     "1.1.2": null
