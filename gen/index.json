@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.187.1": null
+    "0.188.0": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -146,6 +146,9 @@
   "node-alias": {
     "1.0.4": null
   },
+  "movie-art": {
+    "2.0.3": null
+  },
   "aybabtu": {
     "1.1.6": null
   },
@@ -154,9 +157,6 @@
   },
   "metal-name": {
     "2.3.0": null
-  },
-  "movie-art": {
-    "2.0.3": null
   },
   "glow": {
     "1.2.2": null
@@ -218,6 +218,9 @@
   "crip-names": {
     "1.2.5": null
   },
+  "movie-info": {
+    "2.0.5": null
+  },
   "dandruff-pinkeye-halitosis": {
     "3.0.1": null
   },
@@ -238,9 +241,6 @@
   },
   "scaler": {
     "0.2.1": null
-  },
-  "movie-info": {
-    "2.0.5": null
   },
   "@midwayjs/cli": {
     "1.3.13": null
@@ -284,6 +284,9 @@
   "test-engine": {
     "0.1.0": null
   },
+  "nerdy-cat-names": {
+    "1.0.0": null
+  },
   "gazer-color": {
     "1.0.1": null
   },
@@ -295,9 +298,6 @@
   },
   "ipv4-to-bin": {
     "0.1.1": null
-  },
-  "nerdy-cat-names": {
-    "1.0.0": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -335,11 +335,11 @@
   "get-bin-path": {
     "7.1.0": null
   },
-  "@spatial/boolean-point-in-polygon": {
-    "2.0.0": null
-  },
   "find-module-bin": {
     "1.1.0": null
+  },
+  "@spatial/boolean-point-in-polygon": {
+    "2.0.0": null
   },
   "strip-shebang": {
     "2.0.0": null
@@ -349,6 +349,9 @@
   },
   "soundex-code": {
     "2.0.0": null
+  },
+  "exec-bin": {
+    "1.0.0": null
   },
   "bin-wrapper-china": {
     "0.1.0": null
@@ -362,20 +365,17 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
-  "rasper": {
-    "0.2.10": null
-  },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
+  },
+  "rasper": {
+    "0.2.10": null
   },
   "egg-born-bin": {
     "4.1.10": null
   },
   "to-flags": {
     "0.2.0": null
-  },
-  "exec-bin": {
-    "1.0.0": null
   },
   "yarn-global-modules": {
     "1.0.1": null
@@ -443,11 +443,14 @@
   "midway-bin": {
     "1.20.3": null
   },
-  "@sepalang/myself": {
-    "0.3.0": null
+  "@root/hexdump": {
+    "1.1.1": null
   },
   "build-purescript": {
     "0.4.1": null
+  },
+  "@sepalang/myself": {
+    "0.3.0": null
   },
   "npm-run-path-compat": {
     "2.0.3": null
@@ -457,9 +460,6 @@
   },
   "is-jxr": {
     "2.0.0": null
-  },
-  "@root/hexdump": {
-    "1.1.1": null
   },
   "@randy.tarampi/android-icons": {
     "3.1.11": null
@@ -488,23 +488,26 @@
   "7zip-standalone": {
     "0.0.3": null
   },
+  "@randy.tarampi/ios-icons": {
+    "4.2.11": null
+  },
   "@stdlib/number-float32-base-to-binary-string": {
     "0.0.7": null
   },
   "yargs-command-config": {
     "1.0.5": null
   },
+  "@randy.tarampi/android-splash": {
+    "2.1.11": null
+  },
   "@stdlib/number-uint16-base-to-binary-string": {
     "0.0.8": null
-  },
-  "node-creditcard-identifier": {
-    "1.1.2": null
   },
   "@randy.tarampi/ios-splash": {
     "3.1.11": null
   },
-  "mosay": {
-    "2.1.0": null
+  "node-creditcard-identifier": {
+    "1.1.2": null
   },
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
@@ -521,9 +524,6 @@
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.7": null
   },
-  "@randy.tarampi/ios-icons": {
-    "4.2.11": null
-  },
   "@stdlib/number-uint32-base-from-binary-string": {
     "0.0.7": null
   },
@@ -535,6 +535,9 @@
   },
   "android-icons": {
     "2.0.4": null
+  },
+  "mosay": {
+    "2.1.0": null
   },
   "isbin": {
     "0.0.3": null
@@ -575,9 +578,6 @@
   "dargs-fork": {
     "1.0.0": null
   },
-  "@randy.tarampi/android-splash": {
-    "2.1.11": null
-  },
   "math-float64-from-bits": {
     "1.0.0": null
   },
@@ -598,6 +598,9 @@
   },
   "yosay-sogou": {
     "0.0.2": null
+  },
+  "@theo4u/wkhtmltopdf": {
+    "1.1.0": null
   },
   "math-float32-from-bits": {
     "1.0.1": null
@@ -629,9 +632,6 @@
   "usually": {
     "1.2.0": null
   },
-  "@theo4u/wkhtmltopdf": {
-    "1.1.0": null
-  },
   "git-auto-badger": {
     "1.0.22": null
   },
@@ -653,11 +653,11 @@
   "config-strip-debug": {
     "1.0.1": null
   },
-  "mock-bin": {
-    "2.0.0": null
-  },
   "@testup/cli": {
     "0.6.0": null
+  },
+  "mock-bin": {
+    "2.0.0": null
   },
   "cut-optimizer": {
     "0.1.1": null
@@ -686,9 +686,6 @@
   "sox-bin": {
     "1.0.2": null
   },
-  "@strong-roots-capital/bitmex-bin-size": {
-    "1.0.1": null
-  },
   "vtexsay": {
     "1.0.3": null
   },
@@ -700,6 +697,9 @@
   },
   "npm-gcf-test": {
     "1.1.2": null
+  },
+  "@strong-roots-capital/bitmex-bin-size": {
+    "1.0.1": null
   },
   "franc-cli": {
     "8.0.0": null
@@ -737,9 +737,6 @@
   "math-float32-bits": {
     "1.0.0": null
   },
-  "execa-tree-kill": {
-    "4.0.0": null
-  },
   "resolve-jsdoc-bin": {
     "1.0.0": null
   },
@@ -748,5 +745,8 @@
   },
   "tusd-static-win32": {
     "1.1.0": null
+  },
+  "execa-tree-kill": {
+    "4.0.0": null
   }
 }
