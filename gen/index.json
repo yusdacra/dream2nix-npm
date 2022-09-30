@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.188.0": null
+    "0.188.1": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -251,14 +251,14 @@
   "standardize": {
     "1.2.2": null
   },
+  "nicknames": {
+    "1.0.2": null
+  },
   "slugify-files": {
     "2.1.0": null
   },
   "npm-package-env": {
     "0.4.9": null
-  },
-  "nicknames": {
-    "1.0.2": null
   },
   "tumblr-upload": {
     "0.8.1": null
@@ -275,11 +275,11 @@
   "markdown-proofing": {
     "1.0.2": null
   },
-  "node-diff-bin": {
-    "0.1.0": null
-  },
   "pet-names": {
     "1.0.1": null
+  },
+  "node-diff-bin": {
+    "0.1.0": null
   },
   "test-engine": {
     "0.1.0": null
@@ -293,11 +293,11 @@
   "meow-names": {
     "1.0.1": null
   },
-  "report-status": {
-    "1.0.1": null
-  },
   "ipv4-to-bin": {
     "0.1.1": null
+  },
+  "report-status": {
+    "1.0.1": null
   },
   "tcpip-port-to-bin": {
     "0.1.0": null
@@ -512,6 +512,9 @@
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
   },
+  "hugo-extended": {
+    "0.104.2": null
+  },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.7": null
   },
@@ -530,6 +533,9 @@
   "@stdlib/number-uint8-base-from-binary-string": {
     "0.0.7": null
   },
+  "@yarn-tool/shebang": {
+    "1.0.16": null
+  },
   "bauer-exec": {
     "0.1.5": null
   },
@@ -545,11 +551,11 @@
   "to-flag": {
     "1.0.0": null
   },
-  "android-splash": {
-    "1.0.2": null
-  },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
+  },
+  "android-splash": {
+    "1.0.2": null
   },
   "@esm2cjs/npm-run-path": {
     "5.1.1-cjs.0": null
@@ -560,17 +566,11 @@
   "ios-icons": {
     "3.3.3": null
   },
-  "hugo-extended": {
-    "0.104.1": null
-  },
-  "@yarn-tool/shebang": {
-    "1.0.15": null
+  "johngrimm-utils": {
+    "2.0.5": null
   },
   "@tunnckocore/jest-runner-eslint": {
     "1.2.9": null
-  },
-  "johngrimm-utils": {
-    "2.0.5": null
   },
   "clito": {
     "0.1.2": null
@@ -707,6 +707,9 @@
   "math-float64-bits": {
     "1.0.1": null
   },
+  "@whodunit/character": {
+    "1.0.4": null
+  },
   "math-uint16-bits": {
     "1.0.0": null
   },
@@ -718,9 +721,6 @@
   },
   "funnelenvysays": {
     "1.0.7": null
-  },
-  "@whodunit/character": {
-    "1.0.4": null
   },
   "@abdfnx/hac_k": {
     "1.0.2": null
