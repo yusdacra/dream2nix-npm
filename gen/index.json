@@ -275,14 +275,14 @@
   "markdown-proofing": {
     "1.0.2": null
   },
-  "pet-names": {
-    "1.0.1": null
-  },
   "node-diff-bin": {
     "0.1.0": null
   },
   "test-engine": {
     "0.1.0": null
+  },
+  "pet-names": {
+    "1.0.1": null
   },
   "nerdy-cat-names": {
     "1.0.0": null
@@ -302,6 +302,9 @@
   "tcpip-port-to-bin": {
     "0.1.0": null
   },
+  "pkg-ok": {
+    "3.0.0": null
+  },
   "count-lines": {
     "0.1.2": null
   },
@@ -310,9 +313,6 @@
   },
   "help-version": {
     "1.1.1": null
-  },
-  "pkg-ok": {
-    "3.0.0": null
   },
   "render-help": {
     "1.0.2": null
@@ -461,11 +461,11 @@
   "is-jxr": {
     "2.0.0": null
   },
-  "@randy.tarampi/android-icons": {
-    "3.1.11": null
-  },
   "pkg-bin": {
     "1.0.2": null
+  },
+  "@randy.tarampi/android-icons": {
+    "3.1.11": null
   },
   "@stdlib/number-float64-base-to-binary-string": {
     "0.0.7": null
