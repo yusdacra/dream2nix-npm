@@ -20,11 +20,11 @@
   "global-dirs": {
     "3.0.0": null
   },
-  "is-installed-globally": {
-    "0.4.0": null
-  },
   "trash": {
     "8.1.0": null
+  },
+  "is-installed-globally": {
+    "0.4.0": null
   },
   "elm": {
     "0.19.1-5": null
@@ -44,11 +44,11 @@
   "any-base": {
     "1.1.0": null
   },
-  "@turf/boolean-point-in-polygon": {
-    "6.5.0": null
-  },
   "trash-cli": {
     "5.0.0": null
+  },
+  "@turf/boolean-point-in-polygon": {
+    "6.5.0": null
   },
   "levenshtein-edit-distance": {
     "3.0.0": null
@@ -90,7 +90,7 @@
     "2.1.2": null
   },
   "@pnpm/link-bins": {
-    "7.2.6": null
+    "7.2.7": null
   },
   "cat-names": {
     "3.1.0": null
@@ -98,11 +98,11 @@
   "bin-v8-flags-filter": {
     "1.2.0": null
   },
-  "npm-prefix": {
-    "1.2.0": null
-  },
   "syllable": {
     "5.0.0": null
+  },
+  "npm-prefix": {
+    "1.2.0": null
   },
   "metaphone": {
     "2.0.0": null
@@ -119,11 +119,11 @@
   "npm-run-script": {
     "0.0.4": null
   },
-  "which-promise": {
-    "1.0.0": null
-  },
   "human-names": {
     "1.0.12": null
+  },
+  "which-promise": {
+    "1.0.0": null
   },
   "svg-icon": {
     "0.8.2": null
@@ -236,17 +236,14 @@
   "ghcopy": {
     "0.3.0": null
   },
-  "npm-package-env": {
-    "0.4.9": null
-  },
   "require-resolve-cli": {
     "1.0.0": null
   },
+  "npm-package-env": {
+    "0.4.9": null
+  },
   "scaler": {
     "0.2.1": null
-  },
-  "binstall": {
-    "1.2.1": null
   },
   "standardize": {
     "1.2.2": null
@@ -257,11 +254,14 @@
   "slugify-files": {
     "2.1.0": null
   },
-  "@midwayjs/cli": {
-    "1.3.13": null
+  "binstall": {
+    "1.2.1": null
   },
   "tumblr-upload": {
     "0.8.1": null
+  },
+  "@midwayjs/cli": {
+    "1.3.13": null
   },
   "webpack-shebang-plugin": {
     "1.1.8": null
@@ -281,11 +281,11 @@
   "test-engine": {
     "0.1.0": null
   },
-  "pet-names": {
-    "1.0.1": null
-  },
   "nerdy-cat-names": {
     "1.0.0": null
+  },
+  "pet-names": {
+    "1.0.1": null
   },
   "gazer-color": {
     "1.0.1": null
@@ -344,11 +344,11 @@
   "strip-shebang": {
     "2.0.0": null
   },
-  "npm-cli-path": {
-    "4.0.0": null
-  },
   "soundex-code": {
     "2.0.0": null
+  },
+  "npm-cli-path": {
+    "4.0.0": null
   },
   "exec-bin": {
     "1.0.0": null
@@ -359,11 +359,11 @@
   "math-float32-to-binary-string": {
     "1.0.0": null
   },
-  "real-executable-path": {
-    "3.0.0": null
-  },
   "zfinder-utils": {
     "0.0.20160121": null
+  },
+  "real-executable-path": {
+    "3.0.0": null
   },
   "@randy.tarampi/generic-icon-splash-generate": {
     "3.0.4": null
@@ -467,20 +467,20 @@
   "@randy.tarampi/android-icons": {
     "3.1.11": null
   },
-  "@stdlib/number-float64-base-to-binary-string": {
-    "0.0.7": null
-  },
   "chopsticks": {
     "0.6.0": null
+  },
+  "@stdlib/number-float64-base-to-binary-string": {
+    "0.0.7": null
   },
   "bin-exists": {
     "0.2.1": null
   },
-  "@stdlib/number-uint8-base-to-binary-string": {
-    "0.0.8": null
-  },
   "bin-manager": {
     "1.3.1": null
+  },
+  "@stdlib/number-uint8-base-to-binary-string": {
+    "0.0.8": null
   },
   "@stdlib/number-uint32-base-to-binary-string": {
     "0.0.8": null
@@ -491,11 +491,11 @@
   "@randy.tarampi/ios-icons": {
     "4.2.11": null
   },
-  "@stdlib/number-float32-base-to-binary-string": {
-    "0.0.7": null
-  },
   "yargs-command-config": {
     "1.0.5": null
+  },
+  "@stdlib/number-float32-base-to-binary-string": {
+    "0.0.7": null
   },
   "@randy.tarampi/android-splash": {
     "2.1.11": null
@@ -512,8 +512,8 @@
   "@colisweb/bs-react-intl-extractor-bin": {
     "0.12.2": null
   },
-  "hugo-extended": {
-    "0.104.2": null
+  "@wrench/executable": {
+    "0.0.5": null
   },
   "@stdlib/number-float32-base-from-binary-string": {
     "0.0.7": null
@@ -521,11 +521,11 @@
   "@stdlib/number-uint16-base-from-binary-string": {
     "0.0.7": null
   },
-  "@wrench/executable": {
-    "0.0.5": null
-  },
   "@stdlib/number-float64-base-from-binary-string": {
     "0.0.7": null
+  },
+  "hugo-extended": {
+    "0.104.2": null
   },
   "@yarn-tool/shebang": {
     "1.0.17": null
@@ -548,32 +548,35 @@
   "isbin": {
     "0.0.3": null
   },
+  "android-splash": {
+    "1.0.2": null
+  },
   "to-flag": {
     "1.0.0": null
   },
   "@tunnckocore/jest-runner-babel": {
     "4.2.8": null
   },
-  "android-splash": {
-    "1.0.2": null
-  },
   "ios-icons": {
     "3.3.3": null
-  },
-  "random-word-fr": {
-    "1.0.3": null
   },
   "@esm2cjs/npm-run-path": {
     "5.1.1-cjs.0": null
   },
+  "random-word-fr": {
+    "1.0.3": null
+  },
+  "wix-msi": {
+    "0.6.1": null
+  },
   "johngrimm-utils": {
     "2.0.5": null
   },
-  "@tunnckocore/jest-runner-eslint": {
-    "1.2.9": null
-  },
   "clito": {
     "0.1.2": null
+  },
+  "@tunnckocore/jest-runner-eslint": {
+    "1.2.9": null
   },
   "dargs-fork": {
     "1.0.0": null
@@ -584,29 +587,29 @@
   "ios-splash": {
     "2.1.2": null
   },
-  "deepmerge-yaml": {
-    "0.0.3": null
-  },
   "binary-wrapper": {
     "0.0.1": null
+  },
+  "deepmerge-yaml": {
+    "0.0.3": null
   },
   "hexdump.js": {
     "1.1.0": null
   },
-  "bin-up": {
-    "1.3.2": null
-  },
   "yosay-sogou": {
     "0.0.2": null
   },
-  "@theo4u/wkhtmltopdf": {
-    "1.1.0": null
+  "bin-up": {
+    "1.3.2": null
   },
   "math-float32-from-bits": {
     "1.0.1": null
   },
   "ppx-sedlex": {
     "20.0.0": null
+  },
+  "@theo4u/wkhtmltopdf": {
+    "1.1.0": null
   },
   "math-uint8-bits": {
     "1.0.0": null
@@ -668,9 +671,6 @@
   "exec-extra": {
     "2.8.0": null
   },
-  "wix-msi": {
-    "0.6.1": null
-  },
   "scalajs-standalone-bin": {
     "0.4.3": null
   },
@@ -704,11 +704,11 @@
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
-  "franc-cli": {
-    "8.0.0": null
-  },
   "math-float64-bits": {
     "1.0.1": null
+  },
+  "franc-cli": {
+    "8.0.0": null
   },
   "@whodunit/character": {
     "1.0.4": null
@@ -731,11 +731,11 @@
   "xcm": {
     "1.0.4": null
   },
-  "string-packer": {
-    "1.0.3": null
-  },
   "math-float32-bits": {
     "1.0.0": null
+  },
+  "string-packer": {
+    "1.0.3": null
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
