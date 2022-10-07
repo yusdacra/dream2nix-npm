@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.188.1": null
+    "0.188.2": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -80,17 +80,20 @@
   "run-node": {
     "2.0.0": null
   },
-  "vega-transforms": {
-    "4.10.0": null
-  },
   "pngcrush-bin": {
     "7.0.0": null
+  },
+  "vega-transforms": {
+    "4.10.0": null
   },
   "packery": {
     "2.1.2": null
   },
   "@pnpm/link-bins": {
     "7.2.8": null
+  },
+  "which-promise": {
+    "1.0.0": null
   },
   "cat-names": {
     "3.1.0": null
@@ -121,9 +124,6 @@
   },
   "human-names": {
     "1.0.12": null
-  },
-  "which-promise": {
-    "1.0.0": null
   },
   "svg-icon": {
     "0.8.2": null
@@ -290,10 +290,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "ipv4-to-bin": {
@@ -392,6 +392,9 @@
   "movie-trailer": {
     "2.1.0": null
   },
+  "nvison": {
+    "1.0.27": null
+  },
   "lancaster-stemmer": {
     "2.0.0": null
   },
@@ -434,9 +437,6 @@
   "@esm2cjs/execa": {
     "6.1.1-cjs.1": null
   },
-  "nvison": {
-    "1.0.27": null
-  },
   "bin-packer": {
     "1.7.0": null
   },
@@ -446,17 +446,17 @@
   "@root/hexdump": {
     "1.1.1": null
   },
+  "woofwoof": {
+    "3.6.7": null
+  },
   "build-purescript": {
     "0.4.1": null
-  },
-  "npm-run-path-compat": {
-    "2.0.3": null
   },
   "@sepalang/myself": {
     "0.3.0": null
   },
-  "woofwoof": {
-    "3.6.7": null
+  "npm-run-path-compat": {
+    "2.0.3": null
   },
   "is-jxr": {
     "2.0.0": null
@@ -614,6 +614,9 @@
   "math-uint8-bits": {
     "1.0.0": null
   },
+  "usually": {
+    "1.2.0": null
+  },
   "math-uint32-to-binary-string": {
     "1.0.0": null
   },
@@ -632,20 +635,17 @@
   "dbin": {
     "0.0.8": null
   },
-  "usually": {
-    "1.2.0": null
-  },
   "git-auto-badger": {
     "1.0.22": null
+  },
+  "urls-md": {
+    "4.0.1": null
   },
   "@wrote/rm": {
     "1.1.5": null
   },
   "comanche": {
     "0.6.2": null
-  },
-  "urls-md": {
-    "4.0.1": null
   },
   "async-which": {
     "1.0.3": null
@@ -674,9 +674,6 @@
   "chromium-all-codecs-bin": {
     "0.1.0": null
   },
-  "websocketdjs": {
-    "0.0.2": null
-  },
   "jsbindat": {
     "0.10.3": null
   },
@@ -685,6 +682,9 @@
   },
   "sunnier-bin": {
     "0.0.6": null
+  },
+  "websocketdjs": {
+    "0.0.2": null
   },
   "vtexsay": {
     "1.0.3": null
@@ -722,9 +722,6 @@
   "math-uint16-to-binary-string": {
     "1.0.1": null
   },
-  "whereissync": {
-    "1.0.1": null
-  },
   "bin-pls": {
     "1.0.1": null
   },
@@ -748,5 +745,8 @@
   },
   "resolve-jsdoc-bin": {
     "1.0.0": null
+  },
+  "math-float64-to-binary-string": {
+    "1.0.1": null
   }
 }
