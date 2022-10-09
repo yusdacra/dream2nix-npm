@@ -548,9 +548,6 @@
   "node-creditcard-identifier": {
     "1.1.2": null
   },
-  "android-icons": {
-    "2.0.4": null
-  },
   "mosay": {
     "2.1.0": null
   },
@@ -580,6 +577,9 @@
   },
   "dargs-fork": {
     "1.0.0": null
+  },
+  "android-icons": {
+    "2.0.4": null
   },
   "math-float64-from-bits": {
     "1.0.0": null
@@ -644,14 +644,14 @@
   "@wrote/rm": {
     "1.1.5": null
   },
+  "bluemix-logo": {
+    "1.1.2": null
+  },
   "comanche": {
     "0.6.2": null
   },
   "async-which": {
     "1.0.3": null
-  },
-  "bluemix-logo": {
-    "1.1.2": null
   },
   "config-strip-debug": {
     "1.0.1": null
@@ -689,9 +689,6 @@
   "string-packer": {
     "1.0.3": null
   },
-  "npm-gcf-test": {
-    "1.1.2": null
-  },
   "@strong-roots-capital/bitmex-bin-size": {
     "1.0.1": null
   },
@@ -727,6 +724,9 @@
   },
   "funnelenvysays": {
     "1.0.7": null
+  },
+  "npm-gcf-test": {
+    "1.1.2": null
   },
   "xcm": {
     "1.0.4": null
