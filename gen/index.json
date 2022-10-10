@@ -90,7 +90,7 @@
     "2.1.2": null
   },
   "@pnpm/link-bins": {
-    "7.2.8": null
+    "7.2.9": null
   },
   "which-promise": {
     "1.0.0": null
@@ -260,9 +260,6 @@
   "time-bin": {
     "1.0.1": null
   },
-  "@midwayjs/cli": {
-    "1.3.13": null
-  },
   "report-status": {
     "1.0.1": null
   },
@@ -290,10 +287,10 @@
   "pet-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
   "ipv4-to-bin": {
@@ -304,6 +301,9 @@
   },
   "pkg-ok": {
     "3.0.0": null
+  },
+  "@midwayjs/cli": {
+    "1.3.14": null
   },
   "realpath": {
     "2.0.0": null
@@ -383,11 +383,11 @@
   "@mole-inc/bin-wrapper": {
     "8.0.0": null
   },
-  "egg-born-bin": {
-    "4.1.12": null
-  },
   "package-run": {
     "2.0.6": null
+  },
+  "egg-born-bin": {
+    "4.1.12": null
   },
   "vue-card-express": {
     "1.0.5": null
