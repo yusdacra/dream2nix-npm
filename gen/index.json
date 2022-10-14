@@ -12,7 +12,7 @@
     "5.0.3": null
   },
   "flow-bin": {
-    "0.189.0": null
+    "0.190.0": null
   },
   "bin-wrapper": {
     "4.1.0": null
@@ -326,6 +326,9 @@
   "cli-belt": {
     "2.0.0": null
   },
+  "@esm2cjs/execa": {
+    "6.1.1-cjs.1": null
+  },
   "ect-bin": {
     "1.4.1": null
   },
@@ -377,6 +380,9 @@
   "zfinder-utils": {
     "0.0.20160121": null
   },
+  "egg-born-bin": {
+    "4.2.0": null
+  },
   "yarn-global-modules": {
     "1.0.1": null
   },
@@ -397,9 +403,6 @@
   },
   "lancaster-stemmer": {
     "2.0.0": null
-  },
-  "egg-born-bin": {
-    "4.1.13": null
   },
   "line-count": {
     "0.1.0": null
@@ -436,9 +439,6 @@
   },
   "@marchyang/execa": {
     "6.0.1": null
-  },
-  "@esm2cjs/execa": {
-    "6.1.1-cjs.1": null
   },
   "bin-packer": {
     "1.7.0": null
