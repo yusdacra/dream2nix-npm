@@ -72,7 +72,7 @@
     "10.0.0": null
   },
   "purescript": {
-    "0.15.4": null
+    "0.15.5": null
   },
   "simple-bin-help": {
     "1.7.7": null
@@ -290,10 +290,10 @@
   "ipv4-to-bin": {
     "0.1.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
   "tcpip-port-to-bin": {
@@ -381,7 +381,7 @@
     "0.0.20160121": null
   },
   "egg-born-bin": {
-    "4.2.0": null
+    "4.2.1": null
   },
   "yarn-global-modules": {
     "1.0.1": null
