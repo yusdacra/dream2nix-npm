@@ -290,10 +290,10 @@
   "ipv4-to-bin": {
     "0.1.1": null
   },
-  "meow-names": {
+  "gazer-color": {
     "1.0.1": null
   },
-  "gazer-color": {
+  "meow-names": {
     "1.0.1": null
   },
   "tcpip-port-to-bin": {
@@ -356,6 +356,9 @@
   "npm-cli-path": {
     "4.0.0": null
   },
+  "egg-born-bin": {
+    "4.2.4": null
+  },
   "exec-bin": {
     "1.0.0": null
   },
@@ -379,9 +382,6 @@
   },
   "zfinder-utils": {
     "0.0.20160121": null
-  },
-  "egg-born-bin": {
-    "4.2.1": null
   },
   "yarn-global-modules": {
     "1.0.1": null
